@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1049242271729594398",
+    "smallImageText": "하나비 서버",
+    "smallImageKey": "logo"
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "1.12.2 / hanavi.kro.kr",
+        "largeImageText": "1.12.2 / hanavi.kro.kr",
+        "largeImageKey": "logo"
       },
       "mainServer": false,
       "autoconnect": false,
