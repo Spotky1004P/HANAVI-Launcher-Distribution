@@ -13,7 +13,7 @@
       "description": "hanavi Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": "https://raw.githubusercontent.com/Spotky1004P/HANAVI-Launcher/main/app/assets/images/custom/logo.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "hanavi.kro.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "1.12.2 / hanavi.kro.kr",
