@@ -11,7 +11,7 @@
       "id": "hanavi-1.12.2",
       "name": "hanavi (Minecraft 1.12.2)",
       "description": "hanavi Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Spotky1004P/HANAVI-Launcher/main/app/assets/images/custom/logo.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
@@ -20,7 +20,7 @@
         "largeImageText": "1.12.2 / hanavi.kro.kr",
         "largeImageKey": "logo"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
