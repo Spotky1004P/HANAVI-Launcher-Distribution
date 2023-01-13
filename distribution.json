@@ -264,6 +264,4303 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.forgemod:automobilwerke_schwikau_veb:1971_march_2nd@jar",
+          "name": "Automobilwerke_Schwikau_VEB",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 56240817,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/Automobilwerke_Schwikau_VEB-1971_march_2nd.jar",
+            "MD5": "70828ef7d880087d06bc0f34c9db2cd4"
+          }
+        },
+        {
+          "id": "lumien.custommainmenu:custommainmenu:2.0.9.1@jar",
+          "name": "Custom Main Menu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91121,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+            "MD5": "c12200ad89f9399d5bdcbe9da7900bb9"
+          }
+        },
+        {
+          "id": "noppes.npcs:customnpcs:1.12@jar",
+          "name": "CustomNPCs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9911871,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
+            "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+          }
+        },
+        {
+          "id": "com.snuri:customsound:1.1.0@jar",
+          "name": "CustomSound",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 35785,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/CustomSound-1.12.2_1.1.0.jar",
+            "MD5": "11ab380da87a6d6384585f18cf388aa3"
+          }
+        },
+        {
+          "id": "com.snuri:customview:1.1.1@jar",
+          "name": "CustomView",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 274339,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/CustomView-1.12.2_1.1.1.jar",
+            "MD5": "a3cd7fc85bb3f9d29f545577b5a93943"
+          }
+        },
+        {
+          "id": "mchorse.emoticons:emoticons:1.1.1-1.12.2@jar",
+          "name": "Emoticons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2050306,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/emoticons-1.1.1-1.12.2.jar",
+            "MD5": "1768885e40af586690cad27a5733a2cc"
+          }
+        },
+        {
+          "id": "generated.forgemod:generals_general_vehicles_2.1.2:0.0.0@jar",
+          "name": "Generals_General_Vehicles_2.1.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 64706407,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/Generals_General_Vehicles_2.1.2.jar",
+            "MD5": "9d6d4989e2504824124ccbd90215f4cf"
+          }
+        },
+        {
+          "id": "net.mcreator.busagwan:shokotest3:1.0.0@jar",
+          "name": "Shokotest3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 394454,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/hanavicloset.jar",
+            "MD5": "ed95ada21f438804dee9eae4d5be8188"
+          }
+        },
+        {
+          "id": "generated.forgemod:iav_parts_pack_1.0.0:0.0.0@jar",
+          "name": "IAV_Parts_Pack_1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28458183,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/IAV_Parts_Pack_1.0.0.jar",
+            "MD5": "471a8600df258156a167c6daceccd4fb"
+          }
+        },
+        {
+          "id": "mcinterface1122:mts:22.5.0-BETA@jar",
+          "name": "Immersive Vehicles (formerly MTS)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5109229,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/Immersive+Vehicles-1.12.2-22.5.0.jar",
+            "MD5": "a9f9491e288df0e3f3749d78d328165b"
+          }
+        },
+        {
+          "id": "mchorse.mclib:mclib:2.4.1-1.12.2@jar",
+          "name": "McLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 737227,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/mclib-2.4.1-1.12.2.jar",
+            "MD5": "cb07b8af714bcd966c87707b165a87fa"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2669107,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
+          }
+        },
+        {
+          "id": "com.pam:harvestcraft:1.12.2zg@jar",
+          "name": "Pam's HarvestCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4912890,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/Pam's+HarvestCraft+1.12.2zg.jar",
+            "MD5": "e8e1ac67accdeea50116e1e92e592397"
+          }
+        },
+        {
+          "id": "lumien.resourceloader:resourceloader:1.5.3@jar",
+          "name": "Resource Loader",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16612,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/ResourceLoader-MC1.12.1-1.5.3.jar",
+            "MD5": "51141e882f96ce756b9b3d25f2acdf57"
+          }
+        },
+        {
+          "id": "com.bear.rojiura:rojiuramod:1.12.2_0.1.4.a@jar",
+          "name": "Rojiura Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4072608,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/forgemods/required/rojiuramod-1.12.2_0.1.4.a.jar",
+            "MD5": "5a2c5da4645273d8677ccd5109796d81"
+          }
+        },
+        {
+          "id": "mainmenu.json",
+          "name": "mainmenu.json",
+          "type": "File",
+          "artifact": {
+            "size": 4822,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/CustomMainMenu/mainmenu.json",
+            "MD5": "fc3583a3d8e46b9deafd224d8d951859",
+            "path": "config/CustomMainMenu/mainmenu.json"
+          }
+        },
+        {
+          "id": "CustomNpcs.cfg",
+          "name": "CustomNpcs.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1551,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/CustomNpcs.cfg",
+            "MD5": "701be8e8a918ec1bcd81906e4d539939",
+            "path": "config/CustomNpcs.cfg"
+          }
+        },
+        {
+          "id": "EffortlessBuilding.cfg",
+          "name": "EffortlessBuilding.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 2868,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/EffortlessBuilding.cfg",
+            "MD5": "5e535cff62d242619a9f39b2ab5a836c",
+            "path": "config/EffortlessBuilding.cfg"
+          }
+        },
+        {
+          "id": "ModernWarfare.cfg",
+          "name": "ModernWarfare.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1360,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/ModernWarfare.cfg",
+            "MD5": "1e9f2f28d0e7a5598e394ad0c542289f",
+            "path": "config/ModernWarfare.cfg"
+          }
+        },
+        {
+          "id": "AssemblePriority.cfg",
+          "name": "AssemblePriority.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1674,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/MovingWorld/AssemblePriority.cfg",
+            "MD5": "093444b1400efb6d68670f473dfe46a0",
+            "path": "config/MovingWorld/AssemblePriority.cfg"
+          }
+        },
+        {
+          "id": "Main.cfg",
+          "name": "Main.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 5909,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/MovingWorld/Main.cfg",
+            "MD5": "384ccedd564e351e1fc0af75c1880bb4",
+            "path": "config/MovingWorld/Main.cfg"
+          }
+        },
+        {
+          "id": "RailsOfWar.cfg",
+          "name": "RailsOfWar.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1272,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/RailsOfWar.cfg",
+            "MD5": "c5a852b3ab870da40bb89ad62c3471f7",
+            "path": "config/RailsOfWar.cfg"
+          }
+        },
+        {
+          "id": "VariedCommodities.cfg",
+          "name": "VariedCommodities.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 142,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/VariedCommodities.cfg",
+            "MD5": "6b1d67f83745ba596066c03ba44db81d",
+            "path": "config/VariedCommodities.cfg"
+          }
+        },
+        {
+          "id": "client.cfg",
+          "name": "client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 7410,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/armourers_workshop/client.cfg",
+            "MD5": "40214565ba68886c92184f6318736182",
+            "path": "config/armourers_workshop/client.cfg"
+          }
+        },
+        {
+          "id": "common.cfg",
+          "name": "common.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 9063,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/armourers_workshop/common.cfg",
+            "MD5": "a3dda48d727c0300ae038312d988a929",
+            "path": "config/armourers_workshop/common.cfg"
+          }
+        },
+        {
+          "id": "overrides.cfg",
+          "name": "overrides.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1181,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/armourers_workshop/overrides.cfg",
+            "MD5": "848fb95ca22c35348200e45375d2c05c",
+            "path": "config/armourers_workshop/overrides.cfg"
+          }
+        },
+        {
+          "id": "asphaltmod.cfg",
+          "name": "asphaltmod.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1289,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/asphaltmod.cfg",
+            "MD5": "9c082211cf8fa2117713184aa234d0fd",
+            "path": "config/asphaltmod.cfg"
+          }
+        },
+        {
+          "id": "bibliocraft.cfg",
+          "name": "bibliocraft.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 5418,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/bibliocraft.cfg",
+            "MD5": "afe4ef60ad54a92dc0f74461078e79a0",
+            "path": "config/bibliocraft.cfg"
+          }
+        },
+        {
+          "id": "blockpalette.cfg",
+          "name": "blockpalette.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 461,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/blockpalette.cfg",
+            "MD5": "61b8ef5a77ca13566016caf82ad44bb4",
+            "path": "config/blockpalette.cfg"
+          }
+        },
+        {
+          "id": "camera.cfg",
+          "name": "camera.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 298,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/camera.cfg",
+            "MD5": "e9d17461637b889377b923f1229a6f74",
+            "path": "config/camera.cfg"
+          }
+        },
+        {
+          "id": "cfm.cfg",
+          "name": "cfm.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 7668,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/cfm.cfg",
+            "MD5": "ef65a5b7c50219accb2b2c6356acef1f",
+            "path": "config/cfm.cfg"
+          }
+        },
+        {
+          "id": "chiselsandbits.cfg",
+          "name": "chiselsandbits.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 7973,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/chiselsandbits.cfg",
+            "MD5": "0a88ef646bf5f4fb3045a968eefab3cc",
+            "path": "config/chiselsandbits.cfg"
+          }
+        },
+        {
+          "id": "chiselsandbits_clipboard.cfg",
+          "name": "chiselsandbits_clipboard.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 61467,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/chiselsandbits_clipboard.cfg",
+            "MD5": "b91d274a4d297f4efb1db43c8eb58cef",
+            "path": "config/chiselsandbits_clipboard.cfg"
+          }
+        },
+        {
+          "id": "crackedzombiemod.cfg",
+          "name": "crackedzombiemod.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 4627,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/crackedzombiemod.cfg",
+            "MD5": "09dc38202ea3d236b5097686fa82f380",
+            "path": "config/crackedzombiemod.cfg"
+          }
+        },
+        {
+          "id": "ctm.cfg",
+          "name": "ctm.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 240,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/ctm.cfg",
+            "MD5": "ca9092804c3d5576e34098746b2843ff",
+            "path": "config/ctm.cfg"
+          }
+        },
+        {
+          "id": "davincisvessels.cfg",
+          "name": "davincisvessels.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1179,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/davincisvessels.cfg",
+            "MD5": "96a961c39f61dbe5292540e884fa4a5d",
+            "path": "config/davincisvessels.cfg"
+          }
+        },
+        {
+          "id": "decocraft.cfg",
+          "name": "decocraft.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 214,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/decocraft.cfg",
+            "MD5": "420b780ccc54113f59d16f998bf1daec",
+            "path": "config/decocraft.cfg"
+          }
+        },
+        {
+          "id": "dimensions.json",
+          "name": "dimensions.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/dynamictrees/dimensions.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/dynamictrees/dimensions.json"
+          }
+        },
+        {
+          "id": "worldgen.json",
+          "name": "worldgen.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/dynamictrees/worldgen.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/dynamictrees/worldgen.json"
+          }
+        },
+        {
+          "id": "dynamictrees.cfg",
+          "name": "dynamictrees.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 4609,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/dynamictrees.cfg",
+            "MD5": "5610bec3358eab5feb4570f2cdd82090",
+            "path": "config/dynamictrees.cfg"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 268,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/emoticons/config.json",
+            "MD5": "217d44f86d4e1c7e27a13799d81f2502",
+            "path": "config/emoticons/config.json"
+          }
+        },
+        {
+          "id": "keys.json",
+          "name": "keys.json",
+          "type": "File",
+          "artifact": {
+            "size": 119,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/emoticons/keys.json",
+            "MD5": "0b6e0b9edadf9abc888ac703a5115a35",
+            "path": "config/emoticons/keys.json"
+          }
+        },
+        {
+          "id": "epicfight-client.toml",
+          "name": "epicfight-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 363,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/epicfight-client.toml",
+            "MD5": "c888f2db4e1ff08080e550780de61f0c",
+            "path": "config/epicfight-client.toml"
+          }
+        },
+        {
+          "id": "epicfight.toml",
+          "name": "epicfight.toml",
+          "type": "File",
+          "artifact": {
+            "size": 656,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/epicfight.toml",
+            "MD5": "9a1a28fb2b2fd3b22e0f24584c46fc5f",
+            "path": "config/epicfight.toml"
+          }
+        },
+        {
+          "id": "extendedpasupport-client.toml",
+          "name": "extendedpasupport-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 216,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/extendedpasupport-client.toml",
+            "MD5": "d8f8229e30628f88c215ded2c67f1ec3",
+            "path": "config/extendedpasupport-client.toml"
+          }
+        },
+        {
+          "id": "fairylights.cfg",
+          "name": "fairylights.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 261,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/fairylights.cfg",
+            "MD5": "924438e38169042d4cdf384e0a05122b",
+            "path": "config/fairylights.cfg"
+          }
+        },
+        {
+          "id": "farmersdelight-client.toml",
+          "name": "farmersdelight-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 244,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/farmersdelight-client.toml",
+            "MD5": "cc31bb24e5135cded0c8867523bf9c77",
+            "path": "config/farmersdelight-client.toml"
+          }
+        },
+        {
+          "id": "farmersdelight-common.toml",
+          "name": "farmersdelight-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3950,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/farmersdelight-common.toml",
+            "MD5": "32b20aac3559b75ae7a863a33b7ec458",
+            "path": "config/farmersdelight-common.toml"
+          }
+        },
+        {
+          "id": "flammpfeil.slashblade.cfg",
+          "name": "flammpfeil.slashblade.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 5579,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/flammpfeil.slashblade.cfg",
+            "MD5": "9f8f866570cd569f15292a602015e690",
+            "path": "config/flammpfeil.slashblade.cfg"
+          }
+        },
+        {
+          "id": "flansmod.cfg",
+          "name": "flansmod.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 5361,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/flansmod.cfg",
+            "MD5": "90bdfb29e50ab674b6f94239b01022e2",
+            "path": "config/flansmod.cfg"
+          }
+        },
+        {
+          "id": "flansmodapocalypse.cfg",
+          "name": "flansmodapocalypse.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1519,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/flansmodapocalypse.cfg",
+            "MD5": "27c96e8b561d048c27a2bc7d0eabfeb0",
+            "path": "config/flansmodapocalypse.cfg"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 242,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/fml.toml",
+            "MD5": "5961f97ddaa04677acd58a89aaf3826c",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "forge-client.toml",
+          "name": "forge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1227,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/forge-client.toml",
+            "MD5": "58c831025fffbdb805688610e482426d",
+            "path": "config/forge-client.toml"
+          }
+        },
+        {
+          "id": "forge-common.toml",
+          "name": "forge-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 310,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/forge-common.toml",
+            "MD5": "94977d1b9c60ebe6f0cfc34c0bbaa8c8",
+            "path": "config/forge-common.toml"
+          }
+        },
+        {
+          "id": "forge.cfg",
+          "name": "forge.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 3955,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/forge.cfg",
+            "MD5": "bee77d51b82699b95bf5c02788f654fb",
+            "path": "config/forge.cfg"
+          }
+        },
+        {
+          "id": "forgeChunkLoading.cfg",
+          "name": "forgeChunkLoading.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 2229,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/forgeChunkLoading.cfg",
+            "MD5": "42582af0e49f42097d68ad5e4bf46575",
+            "path": "config/forgeChunkLoading.cfg"
+          }
+        },
+        {
+          "id": "harvestcraft.cfg",
+          "name": "harvestcraft.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 14552,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/harvestcraft.cfg",
+            "MD5": "53e97481765da2ed539f12a9781413c9",
+            "path": "config/harvestcraft.cfg"
+          }
+        },
+        {
+          "id": "harvestcraft_fruittree.cfg",
+          "name": "harvestcraft_fruittree.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 64386,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/harvestcraft_fruittree.cfg",
+            "MD5": "917458be65180e6617528f0a0ed12a36",
+            "path": "config/harvestcraft_fruittree.cfg"
+          }
+        },
+        {
+          "id": "heroesexpansion.cfg",
+          "name": "heroesexpansion.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1864,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/heroesexpansion.cfg",
+            "MD5": "0782d6d39cd09966b8b81f9e4290ae4d",
+            "path": "config/heroesexpansion.cfg"
+          }
+        },
+        {
+          "id": "immersiveengineering.cfg",
+          "name": "immersiveengineering.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 26189,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/immersiveengineering.cfg",
+            "MD5": "22955e1e3b2e2422c57783f6e51d5fa6",
+            "path": "config/immersiveengineering.cfg"
+          }
+        },
+        {
+          "id": "immersiverailroading.cfg",
+          "name": "immersiverailroading.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 6508,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/immersiverailroading.cfg",
+            "MD5": "611b710564c5afa85d612fe8d0ab7ef5",
+            "path": "config/immersiverailroading.cfg"
+          }
+        },
+        {
+          "id": "immersiverailroading_graphics.cfg",
+          "name": "immersiverailroading_graphics.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 638,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/immersiverailroading_graphics.cfg",
+            "MD5": "24824c76a9f8d21249e252de5501a00a",
+            "path": "config/immersiverailroading_graphics.cfg"
+          }
+        },
+        {
+          "id": "immersiverailroading_sound.cfg",
+          "name": "immersiverailroading_sound.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 372,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/immersiverailroading_sound.cfg",
+            "MD5": "b53363b63097e5052050cd2403d0519b",
+            "path": "config/immersiverailroading_sound.cfg"
+          }
+        },
+        {
+          "id": "itemBlacklist.cfg",
+          "name": "itemBlacklist.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 679,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/jei/itemBlacklist.cfg",
+            "MD5": "d1aa29b95c320167bb4a663534b04114",
+            "path": "config/jei/itemBlacklist.cfg"
+          }
+        },
+        {
+          "id": "jei.cfg",
+          "name": "jei.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 3173,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/jei/jei.cfg",
+            "MD5": "14b22f29f7c07bc435cb7de1f33fb421",
+            "path": "config/jei/jei.cfg"
+          }
+        },
+        {
+          "id": "searchColors.cfg",
+          "name": "searchColors.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1994,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/jei/searchColors.cfg",
+            "MD5": "585c420ac4e5433c27837a588927a0c0",
+            "path": "config/jei/searchColors.cfg"
+          }
+        },
+        {
+          "id": "worldSettings.cfg",
+          "name": "worldSettings.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1529,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/jei/worldSettings.cfg",
+            "MD5": "7961912d048ec734b98fac85e960002a",
+            "path": "config/jei/worldSettings.cfg"
+          }
+        },
+        {
+          "id": "koreanchat.cfg",
+          "name": "koreanchat.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 60,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/koreanchat.cfg",
+            "MD5": "2af6920a74e7f6a7ca6a314fc9328829",
+            "path": "config/koreanchat.cfg"
+          }
+        },
+        {
+          "id": "general.cfg",
+          "name": "general.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 4223,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/general.cfg",
+            "MD5": "fa10e5bcad914a7240e32ff1b2c5d76f",
+            "path": "config/lostcities/general.cfg"
+          }
+        },
+        {
+          "id": "profile_ancient.cfg",
+          "name": "profile_ancient.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21579,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_ancient.cfg",
+            "MD5": "d4e49de3a558086587dd9f0ff988d268",
+            "path": "config/lostcities/profile_ancient.cfg"
+          }
+        },
+        {
+          "id": "profile_atlantis.cfg",
+          "name": "profile_atlantis.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21226,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_atlantis.cfg",
+            "MD5": "552c78f4302da831c72707441cd2a428",
+            "path": "config/lostcities/profile_atlantis.cfg"
+          }
+        },
+        {
+          "id": "profile_bio_wasteland.cfg",
+          "name": "profile_bio_wasteland.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21441,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_bio_wasteland.cfg",
+            "MD5": "13a44c28f7328727b9b678215235b149",
+            "path": "config/lostcities/profile_bio_wasteland.cfg"
+          }
+        },
+        {
+          "id": "profile_biosphere.cfg",
+          "name": "profile_biosphere.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21509,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_biosphere.cfg",
+            "MD5": "684ec46add9f036a353357e850f6cc45",
+            "path": "config/lostcities/profile_biosphere.cfg"
+          }
+        },
+        {
+          "id": "profile_cavern.cfg",
+          "name": "profile_cavern.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21410,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_cavern.cfg",
+            "MD5": "44953a1f63a19b91d5827cb0c2077311",
+            "path": "config/lostcities/profile_cavern.cfg"
+          }
+        },
+        {
+          "id": "profile_chisel.cfg",
+          "name": "profile_chisel.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21208,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_chisel.cfg",
+            "MD5": "4aeea3d52702ede3874068b6e6b8bd77",
+            "path": "config/lostcities/profile_chisel.cfg"
+          }
+        },
+        {
+          "id": "profile_default.cfg",
+          "name": "profile_default.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21227,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_default.cfg",
+            "MD5": "4793a7694f6727834a689bbc27b56ce3",
+            "path": "config/lostcities/profile_default.cfg"
+          }
+        },
+        {
+          "id": "profile_floating.cfg",
+          "name": "profile_floating.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21316,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_floating.cfg",
+            "MD5": "4defc91c0613933a93ebdbcf1c9d6c8e",
+            "path": "config/lostcities/profile_floating.cfg"
+          }
+        },
+        {
+          "id": "profile_nodamage.cfg",
+          "name": "profile_nodamage.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21353,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_nodamage.cfg",
+            "MD5": "57a161b96c33d75f8318e360852a5872",
+            "path": "config/lostcities/profile_nodamage.cfg"
+          }
+        },
+        {
+          "id": "profile_onlycities.cfg",
+          "name": "profile_onlycities.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21254,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_onlycities.cfg",
+            "MD5": "25baa86dbd8f613fe25b8bd49463ef95",
+            "path": "config/lostcities/profile_onlycities.cfg"
+          }
+        },
+        {
+          "id": "profile_rarecities.cfg",
+          "name": "profile_rarecities.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21234,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_rarecities.cfg",
+            "MD5": "2efb976b0367d4c6fcfe3389a14b9fbf",
+            "path": "config/lostcities/profile_rarecities.cfg"
+          }
+        },
+        {
+          "id": "profile_realistic.cfg",
+          "name": "profile_realistic.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 24297,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_realistic.cfg",
+            "MD5": "e6928ebe403a1c0e6f60b4ff246acbe7",
+            "path": "config/lostcities/profile_realistic.cfg"
+          }
+        },
+        {
+          "id": "profile_safe.cfg",
+          "name": "profile_safe.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21164,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_safe.cfg",
+            "MD5": "e6147d1cb07200e5f51ea1d28836f1b3",
+            "path": "config/lostcities/profile_safe.cfg"
+          }
+        },
+        {
+          "id": "profile_space.cfg",
+          "name": "profile_space.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21265,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_space.cfg",
+            "MD5": "b3ddae540232fd593d485186618c51bc",
+            "path": "config/lostcities/profile_space.cfg"
+          }
+        },
+        {
+          "id": "profile_tallbuildings.cfg",
+          "name": "profile_tallbuildings.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21349,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_tallbuildings.cfg",
+            "MD5": "39159f958a08c383a6c57223358482b0",
+            "path": "config/lostcities/profile_tallbuildings.cfg"
+          }
+        },
+        {
+          "id": "profile_wasteland.cfg",
+          "name": "profile_wasteland.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21629,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_wasteland.cfg",
+            "MD5": "59c28d9164337e2e3e52210a98f8e050",
+            "path": "config/lostcities/profile_wasteland.cfg"
+          }
+        },
+        {
+          "id": "profile_water_empty.cfg",
+          "name": "profile_water_empty.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21239,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_water_empty.cfg",
+            "MD5": "236cec21444ce8ededf63c14878ec574",
+            "path": "config/lostcities/profile_water_empty.cfg"
+          }
+        },
+        {
+          "id": "profile_waterbubbles.cfg",
+          "name": "profile_waterbubbles.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 21408,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lostcities/profile_waterbubbles.cfg",
+            "MD5": "fc27514f35ce1ad678fc2d734f9a0039",
+            "path": "config/lostcities/profile_waterbubbles.cfg"
+          }
+        },
+        {
+          "id": "lucraftcore.cfg",
+          "name": "lucraftcore.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 4398,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/lucraftcore.cfg",
+            "MD5": "1663fd899f124b1592d21c8a4ca59983",
+            "path": "config/lucraftcore.cfg"
+          }
+        },
+        {
+          "id": "mahoutsukai.cfg",
+          "name": "mahoutsukai.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 30823,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mahoutsukai.cfg",
+            "MD5": "a47fa1b563e0dd1db879de58de7b7e29",
+            "path": "config/mahoutsukai.cfg"
+          }
+        },
+        {
+          "id": "mcef.cfg",
+          "name": "mcef.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1357,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mcef.cfg",
+            "MD5": "786a33c5f345c47c6b3ae2acbb28e9a8",
+            "path": "config/mcef.cfg"
+          }
+        },
+        {
+          "id": "mcefFiles.lst",
+          "name": "mcefFiles.lst",
+          "type": "File",
+          "artifact": {
+            "size": 1664,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mcefFiles.lst",
+            "MD5": "a7d5663ffe2e9a5f6e56d32140cd65d6",
+            "path": "config/mcefFiles.lst"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 970,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mclib/config.json",
+            "MD5": "2463fb2964095aaa5f63b7a0592503b5",
+            "path": "config/mclib/config.json"
+          }
+        },
+        {
+          "id": "keybinds.json",
+          "name": "keybinds.json",
+          "type": "File",
+          "artifact": {
+            "size": 1012,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mclib/keybinds.json",
+            "MD5": "61643ce72f8f69eaf9642945cce1c4b3",
+            "path": "config/mclib/keybinds.json"
+          }
+        },
+        {
+          "id": "op_access.json",
+          "name": "op_access.json",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mclib/op_access.json",
+            "MD5": "db4457e13f06dcc046de5399189acced",
+            "path": "config/mclib/op_access.json"
+          }
+        },
+        {
+          "id": "mineminenomi-client.toml",
+          "name": "mineminenomi-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 573,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mineminenomi-client.toml",
+            "MD5": "d37ae4b2cad7c04532ec07b61faec205",
+            "path": "config/mineminenomi-client.toml"
+          }
+        },
+        {
+          "id": "mineminenomi-common.toml",
+          "name": "mineminenomi-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 14009,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mineminenomi-common.toml",
+            "MD5": "177a1c16528659e6a89bae4cc7a7e33c",
+            "path": "config/mineminenomi-common.toml"
+          }
+        },
+        {
+          "id": "minewatch.cfg",
+          "name": "minewatch.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 13386,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/minewatch.cfg",
+            "MD5": "605afa3348d878aff23f2ecf3b4dd387",
+            "path": "config/minewatch.cfg"
+          }
+        },
+        {
+          "id": "asset_manifest.json",
+          "name": "asset_manifest.json",
+          "type": "File",
+          "artifact": {
+            "size": 424,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mobends/asset_manifest.json",
+            "MD5": "37dd1eb2e779069f4f0f14ec35f22379",
+            "path": "config/mobends/asset_manifest.json"
+          }
+        },
+        {
+          "id": "accessory_rulers_crown.json",
+          "name": "accessory_rulers_crown.json",
+          "type": "File",
+          "artifact": {
+            "size": 7375,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mobends/assets/models/accessory_rulers_crown.json",
+            "MD5": "6942c9bd43d4e7c5c624c77be42a56b7",
+            "path": "config/mobends/assets/models/accessory_rulers_crown.json"
+          }
+        },
+        {
+          "id": "accessory_rulers_crown_diffuse.png",
+          "name": "accessory_rulers_crown_diffuse.png",
+          "type": "File",
+          "artifact": {
+            "size": 1691,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mobends/assets/textures/accessory_rulers_crown_diffuse.png",
+            "MD5": "d648d115aa1c3eb9c3ea1ac1705d2c35",
+            "path": "config/mobends/assets/textures/accessory_rulers_crown_diffuse.png"
+          }
+        },
+        {
+          "id": "accessory_rulers_crown_inked.png",
+          "name": "accessory_rulers_crown_inked.png",
+          "type": "File",
+          "artifact": {
+            "size": 1703,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mobends/assets/textures/accessory_rulers_crown_inked.png",
+            "MD5": "8ad46eb4c529d307e09f5c346b3f78e6",
+            "path": "config/mobends/assets/textures/accessory_rulers_crown_inked.png"
+          }
+        },
+        {
+          "id": "mobends.cfg",
+          "name": "mobends.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 628,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mobends.cfg",
+            "MD5": "87e149c4ebb24334281116ea1bd8c621",
+            "path": "config/mobends.cfg"
+          }
+        },
+        {
+          "id": "mtsconfig.json",
+          "name": "mtsconfig.json",
+          "type": "File",
+          "artifact": {
+            "size": 11610,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mtsconfig.json",
+            "MD5": "dbab3dd604c968d0120823d179fe7ed3",
+            "path": "config/mtsconfig.json"
+          }
+        },
+        {
+          "id": "mtsconfigclient.json",
+          "name": "mtsconfigclient.json",
+          "type": "File",
+          "artifact": {
+            "size": 16980,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mtsconfigclient.json",
+            "MD5": "0a98407ae1da48ae6359382de8d472a2",
+            "path": "config/mtsconfigclient.json"
+          }
+        },
+        {
+          "id": "mtslanguage_en_us.json",
+          "name": "mtslanguage_en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 63249,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mtslanguage_en_us.json",
+            "MD5": "c260339184c5e282ae38576de6abbaca",
+            "path": "config/mtslanguage_en_us.json"
+          }
+        },
+        {
+          "id": "mtslanguage_ko_kr.json",
+          "name": "mtslanguage_ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 297475,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mtslanguage_ko_kr.json",
+            "MD5": "8b1e256c5f7ca0ef9007590ec87575c9",
+            "path": "config/mtslanguage_ko_kr.json"
+          }
+        },
+        {
+          "id": "mumblelink-client.toml",
+          "name": "mumblelink-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 216,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/mumblelink-client.toml",
+            "MD5": "d8f8229e30628f88c215ded2c67f1ec3",
+            "path": "config/mumblelink-client.toml"
+          }
+        },
+        {
+          "id": "ngtlib.cfg",
+          "name": "ngtlib.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 235,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/ngtlib.cfg",
+            "MD5": "bc5c7d331830017cc56c414130b5f712",
+            "path": "config/ngtlib.cfg"
+          }
+        },
+        {
+          "id": "ptrmodellib.cfg",
+          "name": "ptrmodellib.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/ptrmodellib.cfg",
+            "MD5": "2eb45bb2aa31cce033460493924bf579",
+            "path": "config/ptrmodellib.cfg"
+          }
+        },
+        {
+          "id": "rtm.cfg",
+          "name": "rtm.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1071,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/rtm.cfg",
+            "MD5": "a87efc371a135b7893810a6ec620bab3",
+            "path": "config/rtm.cfg"
+          }
+        },
+        {
+          "id": "shouldersurfing.cfg",
+          "name": "shouldersurfing.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 2724,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/shouldersurfing.cfg",
+            "MD5": "91ea20f5cc5cab68f6c396c4ed8d68b2",
+            "path": "config/shouldersurfing.cfg"
+          }
+        },
+        {
+          "id": "shouldersurfing.toml",
+          "name": "shouldersurfing.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3668,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/shouldersurfing.toml",
+            "MD5": "aa721ce298c08e2550afd97a93b9db3f",
+            "path": "config/shouldersurfing.toml"
+          }
+        },
+        {
+          "id": "somanyenchantments.cfg",
+          "name": "somanyenchantments.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 14187,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/somanyenchantments.cfg",
+            "MD5": "f6644461bd92599d552bbbce8d6f09cd",
+            "path": "config/somanyenchantments.cfg"
+          }
+        },
+        {
+          "id": "splash.properties",
+          "name": "splash.properties",
+          "type": "File",
+          "artifact": {
+            "size": 418,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/splash.properties",
+            "MD5": "2be59236aa3a3394cebdbec97ad1691c",
+            "path": "config/splash.properties"
+          }
+        },
+        {
+          "id": "universalmodcore.cfg",
+          "name": "universalmodcore.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 293,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/universalmodcore.cfg",
+            "MD5": "3f39e4b6f5987562b84c18fe93967154",
+            "path": "config/universalmodcore.cfg"
+          }
+        },
+        {
+          "id": "valkyrienskies.cfg",
+          "name": "valkyrienskies.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 5509,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/valkyrienskies.cfg",
+            "MD5": "7420a71c9ed6a1bfcffe984848f10da9",
+            "path": "config/valkyrienskies.cfg"
+          }
+        },
+        {
+          "id": "vehicle.cfg",
+          "name": "vehicle.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 5684,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/vehicle.cfg",
+            "MD5": "cfce48b9024990a4def7679799c7b627",
+            "path": "config/vehicle.cfg"
+          }
+        },
+        {
+          "id": "webdisplays.cfg",
+          "name": "webdisplays.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1791,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/webdisplays.cfg",
+            "MD5": "c61c7d1e653d5b23865a233646ac07c9",
+            "path": "config/webdisplays.cfg"
+          }
+        },
+        {
+          "id": "fspawn33.schematic",
+          "name": "fspawn33.schematic",
+          "type": "File",
+          "artifact": {
+            "size": 1796581,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/worldedit/schematics/fspawn33.schematic",
+            "MD5": "d15f15db69ac1b965a77784b91e7b3ea",
+            "path": "config/worldedit/schematics/fspawn33.schematic"
+          }
+        },
+        {
+          "id": "worldedit.properties",
+          "name": "worldedit.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1056,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/config/worldedit/worldedit.properties",
+            "MD5": "94825954883ead5ef9e927fccbbcec48",
+            "path": "config/worldedit/worldedit.properties"
+          }
+        },
+        {
+          "id": "ALZ321D.tmp",
+          "name": "ALZ321D.tmp",
+          "type": "File",
+          "artifact": {
+            "size": 87052230,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/ALZ321D.tmp",
+            "MD5": "91e0ab80a9b94edb1971ded929253143",
+            "path": "mods/ALZ321D.tmp"
+          }
+        },
+        {
+          "id": "ALZC0B5.tmp",
+          "name": "ALZC0B5.tmp",
+          "type": "File",
+          "artifact": {
+            "size": 87052230,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/ALZC0B5.tmp",
+            "MD5": "91e0ab80a9b94edb1971ded929253143",
+            "path": "mods/ALZC0B5.tmp"
+          }
+        },
+        {
+          "id": "arrow_left_clicked.png",
+          "name": "arrow_left_clicked.png",
+          "type": "File",
+          "artifact": {
+            "size": 364,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/arrow_left_clicked.png",
+            "MD5": "eb4e5e0078f3ab34b55cef25438e8fc3",
+            "path": "mods/CustomShop/arrow_left_clicked.png"
+          }
+        },
+        {
+          "id": "arrow_left_disabled.png",
+          "name": "arrow_left_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 226,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/arrow_left_disabled.png",
+            "MD5": "5394095c1420c0928b27edafca98ad28",
+            "path": "mods/CustomShop/arrow_left_disabled.png"
+          }
+        },
+        {
+          "id": "arrow_left_focused.png",
+          "name": "arrow_left_focused.png",
+          "type": "File",
+          "artifact": {
+            "size": 244,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/arrow_left_focused.png",
+            "MD5": "03bcf1db9ee588bf2c59fcfa0be69830",
+            "path": "mods/CustomShop/arrow_left_focused.png"
+          }
+        },
+        {
+          "id": "arrow_left_idle.png",
+          "name": "arrow_left_idle.png",
+          "type": "File",
+          "artifact": {
+            "size": 229,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/arrow_left_idle.png",
+            "MD5": "273fd8d5a73baa4204922d0c40ab2422",
+            "path": "mods/CustomShop/arrow_left_idle.png"
+          }
+        },
+        {
+          "id": "arrow_right_clicked.png",
+          "name": "arrow_right_clicked.png",
+          "type": "File",
+          "artifact": {
+            "size": 378,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/arrow_right_clicked.png",
+            "MD5": "c1b07e1fef019f21129461d603d1fa14",
+            "path": "mods/CustomShop/arrow_right_clicked.png"
+          }
+        },
+        {
+          "id": "arrow_right_disabled.png",
+          "name": "arrow_right_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 247,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/arrow_right_disabled.png",
+            "MD5": "036ac92a634f0b0f04ee58ded4cc762d",
+            "path": "mods/CustomShop/arrow_right_disabled.png"
+          }
+        },
+        {
+          "id": "arrow_right_focused.png",
+          "name": "arrow_right_focused.png",
+          "type": "File",
+          "artifact": {
+            "size": 222,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/arrow_right_focused.png",
+            "MD5": "b2cf6e6d99130bb9172bf6881e578318",
+            "path": "mods/CustomShop/arrow_right_focused.png"
+          }
+        },
+        {
+          "id": "arrow_right_idle.png",
+          "name": "arrow_right_idle.png",
+          "type": "File",
+          "artifact": {
+            "size": 222,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/arrow_right_idle.png",
+            "MD5": "4cbaf485b4807e21c4fc7ad655de378e",
+            "path": "mods/CustomShop/arrow_right_idle.png"
+          }
+        },
+        {
+          "id": "button_buy_clicked.png",
+          "name": "button_buy_clicked.png",
+          "type": "File",
+          "artifact": {
+            "size": 1192,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/button_buy_clicked.png",
+            "MD5": "bb2d6bed1a0f9db069038793aa10a496",
+            "path": "mods/CustomShop/button_buy_clicked.png"
+          }
+        },
+        {
+          "id": "button_buy_disabled.png",
+          "name": "button_buy_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 702,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/button_buy_disabled.png",
+            "MD5": "5b9023cd2a2cfe0474b92c7d75c7e226",
+            "path": "mods/CustomShop/button_buy_disabled.png"
+          }
+        },
+        {
+          "id": "button_buy_focused.png",
+          "name": "button_buy_focused.png",
+          "type": "File",
+          "artifact": {
+            "size": 648,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/button_buy_focused.png",
+            "MD5": "de61973e63c6bc7c71d16bbef78cda17",
+            "path": "mods/CustomShop/button_buy_focused.png"
+          }
+        },
+        {
+          "id": "button_buy_idle.png",
+          "name": "button_buy_idle.png",
+          "type": "File",
+          "artifact": {
+            "size": 683,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/button_buy_idle.png",
+            "MD5": "ecb26793b0845e67584a517cb4c05755",
+            "path": "mods/CustomShop/button_buy_idle.png"
+          }
+        },
+        {
+          "id": "button_sell_clicked.png",
+          "name": "button_sell_clicked.png",
+          "type": "File",
+          "artifact": {
+            "size": 1318,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/button_sell_clicked.png",
+            "MD5": "a24e9b3827adc051f994c9ae450914ef",
+            "path": "mods/CustomShop/button_sell_clicked.png"
+          }
+        },
+        {
+          "id": "button_sell_disabled.png",
+          "name": "button_sell_disabled.png",
+          "type": "File",
+          "artifact": {
+            "size": 796,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/button_sell_disabled.png",
+            "MD5": "46953673c4bc344e6deb851741959488",
+            "path": "mods/CustomShop/button_sell_disabled.png"
+          }
+        },
+        {
+          "id": "button_sell_focused.png",
+          "name": "button_sell_focused.png",
+          "type": "File",
+          "artifact": {
+            "size": 1683,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/button_sell_focused.png",
+            "MD5": "178c3409c35ba136ea667446d2944973",
+            "path": "mods/CustomShop/button_sell_focused.png"
+          }
+        },
+        {
+          "id": "button_sell_idle.png",
+          "name": "button_sell_idle.png",
+          "type": "File",
+          "artifact": {
+            "size": 812,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/button_sell_idle.png",
+            "MD5": "0ad266133a82aa092ee9197527214dcc",
+            "path": "mods/CustomShop/button_sell_idle.png"
+          }
+        },
+        {
+          "id": "item_background.png",
+          "name": "item_background.png",
+          "type": "File",
+          "artifact": {
+            "size": 2381,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/item_background.png",
+            "MD5": "eb8e3ab0240c70233b604d0126d66309",
+            "path": "mods/CustomShop/item_background.png"
+          }
+        },
+        {
+          "id": "shop_background.png",
+          "name": "shop_background.png",
+          "type": "File",
+          "artifact": {
+            "size": 22149,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/shop_background.png",
+            "MD5": "dd6626fb76a11199373795929155cdb9",
+            "path": "mods/CustomShop/shop_background.png"
+          }
+        },
+        {
+          "id": "shop_background2.png",
+          "name": "shop_background2.png",
+          "type": "File",
+          "artifact": {
+            "size": 22227,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/shop_background2.png",
+            "MD5": "7a91a1f8f2c6822fc050478d89f197f6",
+            "path": "mods/CustomShop/shop_background2.png"
+          }
+        },
+        {
+          "id": "shop_buy.cfg",
+          "name": "shop_buy.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 6770,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/shop_buy.cfg",
+            "MD5": "0761441e2232ee023f99e180863c3aa1",
+            "path": "mods/CustomShop/shop_buy.cfg"
+          }
+        },
+        {
+          "id": "shop_sell.cfg",
+          "name": "shop_sell.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 6803,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/shop_sell.cfg",
+            "MD5": "b5c1896ec8143db231d8aba068875f85",
+            "path": "mods/CustomShop/shop_sell.cfg"
+          }
+        },
+        {
+          "id": "HANAVI SHOP SAMPLE.psd",
+          "name": "HANAVI SHOP SAMPLE.psd",
+          "type": "File",
+          "artifact": {
+            "size": 280478,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/%EB%B0%9C%EA%B5%AC%EC%A7%80/HANAVI%20SHOP%20SAMPLE.psd",
+            "MD5": "e8fc208a34143a820d5889ea2fa3e35a",
+            "path": "mods/CustomShop/발구지/HANAVI SHOP SAMPLE.psd"
+          }
+        },
+        {
+          "id": "HANAVI SHOP SAMPLE1.psd",
+          "name": "HANAVI SHOP SAMPLE1.psd",
+          "type": "File",
+          "artifact": {
+            "size": 281054,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/%EB%B0%9C%EA%B5%AC%EC%A7%80/HANAVI%20SHOP%20SAMPLE1.psd",
+            "MD5": "6a98c72f2855ca2c33ca1a69f61755c0",
+            "path": "mods/CustomShop/발구지/HANAVI SHOP SAMPLE1.psd"
+          }
+        },
+        {
+          "id": "HANAVI SHOP SAMPLE2.psd",
+          "name": "HANAVI SHOP SAMPLE2.psd",
+          "type": "File",
+          "artifact": {
+            "size": 280488,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/%EB%B0%9C%EA%B5%AC%EC%A7%80/HANAVI%20SHOP%20SAMPLE2.psd",
+            "MD5": "7502f145c10871005fad422ddd5e7858",
+            "path": "mods/CustomShop/발구지/HANAVI SHOP SAMPLE2.psd"
+          }
+        },
+        {
+          "id": "item_background.png",
+          "name": "item_background.png",
+          "type": "File",
+          "artifact": {
+            "size": 1162,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/%EB%B0%9C%EA%B5%AC%EC%A7%80/item_background.png",
+            "MD5": "78fc0ce97ea2376184c8592a16fb7ea8",
+            "path": "mods/CustomShop/발구지/item_background.png"
+          }
+        },
+        {
+          "id": "item_background.psd",
+          "name": "item_background.psd",
+          "type": "File",
+          "artifact": {
+            "size": 38889,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/%EB%B0%9C%EA%B5%AC%EC%A7%80/item_background.psd",
+            "MD5": "e4e7d8e35cdb36ddc220a24a88f159d6",
+            "path": "mods/CustomShop/발구지/item_background.psd"
+          }
+        },
+        {
+          "id": "shop_background.png",
+          "name": "shop_background.png",
+          "type": "File",
+          "artifact": {
+            "size": 10010,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/%EB%B0%9C%EA%B5%AC%EC%A7%80/shop_background.png",
+            "MD5": "b16256ad289a27fcc17e598edcb8df1f",
+            "path": "mods/CustomShop/발구지/shop_background.png"
+          }
+        },
+        {
+          "id": "shop_background2.png",
+          "name": "shop_background2.png",
+          "type": "File",
+          "artifact": {
+            "size": 10188,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomShop/%EB%B0%9C%EA%B5%AC%EC%A7%80/shop_background2.png",
+            "MD5": "d816bbd3b5dee69ce2fe1bd51b563315",
+            "path": "mods/CustomShop/발구지/shop_background2.png"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 407,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomSound/pack.mcmeta",
+            "MD5": "99a0c5a20967e1d2cf504e9832fb10ab",
+            "path": "mods/CustomSound/pack.mcmeta"
+          }
+        },
+        {
+          "id": "flower.ogg",
+          "name": "flower.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 42124,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomSound/sounds/flower.ogg",
+            "MD5": "dc70ed2e8a5ffc1dd1709c1d895b70f7",
+            "path": "mods/CustomSound/sounds/flower.ogg"
+          }
+        },
+        {
+          "id": "flowerreal.ogg",
+          "name": "flowerreal.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 3702761,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomSound/sounds/flowerreal.ogg",
+            "MD5": "ad27b757f31fd60d85150b4d8e99d4e9",
+            "path": "mods/CustomSound/sounds/flowerreal.ogg"
+          }
+        },
+        {
+          "id": "sounds.json",
+          "name": "sounds.json",
+          "type": "File",
+          "artifact": {
+            "size": 326,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomSound/sounds.json",
+            "MD5": "c81328ed852dcedd86e5c1ee21e16c56",
+            "path": "mods/CustomSound/sounds.json"
+          }
+        },
+        {
+          "id": "world_sounds.json",
+          "name": "world_sounds.json",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomSound/world_sounds.json",
+            "MD5": "c1f2aaa770fc24ebb1370a40017c1b54",
+            "path": "mods/CustomSound/world_sounds.json"
+          }
+        },
+        {
+          "id": "settings.json",
+          "name": "settings.json",
+          "type": "File",
+          "artifact": {
+            "size": 61,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView/settings.json",
+            "MD5": "d1fc2e268d4c60875d9ff4224e9512cd",
+            "path": "mods/CustomView/settings.json"
+          }
+        },
+        {
+          "id": "LICENSE.txt",
+          "name": "LICENSE.txt",
+          "type": "File",
+          "artifact": {
+            "size": 7651,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/LICENSE.txt",
+            "MD5": "e6a600fd5e1d9cbde2d983680233ad02",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/LICENSE.txt"
+          }
+        },
+        {
+          "id": "avcodec-59.dll",
+          "name": "avcodec-59.dll",
+          "type": "File",
+          "artifact": {
+            "size": 47107584,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/bin/avcodec-59.dll",
+            "MD5": "34145f5bdbf560c4b7153325e1ed11a3",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/bin/avcodec-59.dll"
+          }
+        },
+        {
+          "id": "avdevice-59.dll",
+          "name": "avdevice-59.dll",
+          "type": "File",
+          "artifact": {
+            "size": 1883648,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/bin/avdevice-59.dll",
+            "MD5": "6d9b6467dc434379b5ac421276648fec",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/bin/avdevice-59.dll"
+          }
+        },
+        {
+          "id": "avfilter-8.dll",
+          "name": "avfilter-8.dll",
+          "type": "File",
+          "artifact": {
+            "size": 19121152,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/bin/avfilter-8.dll",
+            "MD5": "129f5c7c49d2f661890ea226b62af6be",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/bin/avfilter-8.dll"
+          }
+        },
+        {
+          "id": "avformat-59.dll",
+          "name": "avformat-59.dll",
+          "type": "File",
+          "artifact": {
+            "size": 12451840,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/bin/avformat-59.dll",
+            "MD5": "c952bef305ac092d48188bb14cb967a3",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/bin/avformat-59.dll"
+          }
+        },
+        {
+          "id": "avutil-57.dll",
+          "name": "avutil-57.dll",
+          "type": "File",
+          "artifact": {
+            "size": 985600,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/bin/avutil-57.dll",
+            "MD5": "a2c5324d834bf551a2eb798cec8bc92e",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/bin/avutil-57.dll"
+          }
+        },
+        {
+          "id": "ffmpeg.exe",
+          "name": "ffmpeg.exe",
+          "type": "File",
+          "artifact": {
+            "size": 354816,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/bin/ffmpeg.exe",
+            "MD5": "92c826447cdcb401318b4887cdb5d34b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/bin/ffmpeg.exe"
+          }
+        },
+        {
+          "id": "ffplay.exe",
+          "name": "ffplay.exe",
+          "type": "File",
+          "artifact": {
+            "size": 1905664,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/bin/ffplay.exe",
+            "MD5": "46b1c19ec11eb84b678759ae23158628",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/bin/ffplay.exe"
+          }
+        },
+        {
+          "id": "ffprobe.exe",
+          "name": "ffprobe.exe",
+          "type": "File",
+          "artifact": {
+            "size": 192000,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/bin/ffprobe.exe",
+            "MD5": "3e8404d74375725c13d735cc4feae022",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/bin/ffprobe.exe"
+          }
+        },
+        {
+          "id": "swresample-4.dll",
+          "name": "swresample-4.dll",
+          "type": "File",
+          "artifact": {
+            "size": 602112,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/bin/swresample-4.dll",
+            "MD5": "5c08f0420a2625248805a55731300221",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/bin/swresample-4.dll"
+          }
+        },
+        {
+          "id": "swscale-6.dll",
+          "name": "swscale-6.dll",
+          "type": "File",
+          "artifact": {
+            "size": 606208,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/bin/swscale-6.dll",
+            "MD5": "a7d76a713c18d678bf5c8d2b2ce92f3f",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/bin/swscale-6.dll"
+          }
+        },
+        {
+          "id": "developer.html",
+          "name": "developer.html",
+          "type": "File",
+          "artifact": {
+            "size": 45630,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/developer.html",
+            "MD5": "2ae5c1d3a00ed00ccc7ec165abf4b855",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/developer.html"
+          }
+        },
+        {
+          "id": "faq.html",
+          "name": "faq.html",
+          "type": "File",
+          "artifact": {
+            "size": 62649,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/faq.html",
+            "MD5": "9f2094b8f3ead6979deeb0545ba5577c",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/faq.html"
+          }
+        },
+        {
+          "id": "fate.html",
+          "name": "fate.html",
+          "type": "File",
+          "artifact": {
+            "size": 15027,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/fate.html",
+            "MD5": "b7f010f35982f38c240c0f4429d32643",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/fate.html"
+          }
+        },
+        {
+          "id": "ffmpeg-all.html",
+          "name": "ffmpeg-all.html",
+          "type": "File",
+          "artifact": {
+            "size": 2373623,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-all.html",
+            "MD5": "0cd3bf814a9778692c98c8a4fe42b21f",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-all.html"
+          }
+        },
+        {
+          "id": "ffmpeg-bitstream-filters.html",
+          "name": "ffmpeg-bitstream-filters.html",
+          "type": "File",
+          "artifact": {
+            "size": 48187,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-bitstream-filters.html",
+            "MD5": "ef016623818aa93203ac54c0100cf6d4",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-bitstream-filters.html"
+          }
+        },
+        {
+          "id": "ffmpeg-codecs.html",
+          "name": "ffmpeg-codecs.html",
+          "type": "File",
+          "artifact": {
+            "size": 248212,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-codecs.html",
+            "MD5": "ae5297bcfac9c34f3d9d00cc5a3dc286",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-codecs.html"
+          }
+        },
+        {
+          "id": "ffmpeg-devices.html",
+          "name": "ffmpeg-devices.html",
+          "type": "File",
+          "artifact": {
+            "size": 112814,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-devices.html",
+            "MD5": "02d5a05268a1dc12bbe3aaa078fa5221",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-devices.html"
+          }
+        },
+        {
+          "id": "ffmpeg-filters.html",
+          "name": "ffmpeg-filters.html",
+          "type": "File",
+          "artifact": {
+            "size": 1336108,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-filters.html",
+            "MD5": "ef131a0e934a973f1beb81581c744e0b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-filters.html"
+          }
+        },
+        {
+          "id": "ffmpeg-formats.html",
+          "name": "ffmpeg-formats.html",
+          "type": "File",
+          "artifact": {
+            "size": 225687,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-formats.html",
+            "MD5": "f89a35b9191e0385c853181d41473856",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-formats.html"
+          }
+        },
+        {
+          "id": "ffmpeg-protocols.html",
+          "name": "ffmpeg-protocols.html",
+          "type": "File",
+          "artifact": {
+            "size": 96787,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-protocols.html",
+            "MD5": "4c9c0cd93082686c7586d9267065bc9e",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-protocols.html"
+          }
+        },
+        {
+          "id": "ffmpeg-resampler.html",
+          "name": "ffmpeg-resampler.html",
+          "type": "File",
+          "artifact": {
+            "size": 13993,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-resampler.html",
+            "MD5": "84d9384d45a7b9b1d001820d2aaacef1",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-resampler.html"
+          }
+        },
+        {
+          "id": "ffmpeg-scaler.html",
+          "name": "ffmpeg-scaler.html",
+          "type": "File",
+          "artifact": {
+            "size": 8542,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-scaler.html",
+            "MD5": "12c46ad9b0bd79ec86b27e1de65baa0f",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-scaler.html"
+          }
+        },
+        {
+          "id": "ffmpeg-utils.html",
+          "name": "ffmpeg-utils.html",
+          "type": "File",
+          "artifact": {
+            "size": 49949,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-utils.html",
+            "MD5": "dac90cb998d499d03fa7b0e0bc69406b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg-utils.html"
+          }
+        },
+        {
+          "id": "ffmpeg.html",
+          "name": "ffmpeg.html",
+          "type": "File",
+          "artifact": {
+            "size": 141260,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg.html",
+            "MD5": "f073c0c5e8e57bc86e139c5c8c1a60a6",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffmpeg.html"
+          }
+        },
+        {
+          "id": "ffplay-all.html",
+          "name": "ffplay-all.html",
+          "type": "File",
+          "artifact": {
+            "size": 1904542,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffplay-all.html",
+            "MD5": "fc3ea91ef6c37dc90a0ba7c9a244b5b6",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffplay-all.html"
+          }
+        },
+        {
+          "id": "ffplay.html",
+          "name": "ffplay.html",
+          "type": "File",
+          "artifact": {
+            "size": 37135,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffplay.html",
+            "MD5": "85211e830cdc21172fa408459cc5c0d4",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffplay.html"
+          }
+        },
+        {
+          "id": "ffprobe-all.html",
+          "name": "ffprobe-all.html",
+          "type": "File",
+          "artifact": {
+            "size": 1918097,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffprobe-all.html",
+            "MD5": "7b796cd4172049a89f539a96c749ded5",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffprobe-all.html"
+          }
+        },
+        {
+          "id": "ffprobe.html",
+          "name": "ffprobe.html",
+          "type": "File",
+          "artifact": {
+            "size": 50634,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/ffprobe.html",
+            "MD5": "4da97638ab7818485777b339b466e020",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/ffprobe.html"
+          }
+        },
+        {
+          "id": "general.html",
+          "name": "general.html",
+          "type": "File",
+          "artifact": {
+            "size": 115011,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/general.html",
+            "MD5": "9323f0d6f0792a74ffcbda79753e2e0a",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/general.html"
+          }
+        },
+        {
+          "id": "git-howto.html",
+          "name": "git-howto.html",
+          "type": "File",
+          "artifact": {
+            "size": 25306,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/git-howto.html",
+            "MD5": "9067231a347c00b090c3a26e8b7fce1a",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/git-howto.html"
+          }
+        },
+        {
+          "id": "libavcodec.html",
+          "name": "libavcodec.html",
+          "type": "File",
+          "artifact": {
+            "size": 3020,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/libavcodec.html",
+            "MD5": "8b0c5324d586d679578e5b06bc32b105",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/libavcodec.html"
+          }
+        },
+        {
+          "id": "libavdevice.html",
+          "name": "libavdevice.html",
+          "type": "File",
+          "artifact": {
+            "size": 2887,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/libavdevice.html",
+            "MD5": "3e8adc08a9c2316b1467be80f5367f36",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/libavdevice.html"
+          }
+        },
+        {
+          "id": "libavfilter.html",
+          "name": "libavfilter.html",
+          "type": "File",
+          "artifact": {
+            "size": 2917,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/libavfilter.html",
+            "MD5": "689612fc8c07d4b2dd67d63f1eb5ca9d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/libavfilter.html"
+          }
+        },
+        {
+          "id": "libavformat.html",
+          "name": "libavformat.html",
+          "type": "File",
+          "artifact": {
+            "size": 2983,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/libavformat.html",
+            "MD5": "e8d04d0c690312aee7adba8343c44434",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/libavformat.html"
+          }
+        },
+        {
+          "id": "libavutil.html",
+          "name": "libavutil.html",
+          "type": "File",
+          "artifact": {
+            "size": 3498,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/libavutil.html",
+            "MD5": "b5978c67c5a32f718afab6ebb09cafb1",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/libavutil.html"
+          }
+        },
+        {
+          "id": "libswresample.html",
+          "name": "libswresample.html",
+          "type": "File",
+          "artifact": {
+            "size": 3826,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/libswresample.html",
+            "MD5": "c6cbfc26323d9099abd86a30f2216d87",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/libswresample.html"
+          }
+        },
+        {
+          "id": "libswscale.html",
+          "name": "libswscale.html",
+          "type": "File",
+          "artifact": {
+            "size": 3454,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/libswscale.html",
+            "MD5": "867bf6a8a089d3491a4aaed5916420aa",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/libswscale.html"
+          }
+        },
+        {
+          "id": "mailing-list-faq.html",
+          "name": "mailing-list-faq.html",
+          "type": "File",
+          "artifact": {
+            "size": 30295,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/mailing-list-faq.html",
+            "MD5": "446cf2d7b17a3631e5a9f16ff862b528",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/mailing-list-faq.html"
+          }
+        },
+        {
+          "id": "nut.html",
+          "name": "nut.html",
+          "type": "File",
+          "artifact": {
+            "size": 11023,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/nut.html",
+            "MD5": "d924c5263c51b4b3dc325d42ebb06bee",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/nut.html"
+          }
+        },
+        {
+          "id": "platform.html",
+          "name": "platform.html",
+          "type": "File",
+          "artifact": {
+            "size": 20003,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/doc/platform.html",
+            "MD5": "68d89c623e6ab83d193129f9e41ac5b6",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/doc/platform.html"
+          }
+        },
+        {
+          "id": "ac3_parser.h",
+          "name": "ac3_parser.h",
+          "type": "File",
+          "artifact": {
+            "size": 1207,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/ac3_parser.h",
+            "MD5": "8097ed4ae54fa693e6148d8ccb7f4cf8",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/ac3_parser.h"
+          }
+        },
+        {
+          "id": "adts_parser.h",
+          "name": "adts_parser.h",
+          "type": "File",
+          "artifact": {
+            "size": 1354,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/adts_parser.h",
+            "MD5": "524660631315a844cdb20e65662ce4c8",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/adts_parser.h"
+          }
+        },
+        {
+          "id": "avcodec.h",
+          "name": "avcodec.h",
+          "type": "File",
+          "artifact": {
+            "size": 113490,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/avcodec.h",
+            "MD5": "2f4211064b79d8747d71f4bc050bdc55",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/avcodec.h"
+          }
+        },
+        {
+          "id": "avdct.h",
+          "name": "avdct.h",
+          "type": "File",
+          "artifact": {
+            "size": 2726,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/avdct.h",
+            "MD5": "7e850848104778da6b9a4404d90bfc45",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/avdct.h"
+          }
+        },
+        {
+          "id": "avfft.h",
+          "name": "avfft.h",
+          "type": "File",
+          "artifact": {
+            "size": 3111,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/avfft.h",
+            "MD5": "cb8b1a4515271dd1cb167c4cd9280a17",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/avfft.h"
+          }
+        },
+        {
+          "id": "bsf.h",
+          "name": "bsf.h",
+          "type": "File",
+          "artifact": {
+            "size": 10769,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/bsf.h",
+            "MD5": "1d2d4b4e2736002cdcc75732f2d285db",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/bsf.h"
+          }
+        },
+        {
+          "id": "codec.h",
+          "name": "codec.h",
+          "type": "File",
+          "artifact": {
+            "size": 17853,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/codec.h",
+            "MD5": "8080bdf4ab743e01c9e7fa0dc94273aa",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/codec.h"
+          }
+        },
+        {
+          "id": "codec_desc.h",
+          "name": "codec_desc.h",
+          "type": "File",
+          "artifact": {
+            "size": 3847,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/codec_desc.h",
+            "MD5": "a3a137b8de4b59eea3ff7cd0c29deafc",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/codec_desc.h"
+          }
+        },
+        {
+          "id": "codec_id.h",
+          "name": "codec_id.h",
+          "type": "File",
+          "artifact": {
+            "size": 17002,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/codec_id.h",
+            "MD5": "c1af807f9a91f5b5c95703d2b440fc58",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/codec_id.h"
+          }
+        },
+        {
+          "id": "codec_par.h",
+          "name": "codec_par.h",
+          "type": "File",
+          "artifact": {
+            "size": 7308,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/codec_par.h",
+            "MD5": "1fce0a4ab5a409d35ed67105ff8e6536",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/codec_par.h"
+          }
+        },
+        {
+          "id": "d3d11va.h",
+          "name": "d3d11va.h",
+          "type": "File",
+          "artifact": {
+            "size": 2853,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/d3d11va.h",
+            "MD5": "21a0a83775bea735d85e9ad2565e1c1d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/d3d11va.h"
+          }
+        },
+        {
+          "id": "defs.h",
+          "name": "defs.h",
+          "type": "File",
+          "artifact": {
+            "size": 5349,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/defs.h",
+            "MD5": "e963ecb4a8b1c063e3d0bafa0c2d8688",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/defs.h"
+          }
+        },
+        {
+          "id": "dirac.h",
+          "name": "dirac.h",
+          "type": "File",
+          "artifact": {
+            "size": 4044,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/dirac.h",
+            "MD5": "78d791dde8dc3f041009e2b2d3e2b14b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/dirac.h"
+          }
+        },
+        {
+          "id": "dv_profile.h",
+          "name": "dv_profile.h",
+          "type": "File",
+          "artifact": {
+            "size": 3694,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/dv_profile.h",
+            "MD5": "b681e405211002bcf50eab3596ee5faa",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/dv_profile.h"
+          }
+        },
+        {
+          "id": "dxva2.h",
+          "name": "dxva2.h",
+          "type": "File",
+          "artifact": {
+            "size": 2361,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/dxva2.h",
+            "MD5": "d7280923134fc8cd834738c42576cf37",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/dxva2.h"
+          }
+        },
+        {
+          "id": "jni.h",
+          "name": "jni.h",
+          "type": "File",
+          "artifact": {
+            "size": 1650,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/jni.h",
+            "MD5": "068000cf347aa4f1e6e6b44e7e33edf7",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/jni.h"
+          }
+        },
+        {
+          "id": "mediacodec.h",
+          "name": "mediacodec.h",
+          "type": "File",
+          "artifact": {
+            "size": 3450,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/mediacodec.h",
+            "MD5": "e6ef40f31bb4077f95d8f80fd5aaad8d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/mediacodec.h"
+          }
+        },
+        {
+          "id": "packet.h",
+          "name": "packet.h",
+          "type": "File",
+          "artifact": {
+            "size": 23602,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/packet.h",
+            "MD5": "0dfe74b8132df334eea4781485b80a8a",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/packet.h"
+          }
+        },
+        {
+          "id": "qsv.h",
+          "name": "qsv.h",
+          "type": "File",
+          "artifact": {
+            "size": 3763,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/qsv.h",
+            "MD5": "bcd2980d37050728310f17f3d6511096",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/qsv.h"
+          }
+        },
+        {
+          "id": "vdpau.h",
+          "name": "vdpau.h",
+          "type": "File",
+          "artifact": {
+            "size": 5102,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/vdpau.h",
+            "MD5": "c3bd17cdd8a6abcc43df2eecfdad7688",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/vdpau.h"
+          }
+        },
+        {
+          "id": "version.h",
+          "name": "version.h",
+          "type": "File",
+          "artifact": {
+            "size": 2886,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/version.h",
+            "MD5": "784bed5c138465fecfccb098653f7d41",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/version.h"
+          }
+        },
+        {
+          "id": "videotoolbox.h",
+          "name": "videotoolbox.h",
+          "type": "File",
+          "artifact": {
+            "size": 4029,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/videotoolbox.h",
+            "MD5": "4c55d3fcc8bb8756cb8ae087ef5ce1f4",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/videotoolbox.h"
+          }
+        },
+        {
+          "id": "vorbis_parser.h",
+          "name": "vorbis_parser.h",
+          "type": "File",
+          "artifact": {
+            "size": 2285,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/vorbis_parser.h",
+            "MD5": "9009392c159d11fc3d53686632ea7b21",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/vorbis_parser.h"
+          }
+        },
+        {
+          "id": "xvmc.h",
+          "name": "xvmc.h",
+          "type": "File",
+          "artifact": {
+            "size": 6062,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/xvmc.h",
+            "MD5": "12db430a6371326482e19d99b507b3cb",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavcodec/xvmc.h"
+          }
+        },
+        {
+          "id": "avdevice.h",
+          "name": "avdevice.h",
+          "type": "File",
+          "artifact": {
+            "size": 18331,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavdevice/avdevice.h",
+            "MD5": "5317cca01be6d7d4b5d7b4ac9686e12b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavdevice/avdevice.h"
+          }
+        },
+        {
+          "id": "version.h",
+          "name": "version.h",
+          "type": "File",
+          "artifact": {
+            "size": 1929,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavdevice/version.h",
+            "MD5": "4dfaab9fe6c2a7a3c46960c4bf0cbf9e",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavdevice/version.h"
+          }
+        },
+        {
+          "id": "avfilter.h",
+          "name": "avfilter.h",
+          "type": "File",
+          "artifact": {
+            "size": 43182,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavfilter/avfilter.h",
+            "MD5": "9b8b2f808be177ba53087ee7f02776a8",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavfilter/avfilter.h"
+          }
+        },
+        {
+          "id": "buffersink.h",
+          "name": "buffersink.h",
+          "type": "File",
+          "artifact": {
+            "size": 8037,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavfilter/buffersink.h",
+            "MD5": "718fb21b9a8d077104c715b78d6d2b37",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavfilter/buffersink.h"
+          }
+        },
+        {
+          "id": "buffersrc.h",
+          "name": "buffersrc.h",
+          "type": "File",
+          "artifact": {
+            "size": 6609,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavfilter/buffersrc.h",
+            "MD5": "83324815caa6e33c4b3678693b59b41c",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavfilter/buffersrc.h"
+          }
+        },
+        {
+          "id": "version.h",
+          "name": "version.h",
+          "type": "File",
+          "artifact": {
+            "size": 2119,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavfilter/version.h",
+            "MD5": "5bbf94a1aab34bbd65880eafcb29ee99",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavfilter/version.h"
+          }
+        },
+        {
+          "id": "avformat.h",
+          "name": "avformat.h",
+          "type": "File",
+          "artifact": {
+            "size": 112592,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavformat/avformat.h",
+            "MD5": "454b5a59f0781439915e3b3c9e7f9304",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavformat/avformat.h"
+          }
+        },
+        {
+          "id": "avio.h",
+          "name": "avio.h",
+          "type": "File",
+          "artifact": {
+            "size": 31203,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavformat/avio.h",
+            "MD5": "b631c9284af3089597c8699761a5cd48",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavformat/avio.h"
+          }
+        },
+        {
+          "id": "version.h",
+          "name": "version.h",
+          "type": "File",
+          "artifact": {
+            "size": 2758,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavformat/version.h",
+            "MD5": "0f0f97b733a347c866ecb311854b348a",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavformat/version.h"
+          }
+        },
+        {
+          "id": "adler32.h",
+          "name": "adler32.h",
+          "type": "File",
+          "artifact": {
+            "size": 1696,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/adler32.h",
+            "MD5": "492a78d0ae28081b8ee6fb5f4e597fe6",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/adler32.h"
+          }
+        },
+        {
+          "id": "aes.h",
+          "name": "aes.h",
+          "type": "File",
+          "artifact": {
+            "size": 1813,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/aes.h",
+            "MD5": "8600cf1f943f63a1db493295087fe3f9",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/aes.h"
+          }
+        },
+        {
+          "id": "aes_ctr.h",
+          "name": "aes_ctr.h",
+          "type": "File",
+          "artifact": {
+            "size": 2248,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/aes_ctr.h",
+            "MD5": "8d0e338142aacf2564e58c253148c0f3",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/aes_ctr.h"
+          }
+        },
+        {
+          "id": "attributes.h",
+          "name": "attributes.h",
+          "type": "File",
+          "artifact": {
+            "size": 4828,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/attributes.h",
+            "MD5": "365187b3731f405cdc32607b79bd6d52",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/attributes.h"
+          }
+        },
+        {
+          "id": "audio_fifo.h",
+          "name": "audio_fifo.h",
+          "type": "File",
+          "artifact": {
+            "size": 5914,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/audio_fifo.h",
+            "MD5": "d1a8e0be61c123fba98840b1c819261d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/audio_fifo.h"
+          }
+        },
+        {
+          "id": "avassert.h",
+          "name": "avassert.h",
+          "type": "File",
+          "artifact": {
+            "size": 2354,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/avassert.h",
+            "MD5": "bfc355a618f8e86f4db2a933fcd19d4b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/avassert.h"
+          }
+        },
+        {
+          "id": "avconfig.h",
+          "name": "avconfig.h",
+          "type": "File",
+          "artifact": {
+            "size": 180,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/avconfig.h",
+            "MD5": "53cbbe8ff2d0e186049ff2f2f8e754de",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/avconfig.h"
+          }
+        },
+        {
+          "id": "avstring.h",
+          "name": "avstring.h",
+          "type": "File",
+          "artifact": {
+            "size": 15108,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/avstring.h",
+            "MD5": "65d988d4034a98218c5d5f774f68574b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/avstring.h"
+          }
+        },
+        {
+          "id": "avutil.h",
+          "name": "avutil.h",
+          "type": "File",
+          "artifact": {
+            "size": 9576,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/avutil.h",
+            "MD5": "8dc7e6c9a9d8ca3cf6bb4c885ed1fe71",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/avutil.h"
+          }
+        },
+        {
+          "id": "base64.h",
+          "name": "base64.h",
+          "type": "File",
+          "artifact": {
+            "size": 2285,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/base64.h",
+            "MD5": "6a44a47f485bfb0998ecf757f40d9267",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/base64.h"
+          }
+        },
+        {
+          "id": "blowfish.h",
+          "name": "blowfish.h",
+          "type": "File",
+          "artifact": {
+            "size": 2394,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/blowfish.h",
+            "MD5": "52ce8dd5509776e603a207f9f9a28ef6",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/blowfish.h"
+          }
+        },
+        {
+          "id": "bprint.h",
+          "name": "bprint.h",
+          "type": "File",
+          "artifact": {
+            "size": 7797,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/bprint.h",
+            "MD5": "044b9034f056d5dbd60c93a1d54bfddc",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/bprint.h"
+          }
+        },
+        {
+          "id": "bswap.h",
+          "name": "bswap.h",
+          "type": "File",
+          "artifact": {
+            "size": 2858,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/bswap.h",
+            "MD5": "fc645ec988c5bce882a2412572f7eb51",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/bswap.h"
+          }
+        },
+        {
+          "id": "buffer.h",
+          "name": "buffer.h",
+          "type": "File",
+          "artifact": {
+            "size": 11998,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/buffer.h",
+            "MD5": "bc758139ffd3b139d61c43ed2a87a9e8",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/buffer.h"
+          }
+        },
+        {
+          "id": "camellia.h",
+          "name": "camellia.h",
+          "type": "File",
+          "artifact": {
+            "size": 2139,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/camellia.h",
+            "MD5": "e77e9698f70ced935d6e62288ae83217",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/camellia.h"
+          }
+        },
+        {
+          "id": "cast5.h",
+          "name": "cast5.h",
+          "type": "File",
+          "artifact": {
+            "size": 2561,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/cast5.h",
+            "MD5": "24694614daec17ecb01401bb6a915082",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/cast5.h"
+          }
+        },
+        {
+          "id": "channel_layout.h",
+          "name": "channel_layout.h",
+          "type": "File",
+          "artifact": {
+            "size": 10365,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/channel_layout.h",
+            "MD5": "f0b6794853afb67e325970d5b77f45be",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/channel_layout.h"
+          }
+        },
+        {
+          "id": "common.h",
+          "name": "common.h",
+          "type": "File",
+          "artifact": {
+            "size": 17168,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/common.h",
+            "MD5": "0b0f1d40b1ee3c3e2b0e29ea9b387824",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/common.h"
+          }
+        },
+        {
+          "id": "cpu.h",
+          "name": "cpu.h",
+          "type": "File",
+          "artifact": {
+            "size": 5456,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/cpu.h",
+            "MD5": "5ca19c3c4557aab96af0f705fd63720d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/cpu.h"
+          }
+        },
+        {
+          "id": "crc.h",
+          "name": "crc.h",
+          "type": "File",
+          "artifact": {
+            "size": 3116,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/crc.h",
+            "MD5": "297b1ab00b8c932a060e60d11aac761a",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/crc.h"
+          }
+        },
+        {
+          "id": "des.h",
+          "name": "des.h",
+          "type": "File",
+          "artifact": {
+            "size": 2333,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/des.h",
+            "MD5": "d94ef780120beebcf8a27bfa0ab6433b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/des.h"
+          }
+        },
+        {
+          "id": "detection_bbox.h",
+          "name": "detection_bbox.h",
+          "type": "File",
+          "artifact": {
+            "size": 3455,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/detection_bbox.h",
+            "MD5": "b14dc51359465b9f9796afba739a9adf",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/detection_bbox.h"
+          }
+        },
+        {
+          "id": "dict.h",
+          "name": "dict.h",
+          "type": "File",
+          "artifact": {
+            "size": 8253,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/dict.h",
+            "MD5": "47769675aaf3fec8367e1441388e1865",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/dict.h"
+          }
+        },
+        {
+          "id": "display.h",
+          "name": "display.h",
+          "type": "File",
+          "artifact": {
+            "size": 3520,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/display.h",
+            "MD5": "eb05a348ed4dea35714c071adb592af7",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/display.h"
+          }
+        },
+        {
+          "id": "dovi_meta.h",
+          "name": "dovi_meta.h",
+          "type": "File",
+          "artifact": {
+            "size": 7641,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/dovi_meta.h",
+            "MD5": "dac4647d8e06da890a25744a43cd5da0",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/dovi_meta.h"
+          }
+        },
+        {
+          "id": "downmix_info.h",
+          "name": "downmix_info.h",
+          "type": "File",
+          "artifact": {
+            "size": 3235,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/downmix_info.h",
+            "MD5": "fd001a2951084fc12a2f6e76e5a1f2e0",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/downmix_info.h"
+          }
+        },
+        {
+          "id": "encryption_info.h",
+          "name": "encryption_info.h",
+          "type": "File",
+          "artifact": {
+            "size": 7056,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/encryption_info.h",
+            "MD5": "1c77ed6faad78909aaddc25035a1d76d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/encryption_info.h"
+          }
+        },
+        {
+          "id": "error.h",
+          "name": "error.h",
+          "type": "File",
+          "artifact": {
+            "size": 5489,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/error.h",
+            "MD5": "333a3cd4bb79cfd6b7e33b81073cc28a",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/error.h"
+          }
+        },
+        {
+          "id": "eval.h",
+          "name": "eval.h",
+          "type": "File",
+          "artifact": {
+            "size": 6327,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/eval.h",
+            "MD5": "5f3064e460e4cb973995baa2947c08c0",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/eval.h"
+          }
+        },
+        {
+          "id": "ffversion.h",
+          "name": "ffversion.h",
+          "type": "File",
+          "artifact": {
+            "size": 208,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/ffversion.h",
+            "MD5": "5ebebdf560bd1dc745bc36c01cfce72e",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/ffversion.h"
+          }
+        },
+        {
+          "id": "fifo.h",
+          "name": "fifo.h",
+          "type": "File",
+          "artifact": {
+            "size": 5899,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/fifo.h",
+            "MD5": "3bd97e7225bc8f6e42f3a581ed46fd91",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/fifo.h"
+          }
+        },
+        {
+          "id": "file.h",
+          "name": "file.h",
+          "type": "File",
+          "artifact": {
+            "size": 2698,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/file.h",
+            "MD5": "5981888105ba4043a75344e097d5431b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/file.h"
+          }
+        },
+        {
+          "id": "film_grain_params.h",
+          "name": "film_grain_params.h",
+          "type": "File",
+          "artifact": {
+            "size": 8499,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/film_grain_params.h",
+            "MD5": "536ca0a33b2f658acf7f07ed145dd26d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/film_grain_params.h"
+          }
+        },
+        {
+          "id": "frame.h",
+          "name": "frame.h",
+          "type": "File",
+          "artifact": {
+            "size": 31202,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/frame.h",
+            "MD5": "67e9ace7213e41a533f9bbd25ad0d393",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/frame.h"
+          }
+        },
+        {
+          "id": "hash.h",
+          "name": "hash.h",
+          "type": "File",
+          "artifact": {
+            "size": 8457,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hash.h",
+            "MD5": "9d0a4ba506e59de9509df9e0cdba455d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hash.h"
+          }
+        },
+        {
+          "id": "hdr_dynamic_metadata.h",
+          "name": "hdr_dynamic_metadata.h",
+          "type": "File",
+          "artifact": {
+            "size": 12638,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hdr_dynamic_metadata.h",
+            "MD5": "277c30dc78cc26a6c6fb5f1afe9ced96",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hdr_dynamic_metadata.h"
+          }
+        },
+        {
+          "id": "hmac.h",
+          "name": "hmac.h",
+          "type": "File",
+          "artifact": {
+            "size": 2865,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hmac.h",
+            "MD5": "b0401b5d458241a0765f89b877aca107",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hmac.h"
+          }
+        },
+        {
+          "id": "hwcontext.h",
+          "name": "hwcontext.h",
+          "type": "File",
+          "artifact": {
+            "size": 24083,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext.h",
+            "MD5": "64b34781a9d2f1cbb6de98538446fdce",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext.h"
+          }
+        },
+        {
+          "id": "hwcontext_cuda.h",
+          "name": "hwcontext_cuda.h",
+          "type": "File",
+          "artifact": {
+            "size": 1728,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_cuda.h",
+            "MD5": "c3d148995de08f248cd5bc91ba76c54d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_cuda.h"
+          }
+        },
+        {
+          "id": "hwcontext_d3d11va.h",
+          "name": "hwcontext_d3d11va.h",
+          "type": "File",
+          "artifact": {
+            "size": 6669,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_d3d11va.h",
+            "MD5": "8584b4acdf6304b27ba07fb78f06fff6",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_d3d11va.h"
+          }
+        },
+        {
+          "id": "hwcontext_drm.h",
+          "name": "hwcontext_drm.h",
+          "type": "File",
+          "artifact": {
+            "size": 4673,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_drm.h",
+            "MD5": "79476eccfd44218026080d5843ecc08c",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_drm.h"
+          }
+        },
+        {
+          "id": "hwcontext_dxva2.h",
+          "name": "hwcontext_dxva2.h",
+          "type": "File",
+          "artifact": {
+            "size": 2411,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_dxva2.h",
+            "MD5": "3eb4f8d5aede39bda1717eaeede415b8",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_dxva2.h"
+          }
+        },
+        {
+          "id": "hwcontext_mediacodec.h",
+          "name": "hwcontext_mediacodec.h",
+          "type": "File",
+          "artifact": {
+            "size": 1203,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_mediacodec.h",
+            "MD5": "b81ae4c812cfec66b27d503a6d8bffb5",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_mediacodec.h"
+          }
+        },
+        {
+          "id": "hwcontext_opencl.h",
+          "name": "hwcontext_opencl.h",
+          "type": "File",
+          "artifact": {
+            "size": 3097,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_opencl.h",
+            "MD5": "0197c28a07355e2947af5159445f1814",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_opencl.h"
+          }
+        },
+        {
+          "id": "hwcontext_qsv.h",
+          "name": "hwcontext_qsv.h",
+          "type": "File",
+          "artifact": {
+            "size": 1557,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_qsv.h",
+            "MD5": "da231a790e4c0acd27f96addea705af8",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_qsv.h"
+          }
+        },
+        {
+          "id": "hwcontext_vaapi.h",
+          "name": "hwcontext_vaapi.h",
+          "type": "File",
+          "artifact": {
+            "size": 3787,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_vaapi.h",
+            "MD5": "24e36876e1694c638f674448752fab50",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_vaapi.h"
+          }
+        },
+        {
+          "id": "hwcontext_vdpau.h",
+          "name": "hwcontext_vdpau.h",
+          "type": "File",
+          "artifact": {
+            "size": 1360,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_vdpau.h",
+            "MD5": "dd28733335123d986ef15f9cb34c5be1",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_vdpau.h"
+          }
+        },
+        {
+          "id": "hwcontext_videotoolbox.h",
+          "name": "hwcontext_videotoolbox.h",
+          "type": "File",
+          "artifact": {
+            "size": 3412,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_videotoolbox.h",
+            "MD5": "ada064515a0e838c6aff3a2b8d442945",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_videotoolbox.h"
+          }
+        },
+        {
+          "id": "hwcontext_vulkan.h",
+          "name": "hwcontext_vulkan.h",
+          "type": "File",
+          "artifact": {
+            "size": 9522,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_vulkan.h",
+            "MD5": "6802d78642ec37e88f23415c8612ccc7",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/hwcontext_vulkan.h"
+          }
+        },
+        {
+          "id": "imgutils.h",
+          "name": "imgutils.h",
+          "type": "File",
+          "artifact": {
+            "size": 13039,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/imgutils.h",
+            "MD5": "315252be2d06eb1c9ba165b6e940010d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/imgutils.h"
+          }
+        },
+        {
+          "id": "intfloat.h",
+          "name": "intfloat.h",
+          "type": "File",
+          "artifact": {
+            "size": 1726,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/intfloat.h",
+            "MD5": "c1337d3265888f78ed63ad220b30761b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/intfloat.h"
+          }
+        },
+        {
+          "id": "intreadwrite.h",
+          "name": "intreadwrite.h",
+          "type": "File",
+          "artifact": {
+            "size": 18763,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/intreadwrite.h",
+            "MD5": "8f5cc5079cbe19de656e627a7521b68d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/intreadwrite.h"
+          }
+        },
+        {
+          "id": "lfg.h",
+          "name": "lfg.h",
+          "type": "File",
+          "artifact": {
+            "size": 2498,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/lfg.h",
+            "MD5": "4ac8ce4c1133afa0b0f08e25d41e7fb5",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/lfg.h"
+          }
+        },
+        {
+          "id": "log.h",
+          "name": "log.h",
+          "type": "File",
+          "artifact": {
+            "size": 12765,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/log.h",
+            "MD5": "ea9d443862412166c4cb695582a53ca9",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/log.h"
+          }
+        },
+        {
+          "id": "lzo.h",
+          "name": "lzo.h",
+          "type": "File",
+          "artifact": {
+            "size": 2048,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/lzo.h",
+            "MD5": "5ae67d1184069b5aaadc2eaaa1429927",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/lzo.h"
+          }
+        },
+        {
+          "id": "macros.h",
+          "name": "macros.h",
+          "type": "File",
+          "artifact": {
+            "size": 2304,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/macros.h",
+            "MD5": "374a89cfc4b82d1cfc9ffedc204ccd13",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/macros.h"
+          }
+        },
+        {
+          "id": "mastering_display_metadata.h",
+          "name": "mastering_display_metadata.h",
+          "type": "File",
+          "artifact": {
+            "size": 3944,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/mastering_display_metadata.h",
+            "MD5": "03206b271cb97876283cf17d63ad99d4",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/mastering_display_metadata.h"
+          }
+        },
+        {
+          "id": "mathematics.h",
+          "name": "mathematics.h",
+          "type": "File",
+          "artifact": {
+            "size": 8011,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/mathematics.h",
+            "MD5": "ac13b7ec6fbc3458b1f05c8f88f1d3a8",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/mathematics.h"
+          }
+        },
+        {
+          "id": "md5.h",
+          "name": "md5.h",
+          "type": "File",
+          "artifact": {
+            "size": 2092,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/md5.h",
+            "MD5": "4a8d980adc1fad167fb53beb3d17aa14",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/md5.h"
+          }
+        },
+        {
+          "id": "mem.h",
+          "name": "mem.h",
+          "type": "File",
+          "artifact": {
+            "size": 23389,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/mem.h",
+            "MD5": "6369413996d1cc1493efebad880081c7",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/mem.h"
+          }
+        },
+        {
+          "id": "motion_vector.h",
+          "name": "motion_vector.h",
+          "type": "File",
+          "artifact": {
+            "size": 1770,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/motion_vector.h",
+            "MD5": "436b52c6a7605fb76dda84583370d65e",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/motion_vector.h"
+          }
+        },
+        {
+          "id": "murmur3.h",
+          "name": "murmur3.h",
+          "type": "File",
+          "artifact": {
+            "size": 3507,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/murmur3.h",
+            "MD5": "7be33a26479cbda09782ef2cfc94a6f3",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/murmur3.h"
+          }
+        },
+        {
+          "id": "opt.h",
+          "name": "opt.h",
+          "type": "File",
+          "artifact": {
+            "size": 36794,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/opt.h",
+            "MD5": "99c9f908d419cf324dbe539221adf5c5",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/opt.h"
+          }
+        },
+        {
+          "id": "parseutils.h",
+          "name": "parseutils.h",
+          "type": "File",
+          "artifact": {
+            "size": 7575,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/parseutils.h",
+            "MD5": "ecbca2e4cf315288ca531943dfd673e2",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/parseutils.h"
+          }
+        },
+        {
+          "id": "pixdesc.h",
+          "name": "pixdesc.h",
+          "type": "File",
+          "artifact": {
+            "size": 14998,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/pixdesc.h",
+            "MD5": "e11596204cc4929db84c0fb64af546a7",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/pixdesc.h"
+          }
+        },
+        {
+          "id": "pixelutils.h",
+          "name": "pixelutils.h",
+          "type": "File",
+          "artifact": {
+            "size": 2071,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/pixelutils.h",
+            "MD5": "dd50a553ba57da531c8c2a12665f2235",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/pixelutils.h"
+          }
+        },
+        {
+          "id": "pixfmt.h",
+          "name": "pixfmt.h",
+          "type": "File",
+          "artifact": {
+            "size": 37273,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/pixfmt.h",
+            "MD5": "c6623a43f2ac141db830401d725ec549",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/pixfmt.h"
+          }
+        },
+        {
+          "id": "random_seed.h",
+          "name": "random_seed.h",
+          "type": "File",
+          "artifact": {
+            "size": 1400,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/random_seed.h",
+            "MD5": "f6fea558e1c930b274aa7ff8122cbec7",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/random_seed.h"
+          }
+        },
+        {
+          "id": "rational.h",
+          "name": "rational.h",
+          "type": "File",
+          "artifact": {
+            "size": 6063,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/rational.h",
+            "MD5": "a5b089b560005225df705142367fbb80",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/rational.h"
+          }
+        },
+        {
+          "id": "rc4.h",
+          "name": "rc4.h",
+          "type": "File",
+          "artifact": {
+            "size": 1882,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/rc4.h",
+            "MD5": "4a6a499dc81d440cc3d510c2411603d1",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/rc4.h"
+          }
+        },
+        {
+          "id": "replaygain.h",
+          "name": "replaygain.h",
+          "type": "File",
+          "artifact": {
+            "size": 1607,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/replaygain.h",
+            "MD5": "bff828f72dadb6305f31b8c1b68ed321",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/replaygain.h"
+          }
+        },
+        {
+          "id": "ripemd.h",
+          "name": "ripemd.h",
+          "type": "File",
+          "artifact": {
+            "size": 2158,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/ripemd.h",
+            "MD5": "9f765a58095b199d75b77e1fb34fa42d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/ripemd.h"
+          }
+        },
+        {
+          "id": "samplefmt.h",
+          "name": "samplefmt.h",
+          "type": "File",
+          "artifact": {
+            "size": 10287,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/samplefmt.h",
+            "MD5": "7f098ca43828300e997272a20ff359cb",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/samplefmt.h"
+          }
+        },
+        {
+          "id": "sha.h",
+          "name": "sha.h",
+          "type": "File",
+          "artifact": {
+            "size": 2368,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/sha.h",
+            "MD5": "508e26c156b16fbceaa07d13494db06d",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/sha.h"
+          }
+        },
+        {
+          "id": "sha512.h",
+          "name": "sha512.h",
+          "type": "File",
+          "artifact": {
+            "size": 2413,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/sha512.h",
+            "MD5": "4266b51b8769aaa14c87acdf85840996",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/sha512.h"
+          }
+        },
+        {
+          "id": "spherical.h",
+          "name": "spherical.h",
+          "type": "File",
+          "artifact": {
+            "size": 8024,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/spherical.h",
+            "MD5": "c4f383454aa24a23c2a469c528d5d718",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/spherical.h"
+          }
+        },
+        {
+          "id": "stereo3d.h",
+          "name": "stereo3d.h",
+          "type": "File",
+          "artifact": {
+            "size": 5250,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/stereo3d.h",
+            "MD5": "213ad579aa253db33b18918587a6277b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/stereo3d.h"
+          }
+        },
+        {
+          "id": "tea.h",
+          "name": "tea.h",
+          "type": "File",
+          "artifact": {
+            "size": 2035,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/tea.h",
+            "MD5": "f820d8dc7241d610660bab648d0b2aaa",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/tea.h"
+          }
+        },
+        {
+          "id": "threadmessage.h",
+          "name": "threadmessage.h",
+          "type": "File",
+          "artifact": {
+            "size": 3910,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/threadmessage.h",
+            "MD5": "7da175b43e3ebc570587eb50edd88709",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/threadmessage.h"
+          }
+        },
+        {
+          "id": "time.h",
+          "name": "time.h",
+          "type": "File",
+          "artifact": {
+            "size": 1800,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/time.h",
+            "MD5": "909d976552c361881f327e00c10c17ec",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/time.h"
+          }
+        },
+        {
+          "id": "timecode.h",
+          "name": "timecode.h",
+          "type": "File",
+          "artifact": {
+            "size": 7843,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/timecode.h",
+            "MD5": "592adef639a8de9ac9814d2a5b5e7d1c",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/timecode.h"
+          }
+        },
+        {
+          "id": "timestamp.h",
+          "name": "timestamp.h",
+          "type": "File",
+          "artifact": {
+            "size": 2617,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/timestamp.h",
+            "MD5": "f9e79a1abceb8f24491910f2d58a3ada",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/timestamp.h"
+          }
+        },
+        {
+          "id": "tree.h",
+          "name": "tree.h",
+          "type": "File",
+          "artifact": {
+            "size": 5408,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/tree.h",
+            "MD5": "277731d9a763071a5ff39b58a4ede39e",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/tree.h"
+          }
+        },
+        {
+          "id": "twofish.h",
+          "name": "twofish.h",
+          "type": "File",
+          "artifact": {
+            "size": 2245,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/twofish.h",
+            "MD5": "233b72057a91054ea6abec07cdb56c21",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/twofish.h"
+          }
+        },
+        {
+          "id": "tx.h",
+          "name": "tx.h",
+          "type": "File",
+          "artifact": {
+            "size": 5062,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/tx.h",
+            "MD5": "f036742a128bf252634ed3182cf55b8f",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/tx.h"
+          }
+        },
+        {
+          "id": "version.h",
+          "name": "version.h",
+          "type": "File",
+          "artifact": {
+            "size": 4122,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/version.h",
+            "MD5": "7c21e93ee35dc301d243088d7219f14c",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/version.h"
+          }
+        },
+        {
+          "id": "video_enc_params.h",
+          "name": "video_enc_params.h",
+          "type": "File",
+          "artifact": {
+            "size": 5986,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/video_enc_params.h",
+            "MD5": "7333d7c8ba4ad86aa8ad3bfb817b888c",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/video_enc_params.h"
+          }
+        },
+        {
+          "id": "xtea.h",
+          "name": "xtea.h",
+          "type": "File",
+          "artifact": {
+            "size": 2834,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/xtea.h",
+            "MD5": "0574b2aec39e0eb6de17ecae8100641c",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libavutil/xtea.h"
+          }
+        },
+        {
+          "id": "swresample.h",
+          "name": "swresample.h",
+          "type": "File",
+          "artifact": {
+            "size": 21785,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libswresample/swresample.h",
+            "MD5": "a809c78045b6973eac2dde8b11b6b79b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libswresample/swresample.h"
+          }
+        },
+        {
+          "id": "version.h",
+          "name": "version.h",
+          "type": "File",
+          "artifact": {
+            "size": 1719,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libswresample/version.h",
+            "MD5": "85d1ebfedcc1f54e394a56378ab14bc3",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libswresample/version.h"
+          }
+        },
+        {
+          "id": "swscale.h",
+          "name": "swscale.h",
+          "type": "File",
+          "artifact": {
+            "size": 15538,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libswscale/swscale.h",
+            "MD5": "55449dc08e5bebbc19d7575d5181783e",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libswscale/swscale.h"
+          }
+        },
+        {
+          "id": "version.h",
+          "name": "version.h",
+          "type": "File",
+          "artifact": {
+            "size": 1825,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/include/libswscale/version.h",
+            "MD5": "3e131023136aac93e22446b7f2ed2bf3",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/include/libswscale/version.h"
+          }
+        },
+        {
+          "id": "avcodec-59.def",
+          "name": "avcodec-59.def",
+          "type": "File",
+          "artifact": {
+            "size": 4229,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/avcodec-59.def",
+            "MD5": "6c243052c69dc1ac4b4ee3b30d3407eb",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/avcodec-59.def"
+          }
+        },
+        {
+          "id": "avcodec.lib",
+          "name": "avcodec.lib",
+          "type": "File",
+          "artifact": {
+            "size": 133376,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/avcodec.lib",
+            "MD5": "29c9765e59610b271e414bd452c8b3b9",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/avcodec.lib"
+          }
+        },
+        {
+          "id": "avdevice-59.def",
+          "name": "avdevice-59.def",
+          "type": "File",
+          "artifact": {
+            "size": 544,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/avdevice-59.def",
+            "MD5": "dc31cb9b27fd575feaf66caee87b497a",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/avdevice-59.def"
+          }
+        },
+        {
+          "id": "avdevice.lib",
+          "name": "avdevice.lib",
+          "type": "File",
+          "artifact": {
+            "size": 16444,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/avdevice.lib",
+            "MD5": "3abcc94b75de307b59a23dbf75b68a38",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/avdevice.lib"
+          }
+        },
+        {
+          "id": "avfilter-8.def",
+          "name": "avfilter-8.def",
+          "type": "File",
+          "artifact": {
+            "size": 1675,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/avfilter-8.def",
+            "MD5": "2586b8d1d51579b5bb764680065ba16b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/avfilter-8.def"
+          }
+        },
+        {
+          "id": "avfilter.lib",
+          "name": "avfilter.lib",
+          "type": "File",
+          "artifact": {
+            "size": 49634,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/avfilter.lib",
+            "MD5": "c40f04c3ccb5307e18b92ecabec3d210",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/avfilter.lib"
+          }
+        },
+        {
+          "id": "avformat-59.def",
+          "name": "avformat-59.def",
+          "type": "File",
+          "artifact": {
+            "size": 3577,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/avformat-59.def",
+            "MD5": "a19feb019b8af8e5551b05d9f13c50eb",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/avformat-59.def"
+          }
+        },
+        {
+          "id": "avformat.lib",
+          "name": "avformat.lib",
+          "type": "File",
+          "artifact": {
+            "size": 123156,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/avformat.lib",
+            "MD5": "71a7273b4678b526e7b398601454c7ad",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/avformat.lib"
+          }
+        },
+        {
+          "id": "avutil-57.def",
+          "name": "avutil-57.def",
+          "type": "File",
+          "artifact": {
+            "size": 12340,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/avutil-57.def",
+            "MD5": "fc8152fd259b7962888338e37fd51ccf",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/avutil-57.def"
+          }
+        },
+        {
+          "id": "avutil.lib",
+          "name": "avutil.lib",
+          "type": "File",
+          "artifact": {
+            "size": 418780,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/avutil.lib",
+            "MD5": "765746be2cac199e3c603c877bc2e36e",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/avutil.lib"
+          }
+        },
+        {
+          "id": "libavcodec.dll.a",
+          "name": "libavcodec.dll.a",
+          "type": "File",
+          "artifact": {
+            "size": 112410,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/libavcodec.dll.a",
+            "MD5": "ffe4ec1ba553ea025ae637e9e8582b5f",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/libavcodec.dll.a"
+          }
+        },
+        {
+          "id": "libavdevice.dll.a",
+          "name": "libavdevice.dll.a",
+          "type": "File",
+          "artifact": {
+            "size": 13518,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/libavdevice.dll.a",
+            "MD5": "d88bd465e481f7e79ccd676a044fb025",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/libavdevice.dll.a"
+          }
+        },
+        {
+          "id": "libavfilter.dll.a",
+          "name": "libavfilter.dll.a",
+          "type": "File",
+          "artifact": {
+            "size": 41578,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/libavfilter.dll.a",
+            "MD5": "7c72e845aac229027fac52ab1f4b0071",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/libavfilter.dll.a"
+          }
+        },
+        {
+          "id": "libavformat.dll.a",
+          "name": "libavformat.dll.a",
+          "type": "File",
+          "artifact": {
+            "size": 165246,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/libavformat.dll.a",
+            "MD5": "361e78e4c5d1ce578ea7ef19f2b1598b",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/libavformat.dll.a"
+          }
+        },
+        {
+          "id": "libavutil.dll.a",
+          "name": "libavutil.dll.a",
+          "type": "File",
+          "artifact": {
+            "size": 352596,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/libavutil.dll.a",
+            "MD5": "b06fede32ff8f0eceecacd702f652361",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/libavutil.dll.a"
+          }
+        },
+        {
+          "id": "libswresample.dll.a",
+          "name": "libswresample.dll.a",
+          "type": "File",
+          "artifact": {
+            "size": 15956,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/libswresample.dll.a",
+            "MD5": "7efcc6ae2b1dfa221601d40ec3e3d0e0",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/libswresample.dll.a"
+          }
+        },
+        {
+          "id": "libswscale.dll.a",
+          "name": "libswscale.dll.a",
+          "type": "File",
+          "artifact": {
+            "size": 22050,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/libswscale.dll.a",
+            "MD5": "204153e1d16c8b058a8cd8ea9d8deb65",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/libswscale.dll.a"
+          }
+        },
+        {
+          "id": "libavcodec.pc",
+          "name": "libavcodec.pc",
+          "type": "File",
+          "artifact": {
+            "size": 312,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libavcodec.pc",
+            "MD5": "8feb50eeb60fa108e52338d48d85c299",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libavcodec.pc"
+          }
+        },
+        {
+          "id": "libavdevice.pc",
+          "name": "libavdevice.pc",
+          "type": "File",
+          "artifact": {
+            "size": 422,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libavdevice.pc",
+            "MD5": "09762a42fd34be236fea156e2e806166",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libavdevice.pc"
+          }
+        },
+        {
+          "id": "libavfilter.pc",
+          "name": "libavfilter.pc",
+          "type": "File",
+          "artifact": {
+            "size": 403,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libavfilter.pc",
+            "MD5": "b8d4ebe0a324c80ea35d98332069abc9",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libavfilter.pc"
+          }
+        },
+        {
+          "id": "libavformat.pc",
+          "name": "libavformat.pc",
+          "type": "File",
+          "artifact": {
+            "size": 350,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libavformat.pc",
+            "MD5": "0558e198985431645bda7503a6448165",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libavformat.pc"
+          }
+        },
+        {
+          "id": "libavutil.pc",
+          "name": "libavutil.pc",
+          "type": "File",
+          "artifact": {
+            "size": 264,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libavutil.pc",
+            "MD5": "2c2cd155574524733fc8d80df3c860a2",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libavutil.pc"
+          }
+        },
+        {
+          "id": "libswresample.pc",
+          "name": "libswresample.pc",
+          "type": "File",
+          "artifact": {
+            "size": 301,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libswresample.pc",
+            "MD5": "3b4d26fe80453777e342212dc24cc20c",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libswresample.pc"
+          }
+        },
+        {
+          "id": "libswscale.pc",
+          "name": "libswscale.pc",
+          "type": "File",
+          "artifact": {
+            "size": 294,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libswscale.pc",
+            "MD5": "c3d81ea6474a9f029203189e8f7639ed",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/pkgconfig/libswscale.pc"
+          }
+        },
+        {
+          "id": "swresample-4.def",
+          "name": "swresample-4.def",
+          "type": "File",
+          "artifact": {
+            "size": 473,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/swresample-4.def",
+            "MD5": "b038c4c5137354a859cdfece03f63624",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/swresample-4.def"
+          }
+        },
+        {
+          "id": "swresample.lib",
+          "name": "swresample.lib",
+          "type": "File",
+          "artifact": {
+            "size": 19568,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/swresample.lib",
+            "MD5": "8d9d8a4b5aadfbc2a9ff1f4de1b21fc5",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/swresample.lib"
+          }
+        },
+        {
+          "id": "swscale-6.def",
+          "name": "swscale-6.def",
+          "type": "File",
+          "artifact": {
+            "size": 746,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/swscale-6.def",
+            "MD5": "03f0b4da6aeb6c2d49cdcfea80cf63c4",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/swscale-6.def"
+          }
+        },
+        {
+          "id": "swscale.lib",
+          "name": "swscale.lib",
+          "type": "File",
+          "artifact": {
+            "size": 26726,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/CustomView-win64/CustomView/ffmpeg/lib/swscale.lib",
+            "MD5": "9983eeb9eeff6ee0c4d08b3ebe2ee4b1",
+            "path": "mods/CustomView-win64/CustomView/ffmpeg/lib/swscale.lib"
+          }
+        },
+        {
+          "id": "AsphaltMod_2.3.9_mc1.12.2.jar",
+          "name": "AsphaltMod_2.3.9_mc1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 8943195,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/AsphaltMod_2.3.9_mc1.12.2.jar",
+            "MD5": "29035b4b4f4a631b12e06eb68ea13125",
+            "path": "mods/memory_repo/AsphaltMod_2.3.9_mc1.12.2.jar"
+          }
+        },
+        {
+          "id": "CTM-MC1.12.2-1.0.2.31.jar",
+          "name": "CTM-MC1.12.2-1.0.2.31.jar",
+          "type": "File",
+          "artifact": {
+            "size": 199045,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/CTM-MC1.12.2-1.0.2.31.jar",
+            "MD5": "77a8bb5486c97e3eaa6f45e5bd768864",
+            "path": "mods/memory_repo/CTM-MC1.12.2-1.0.2.31.jar"
+          }
+        },
+        {
+          "id": "ConquestReforged-3.0.2-mc1.12.2.jar",
+          "name": "ConquestReforged-3.0.2-mc1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 60802913,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/ConquestReforged-3.0.2-mc1.12.2.jar",
+            "MD5": "4ad1a90bcbecae097b984a4ee3695929",
+            "path": "mods/memory_repo/ConquestReforged-3.0.2-mc1.12.2.jar"
+          }
+        },
+        {
+          "id": "HolographicDisplays.jar",
+          "name": "HolographicDisplays.jar",
+          "type": "File",
+          "artifact": {
+            "size": 518611,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/HolographicDisplays.jar",
+            "MD5": "06c8ba7f566987d8b850949d305f4cea",
+            "path": "mods/memory_repo/HolographicDisplays.jar"
+          }
+        },
+        {
+          "id": "ImmersiveEngineering-0.12-98.jar",
+          "name": "ImmersiveEngineering-0.12-98.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6360959,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/ImmersiveEngineering-0.12-98.jar",
+            "MD5": "affce9a7f7cb9ab257135da89314e07e",
+            "path": "mods/memory_repo/ImmersiveEngineering-0.12-98.jar"
+          }
+        },
+        {
+          "id": "ImmersiveRailroading-1.12.2-forge-1.9.1.jar",
+          "name": "ImmersiveRailroading-1.12.2-forge-1.9.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 104163746,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/ImmersiveRailroading-1.12.2-forge-1.9.1.jar",
+            "MD5": "d5d11ee427446c01ff1ead017ef4064a",
+            "path": "mods/memory_repo/ImmersiveRailroading-1.12.2-forge-1.9.1.jar"
+          }
+        },
+        {
+          "id": "NotEnoughIDs-1.5.4.4.jar",
+          "name": "NotEnoughIDs-1.5.4.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 31782,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/NotEnoughIDs-1.5.4.4.jar",
+            "MD5": "759494e409ce5d2ac277fc350e89500a",
+            "path": "mods/memory_repo/NotEnoughIDs-1.5.4.4.jar"
+          }
+        },
+        {
+          "id": "OptiFine_1.12.2_HD_U_G5.jar",
+          "name": "OptiFine_1.12.2_HD_U_G5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2669107,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0",
+            "path": "mods/memory_repo/OptiFine_1.12.2_HD_U_G5.jar"
+          }
+        },
+        {
+          "id": "ShoulderSurfing-1.12.2-2.2.2.jar",
+          "name": "ShoulderSurfing-1.12.2-2.2.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 150394,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/ShoulderSurfing-1.12.2-2.2.2.jar",
+            "MD5": "5afc01104758f3275cd5b8c10169cb51",
+            "path": "mods/memory_repo/ShoulderSurfing-1.12.2-2.2.2.jar"
+          }
+        },
+        {
+          "id": "TrackAPI-1.2.jar",
+          "name": "TrackAPI-1.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 7374,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/TrackAPI-1.2.jar",
+            "MD5": "b7e2756459eab54b39070240a287a128",
+            "path": "mods/memory_repo/TrackAPI-1.2.jar"
+          }
+        },
+        {
+          "id": "UniversalModCore-1.12.2-forge-1.1.4-2b81e7.jar",
+          "name": "UniversalModCore-1.12.2-forge-1.1.4-2b81e7.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1102862,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/UniversalModCore-1.12.2-forge-1.1.4-2b81e7.jar",
+            "MD5": "281f7d6c89e87891373d4068a0ff7556",
+            "path": "mods/memory_repo/UniversalModCore-1.12.2-forge-1.1.4-2b81e7.jar"
+          }
+        },
+        {
+          "id": "WorldEdit-6.1.9-0.3-SNAPSHOT-all.jar",
+          "name": "WorldEdit-6.1.9-0.3-SNAPSHOT-all.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1720289,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/WorldEdit-6.1.9-0.3-SNAPSHOT-all.jar",
+            "MD5": "544d4d0cb4951491bb738b7658a6f545",
+            "path": "mods/memory_repo/WorldEdit-6.1.9-0.3-SNAPSHOT-all.jar"
+          }
+        },
+        {
+          "id": "[Mod] MiniaTuria 1.12.2 [v1.5].jar",
+          "name": "[Mod] MiniaTuria 1.12.2 [v1.5].jar",
+          "type": "File",
+          "artifact": {
+            "size": 10896754,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/[Mod]%20MiniaTuria%201.12.2%20[v1.5].jar",
+            "MD5": "99f7af77c7d0e010cb7a7986611568df",
+            "path": "mods/memory_repo/[Mod] MiniaTuria 1.12.2 [v1.5].jar"
+          }
+        },
+        {
+          "id": "ImmersiveEngineering-core-0.12-98.jar",
+          "name": "ImmersiveEngineering-core-0.12-98.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5971,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar",
+            "MD5": "1a54e0e65323328f814c139860e34475",
+            "path": "mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar"
+          }
+        },
+        {
+          "id": "ImmersiveEngineering-core-0.12-98.jar.meta",
+          "name": "ImmersiveEngineering-core-0.12-98.jar.meta",
+          "type": "File",
+          "artifact": {
+            "size": 165,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar.meta",
+            "MD5": "e62798c555f5520c31a7efb68c0ba170",
+            "path": "mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar.meta"
+          }
+        },
+        {
+          "id": "chiselsandbits-14.33.jar",
+          "name": "chiselsandbits-14.33.jar",
+          "type": "File",
+          "artifact": {
+            "size": 737407,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/chiselsandbits-14.33.jar",
+            "MD5": "e056e23559965f2ebabf47aad0fe51a3",
+            "path": "mods/memory_repo/chiselsandbits-14.33.jar"
+          }
+        },
+        {
+          "id": "cocricotMOD_1.12.2_v1.11.0.jar",
+          "name": "cocricotMOD_1.12.2_v1.11.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2945950,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/cocricotMOD_1.12.2_v1.11.0.jar",
+            "MD5": "1517f8e2bd7ab68207e7dc524d5bb24c",
+            "path": "mods/memory_repo/cocricotMOD_1.12.2_v1.11.0.jar"
+          }
+        },
+        {
+          "id": "emoticons-1.1-1.12.2.jar",
+          "name": "emoticons-1.1-1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2048812,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/emoticons-1.1-1.12.2.jar",
+            "MD5": "658974a3e154213ec05d8aed6d8191c6",
+            "path": "mods/memory_repo/emoticons-1.1-1.12.2.jar"
+          }
+        },
+        {
+          "id": "mcef-1.12.2-0.9.jar",
+          "name": "mcef-1.12.2-0.9.jar",
+          "type": "File",
+          "artifact": {
+            "size": 323311,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/mcef-1.12.2-0.9.jar",
+            "MD5": "dbdb8e026ec019f49ea873c9c2a130b3",
+            "path": "mods/memory_repo/mcef-1.12.2-0.9.jar"
+          }
+        },
+        {
+          "id": "mclib-2.4-1.12.2.jar",
+          "name": "mclib-2.4-1.12.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 689300,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/mclib-2.4-1.12.2.jar",
+            "MD5": "5a5e9b994ab2532173858f8af962bc6c",
+            "path": "mods/memory_repo/mclib-2.4-1.12.2.jar"
+          }
+        },
+        {
+          "id": "rojiuramod-1.12.2_0.1.4.a.jar",
+          "name": "rojiuramod-1.12.2_0.1.4.a.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4072608,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/rojiuramod-1.12.2_0.1.4.a.jar",
+            "MD5": "5a2c5da4645273d8677ccd5109796d81",
+            "path": "mods/memory_repo/rojiuramod-1.12.2_0.1.4.a.jar"
+          }
+        },
+        {
+          "id": "webdisplays-1.12.2-1.0.jar",
+          "name": "webdisplays-1.12.2-1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 688747,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/webdisplays-1.12.2-1.0.jar",
+            "MD5": "a54bcecab7c5c3212fccc31be73dea38",
+            "path": "mods/memory_repo/webdisplays-1.12.2-1.0.jar"
+          }
+        },
+        {
+          "id": "worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+          "name": "worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1479535,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+            "MD5": "bdf6d8d20591c014fed66633f4ef3b23",
+            "path": "mods/memory_repo/worldedit-forge-mc1.12.2-6.1.10-dist.jar"
+          }
+        },
+        {
+          "id": "쌀국수팩.zip",
+          "name": "쌀국수팩.zip",
+          "type": "File",
+          "artifact": {
+            "size": 136636497,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/%EC%8C%80%EA%B5%AD%EC%88%98%ED%8C%A9.zip",
+            "MD5": "ee08bddd3071accfeec6d2c5df0fdd8d",
+            "path": "mods/memory_repo/쌀국수팩.zip"
+          }
+        },
+        {
+          "id": "응우연띠엣쿠어윽잉그잇.zip",
+          "name": "응우연띠엣쿠어윽잉그잇.zip",
+          "type": "File",
+          "artifact": {
+            "size": 55478078,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/mods/memory_repo/%EC%9D%91%EC%9A%B0%EC%97%B0%EB%9D%A0%EC%97%A3%EC%BF%A0%EC%96%B4%EC%9C%BD%EC%9E%89%EA%B7%B8%EC%9E%87.zip",
+            "MD5": "9d58b53256dab7d1d7c1b564e641992f",
+            "path": "mods/memory_repo/응우연띠엣쿠어윽잉그잇.zip"
+          }
+        },
+        {
+          "id": "250.png",
+          "name": "250.png",
+          "type": "File",
+          "artifact": {
+            "size": 2807,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/250.png",
+            "MD5": "e3ff24c1ab4a8c9b65a453c567034606",
+            "path": "resources/hanavi/250.png"
+          }
+        },
+        {
+          "id": "bg.png",
+          "name": "bg.png",
+          "type": "File",
+          "artifact": {
+            "size": 2637224,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/bg.png",
+            "MD5": "d138a181a270bb9393da7626684739ef",
+            "path": "resources/hanavi/bg.png"
+          }
+        },
+        {
+          "id": "bg2.png",
+          "name": "bg2.png",
+          "type": "File",
+          "artifact": {
+            "size": 1074647,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/bg2.png",
+            "MD5": "aaa9aa30b90c4de8fefeabd8c1d13a0b",
+            "path": "resources/hanavi/bg2.png"
+          }
+        },
+        {
+          "id": "discord.png",
+          "name": "discord.png",
+          "type": "File",
+          "artifact": {
+            "size": 245539,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/discord.png",
+            "MD5": "4f1891391ead8ea4ee00036e63a7b985",
+            "path": "resources/hanavi/discord.png"
+          }
+        },
+        {
+          "id": "event.png",
+          "name": "event.png",
+          "type": "File",
+          "artifact": {
+            "size": 251933,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/event.png",
+            "MD5": "c06542d30f797cf34d2bcf8100691a40",
+            "path": "resources/hanavi/event.png"
+          }
+        },
+        {
+          "id": "gongji.png",
+          "name": "gongji.png",
+          "type": "File",
+          "artifact": {
+            "size": 245421,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/gongji.png",
+            "MD5": "57599c1d4527fe4b0e575bf014d515c5",
+            "path": "resources/hanavi/gongji.png"
+          }
+        },
+        {
+          "id": "hanavi black.png",
+          "name": "hanavi black.png",
+          "type": "File",
+          "artifact": {
+            "size": 55767,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/hanavi%20black.png",
+            "MD5": "fc1c9cbfac61c9dc69841d0c9ae96382",
+            "path": "resources/hanavi/hanavi black.png"
+          }
+        },
+        {
+          "id": "hanavi ipjang.png",
+          "name": "hanavi ipjang.png",
+          "type": "File",
+          "artifact": {
+            "size": 52561,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/hanavi%20ipjang.png",
+            "MD5": "6ad10a698dc7a60874fa00d812eb6bc3",
+            "path": "resources/hanavi/hanavi ipjang.png"
+          }
+        },
+        {
+          "id": "jongryo.png",
+          "name": "jongryo.png",
+          "type": "File",
+          "artifact": {
+            "size": 35275,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/jongryo.png",
+            "MD5": "4fd06952a1a340e69f51f4c4d47e8f52",
+            "path": "resources/hanavi/jongryo.png"
+          }
+        },
+        {
+          "id": "realbg.png",
+          "name": "realbg.png",
+          "type": "File",
+          "artifact": {
+            "size": 28766,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/realbg.png",
+            "MD5": "c5d94282f7fbf6fd70ff8954e3d95d5e",
+            "path": "resources/hanavi/realbg.png"
+          }
+        },
+        {
+          "id": "1.png",
+          "name": "1.png",
+          "type": "File",
+          "artifact": {
+            "size": 2637224,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/slideshow/1.png",
+            "MD5": "d138a181a270bb9393da7626684739ef",
+            "path": "resources/hanavi/slideshow/1.png"
+          }
+        },
+        {
+          "id": "2.png",
+          "name": "2.png",
+          "type": "File",
+          "artifact": {
+            "size": 2132596,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/slideshow/2.png",
+            "MD5": "fa31d7a3d1adfdd161514377b13aaa2e",
+            "path": "resources/hanavi/slideshow/2.png"
+          }
+        },
+        {
+          "id": "3.png",
+          "name": "3.png",
+          "type": "File",
+          "artifact": {
+            "size": 3024788,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/slideshow/3.png",
+            "MD5": "b3373d726f0df285b6d4ed1cf9bac753",
+            "path": "resources/hanavi/slideshow/3.png"
+          }
+        },
+        {
+          "id": "4.png",
+          "name": "4.png",
+          "type": "File",
+          "artifact": {
+            "size": 2082755,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/slideshow/4.png",
+            "MD5": "4935916ab7a78dd9cdf5f4ff86c0c437",
+            "path": "resources/hanavi/slideshow/4.png"
+          }
+        },
+        {
+          "id": "tmnm.png",
+          "name": "tmnm.png",
+          "type": "File",
+          "artifact": {
+            "size": 18549,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/tmnm.png",
+            "MD5": "426730d13eef8902932efe387bd00f2c",
+            "path": "resources/hanavi/tmnm.png"
+          }
+        },
+        {
+          "id": "topgui.png",
+          "name": "topgui.png",
+          "type": "File",
+          "artifact": {
+            "size": 23981,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/resources/hanavi/topgui.png",
+            "MD5": "7abf6ae92301ef290e4fa3e7bc1e2b12",
+            "path": "resources/hanavi/topgui.png"
+          }
+        },
+        {
+          "id": "BSL_v8.2.01.zip",
+          "name": "BSL_v8.2.01.zip",
+          "type": "File",
+          "artifact": {
+            "size": 926319,
+            "url": "https://github.com/Spotky1004P/HANAVI-Launcher-Distribution/raw/main/servers/hanavi-1.12.2/files/shaderpacks/BSL_v8.2.01.zip",
+            "MD5": "4ca83f38afb8b144acb0f54cd17b35e4",
+            "path": "shaderpacks/BSL_v8.2.01.zip"
+          }
         }
       ]
     }

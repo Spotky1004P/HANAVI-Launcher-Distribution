@@ -1,0 +1,8 @@
+{
+    "world": {
+        "areas": [
+            [-383, 1, -255, 255, 180, 383, "flowerreal"]
+        ],
+        "default": "flowerreal"
+    }
+}

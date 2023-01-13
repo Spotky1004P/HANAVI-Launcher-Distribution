@@ -1,0 +1,385 @@
+
+[General]
+	#Allows players to receive extra hearts based on their doriki
+	#Default: true
+	"Extra Hearts" = true
+	#Allows mobs to reward doriki, bounty or items
+	#Default: true
+	"Mob Rewards" = true
+	#Multiplies any doriki gained by this amount
+	#Default: 1
+	#Range: 0.0 ~ 10.0
+	"Doriki Reward Multiplier" = 1.0
+	#Guarantees a minimum of 1 doriki per kill
+	# If used together with a Haki Exp Multiplier with a multiplier less than <1.0 it will convert it to chances
+	#Default: false
+	"Minimum Doriki per Kill" = false
+	#Multiplies any haki gained by this amount
+	#Default: 1
+	#Range: 0.0 ~ 10.0
+	"Haki Exp Multiplier" = 1.0
+	#Responsible for how player unlock Haoshoku Haki; 
+	# NONE - Haoshoku Haki cannot be unlocked naturally 
+	# RANDOM - Only a few chosen ones receive it when they spawn 
+	# EXPERIENCE - Will unlock based on the total amount of Haki experience a player has
+	# COMBINED - Combiens the logic of RANDOM and EXPERIENCE
+	# TRUE_RANDOM - Each world / server has its own pool of randomly chosen Haoshoku Haki users
+	#Default: EXPERIENCE
+	#Allowed Values: NONE, RANDOM, EXPERIENCE, COMBINED, TRUE_RANDOM
+	"Haoshoku Haki Unlock Logic" = "EXPERIENCE"
+	#Destroys the spawner after all its spawns are killed
+	#Default: true
+	"Destroy Spawner" = true
+	#Allows big explosions to destroy water 
+	#Default: false
+	"Explosions can destroy water" = false
+	#Normally despawns traders and trainers even if they're nametagged 
+	#Default: false
+	"Despawn NPCs with Nametags" = false
+	#Sets a new limit for maximum doriki a player may obtain 
+	#Default: 10000
+	#Range: 0 ~ 50000
+	"Doriki Limit" = 10000
+	#Sets a new limit for maximum haki exp a player may obtain 
+	#Default: 100
+	#Range: 0 ~ 300
+	"Haki Exp Limit" = 100
+	#Randomizes the player's race at spawn (making the player unable to choose a race themselves) 
+	#Default: false
+	"Race Randomizer" = false
+	#Allows the players to pickup items while the combat bar is active 
+	#Default: true
+	"Combat Bar Pickup" = true
+	#Allows vanilla and other modded NPCs to use Busoshoku Haki, has no visual effect on their model however and its purely mechanical 
+	#Default: true
+	"Native Busoshoku Haki" = true
+	#List with ability names that are banned, the names can be written in any case with or without spaces
+	"Banned Abilities" = ["example1", "example2"]
+	#List with ability names that are allowed inside protection zones, the names should be written as resource locations similar to the below examples, if no namespace is provided 'mineminenomi' will be applied by default.
+	"Protection Whitelist" = ["example1", "mineminenomi:example2"]
+	#Defines which logic to apply after a player's death 
+	# NONE - nothing is kept 
+	# AUTO - only the faction/race/fighting style stats are kept 
+	# FULL - everything is kept 
+	# CUSTOM - will use the 'Stats to Keep' section to determine which stats to keep
+	#Default: AUTO
+	#Allowed Values: NONE, AUTO, FULL, CUSTOM
+	"Keep Stats after Death" = "AUTO"
+
+	#Please note that these settings only work if the "Keep stats after Death" option is set to CUSTOM!
+	[General."Stats to Keep"]
+		"Keep Doriki" = true
+		"Keep Bounty" = true
+		"Keep Belly" = true
+		"Keep Race" = true
+		"Keep Faction" = true
+		"Keep Fighting Style" = true
+		"Keep Devil Fruit" = true
+		"Keep Haki Exp" = true
+		"Keep Loyalty" = true
+		#Percentage of doriki to keep after death
+		#Default: 33
+		#Range: 0 ~ 100
+		"Percentage of Doriki kept after death" = 33
+		#Percentage of bounty to keep after death
+		#Default: 33
+		#Range: 0 ~ 100
+		"Percentage of Bounty kept after death" = 33
+		#Percentage of belly to keep after death
+		#Default: 33
+		#Range: 0 ~ 100
+		"Percentage of Belly kept after death" = 33
+		#Percentage of haki exp to keep after death
+		#Default: 33
+		#Range: 0 ~ 100
+		"Percentage of Haki Exp kept after death" = 33
+		#Percentage of faction loyalty to keep after death
+		#Default: 50
+		#Range: 0 ~ 100
+		"Percentage of Loyalty kept after death" = 50
+
+["Devil Fruits / Abilities"]
+	#Invulnerability to avoid attacks
+	#Default: true
+	"Ability Invulnerability" = true
+	#Makes getting out of water much harder as it's supposed to be
+	#Default: false
+	"Devil Fruit Extended Weakness Checks" = false
+	#How logias get affected by projectiles; 
+	# NONE - No projectile can damage logias 
+	# HAKI - Physical projectiles with buso cause damage 
+	# EXTENDED - HAKI + any attack considered special deals damage to logias 
+	#Default: EXTENDED
+	#Allowed Values: NONE, HAKI, EXTENDED
+	"Logia Projectiles Invulnerability" = "EXTENDED"
+	#Enables logia's invulnerability
+	"Logia Invulnerability" = true
+	#Allows logia users to have different effects when punched
+	#Default: false
+	"Logia Return Effect" = false
+	#Allows Devil Fruits to drop from leaves if higher than 0
+	#Default: 0
+	#Range: 0.0 ~ 100.0
+	"Chance for Devil Fruits to drop from leaves" = 0.0
+	#Allows abilities to break or replace blocks; if turned OFF it will make some abilities completly useless
+	#Default: true
+	"Ability Griefing" = true
+	#Allows Gasu Gasu no Mi, Moku Moku no Mi and Suna Suna no Mi users to fly, this option does not affect flying Zoans which will be able to fly regardless
+	#Default: true
+	"Special Flying" = true
+	#Makes the fire and lava damage source to reduce fire resistance; only applies to move attacks from fruits 
+	#Default: true
+	"Special Source Events" = true
+	#Allows Yami Yami no Mi users to eat an additional fruit
+	#Default: true
+	"Yami Yami no Mi additional fruit" = true
+	#Runs a check for all abilities on a player to remove dupes or suspicious abilities when the player joins the world
+	#Default: true
+	"Ability Fraud Checks" = true
+	#Used to determine the logic for when a continuous ability is used while another continuous ability is being used;
+	# true - Currently used ability is stopped and the newly used ability starts its process
+	# false - The current ability is NOT stopped and the used ability has no effect
+	#Default: true
+	"Stop Continuous Abilities" = true
+	#Number of ability bars;
+	#Default: 2
+	#Range: 1 ~ 10
+	"Ability Bars" = 2
+	#Enables the shared cooldown between similar abilities
+	#Default: true
+	"Shared Cooldowns" = true
+	#Will send a chat message to nearby players with the used ability's name
+	#Default: false
+	"Anime Scream" = false
+	#Will randomize all visual aspects of a devil fruit, making them impossible to identify
+	#Default: false
+	"Randomized Fruits" = false
+
+	#These options only work when "One Fruit per World" option is set to EXTENDED!
+	["Devil Fruits / Abilities"."One Fruit Per World"]
+		#Restricts the Devil Fruit spawns to only 1 of each type per world; 
+		# NONE - No logic is applied, an infinite number of each fruit can exist 
+		# SIMPLE - No more than one fruit type can be acquired via natural means (chests, leaves, fruit reincarnations etc) 
+		# EXTENDED - Extra rules are applied on top of the SIMPLE set that blocks any means (or as many as possible) of storing/hoarding fruits 
+		#Default: NONE
+		#Allowed Values: NONE, SIMPLE, EXTENDED
+		"One Devil Fruit per World Logic" = "NONE"
+		#If the player already has a devil fruit then they will be unable to pickup any other fruit;
+		#Default: false
+		"Unable to pickup Devil Fruit as a fruit user" = false
+		#Sets the limit for how many fruits a player can hold in their inventory;
+		#Default: 3
+		#Range: 1 ~ 10
+		"Inventory Fruit Limit" = 3
+		#Defines how many days a player has to be offline before their Devil Fruits are removed
+		#A value of 0 means the setting is disabled and fruits will not be removed for inactivity!;
+		#Default: 6
+		#Range: 0 ~ 30
+		"Days for Inactivity" = 6
+
+	["Devil Fruits / Abilities"."Devil Fruits Reincarnation"]
+		#Sets the % chance for a Devil Fruit to get reincarnated from a dropped apple
+		#Default: 15
+		#Range: 0.0 ~ 100.0
+		"Dropped Apple Reincarnation Chance" = 15.0
+		#Sets the % chance for a Devil Fruit to get reincarnated from an apple inside an entity's inventory
+		#Default: 1
+		#Range: 0.0 ~ 100.0
+		"Inventory Apple Reincarnation Chance" = 1.0
+		#Sets the % chance for a Devil Fruit to get reincarnated from an apple inside of a nearby chest
+		#Default: 1
+		#Range: 0.0 ~ 100.0
+		"Chest Apple Reincarnation Chance" = 1.0
+
+[Structures]
+
+	[Structures."Training Structures"]
+		#Allows training structures to spawn in the world
+		#Default: true
+		"Spawn Training Structures" = true
+		#Sets the % chance for a training structure to spawn
+		#Default: 60
+		#Range: 0.0 ~ 100.0
+		"Training Structure Spawn Chance" = 60.0
+
+	[Structures."Ghost Ships"]
+		#Allows ghost ships to spawn in the world
+		#Default: true
+		"Spawn Ghost Ships" = true
+		#Sets the % chance for a Ghost Ship to spawn, the % is calculated per chunk (16x16)
+		#Default: 30
+		#Range: 0.0 ~ 100.0
+		"Ghost Ships Spawn Chance" = 30.0
+
+	[Structures."Sky Islands"]
+		#Allows sky islands to spawn in the world
+		#Default: true
+		"Spawn Sky Islands" = true
+		#Sets the % chance for a Sky Island to spawn, the % is calculated per chunk (16x16)
+		#Default: 5
+		#Range: 0.0 ~ 100.0
+		"Sky Islands Spawn Chance" = 5.0
+
+	[Structures."Small Ships"]
+		#Allows small ships to spawn in the world
+		#Default: true
+		"Spawn Small Ships" = true
+		#Sets the % chance for a Small Ship to spawn, the % is calculated per chunk (16x16)
+		#Default: 10
+		#Range: 0.0 ~ 100.0
+		"Small Ships Spawn Chance" = 10.0
+
+	[Structures."Medium Ships"]
+		#Allows medium ships to spawn in the world
+		#Default: true
+		"Spawn Medium Ships" = true
+		#Sets the % chance for a Medium Ship to spawn, the % is calculated per chunk (16x16)
+		#Default: 70
+		#Range: 0.0 ~ 100.0
+		"Medium Ships Spawn Chance" = 70.0
+
+	[Structures."Large Ships"]
+		#Allows large ships to spawn in the world
+		#Default: true
+		"Spawn Large Ships" = true
+		#Sets the % chance for a Large Ships to spawn, the % is calculated per chunk (16x16)
+		#Default: 30
+		#Range: 0.0 ~ 100.0
+		"Large Ships Spawn Chance" = 30.0
+
+	[Structures.Camps]
+		#Allows camps to spawn in the world
+		#Default: true
+		"Spawn Camps" = true
+		#Sets the % chance for a Camp to spawn, the % is calculated per chunk (16x16)
+		#Default: 60
+		#Range: 0.0 ~ 100.0
+		"Camps Spawn Chance" = 60.0
+
+	[Structures."Small Bases"]
+		#Allows small bases to spawn in the world
+		#Default: true
+		"Spawn Small Bases" = true
+		#Sets the % chance for a Small Base to spawn, the % is calculated per chunk (16x16)
+		#Default: 70
+		#Range: 0.0 ~ 100.0
+		"Small Bases Spawn Chance" = 70.0
+
+	[Structures."Large Bases"]
+		#Allows large bases to spawn in the world
+		#Default: true
+		"Spawn Large Bases" = true
+		#Sets the % chance for a Large Base to spawn, the % is calculated per chunk (16x16)
+		#Default: 80
+		#Range: 0.0 ~ 100.0
+		"Large Bases Spawn Chance" = 80.0
+
+	[Structures."Watch Tower"]
+		#Allows watch towers to spawn in the world
+		#Default: true
+		"Spawn Watch Towers" = true
+		#Sets the % chance for a Watch Tower to spawn, the % is calculated per chunk (16x16)
+		#Default: 5%
+		#Range: 0.0 ~ 100.0
+		"Watch Tower Spawn Chance" = 5.0
+
+	[Structures.Poneglyph]
+		#Allows poneglyphs to spawn in the world
+		#Default: true
+		"Spawn Poneglyphs" = true
+		#Sets the % chance for a Poneglyph to spawn, the % is calculated per chunk (16x16)
+		#Default: 30
+		#Range: 0.0 ~ 100.0
+		"Poneglyph Spawn Chance" = 30.0
+
+[Quests]
+	#Allows quests to be accepted / completed
+	#Default: true
+	Quests = true
+	#Allows quests to reward players with abilities, otherwise all abilities will be unlocked from the beginning
+	#Default: true
+	"Quest Progression" = true
+
+[Challenges]
+	#Enabled the challenges menu and activation by players
+	#Default: true
+	Challenges = true
+	#Enabled retaking of already completed challenges
+	#Default: false
+	"Retake Challenges" = false
+
+["World Events"]
+	#Allows random aggressive faction NPCs to spawn in the world (Marines/Pirates/Bandits enemies)
+	#Default: true
+	"World NPCs Spawns" = true
+
+	["World Events".Traders]
+		#Allows Traders to spawn in the world
+		#Default: true
+		"Trader Spawns" = true
+		#Determines the time (in seconds) between two spawn attempts
+		#Default: 1800
+		#Range: 1 ~ 3600
+		"Time Between Trader Spawns" = 1800
+		#Determines the % chance for a trader to spawn
+		#Default: 1
+		#Range: 1 ~ 100
+		"Chance for Trader Spawns" = 1
+
+	["World Events".Trainers]
+		#Allows Trainers to spawn in the world
+		#Default: true
+		"Trainer Spawns" = true
+		#Determines the time (in seconds) between two spawn attempts
+		#Default: 1800
+		#Range: 1 ~ 3600
+		"Time Between Trainer Spawns" = 1800
+		#Determines the % chance for a trainer to spawn
+		#Default: 15
+		#Range: 1 ~ 100
+		"Chance for Trainer Spawns" = 15
+
+	["World Events".Ambushes]
+		#Allows Ambushes to spawn in the world
+		#Default: true
+		"Ambushe Spawns" = true
+		#Determines the time (in seconds) between two spawn attempts
+		#Default: 3600
+		#Range: 1 ~ 3600
+		"Time Between Ambushes Spawns" = 3600
+		#Determines the % chance for a ambush to spawn
+		#Default: 15
+		#Range: 1 ~ 100
+		"Chance for Ambush Spawns" = 15
+
+[Ores]
+	#Kairoseki count per chunk
+	#Default: 5
+	#Range: 1 ~ 20
+	"Kairoseki Count" = 2
+	#Kairoseki maximum height
+	#Default: 128
+	#Range: 1 ~ 128
+	"Kairoseki Height Spawn" = 64
+
+[Crews]
+	#Bounty Requirement for creating a crew; 0 means no requirement
+	#Default: 0
+	#Range: 0 ~ 100000
+	"Bounty Requirement" = 0
+	#Sends a message to all players when a new crew gets formed
+	#Default: false
+	"World Message" = false
+	#Disabled the friendly damage between crewmates
+	#Default: true
+	"Disable Friendly Damage" = true
+
+[Bounty]
+	#Allows wanted poster packages to drop from the sky
+	#Default: true
+	"Wanted Poster Package Drops" = true
+	#Time it takes for another package to drop
+	#Default: 18000 (15 minutes)
+	#Range: 0 ~ 72000
+	"Time Between Package Drops" = 18000
+

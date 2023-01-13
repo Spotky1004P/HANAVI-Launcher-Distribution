@@ -1,0 +1,213 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "hanavi:hanavi black.png",
+            "posX" : -192,
+            "posY" : 7,
+            "width" : 0,
+            "height" : 0,
+            "alignment" : "top_center"
+        },
+        
+        "edition":
+        {
+            "image" : "hanavi:250.png",
+            "posX" : -49,
+            "posY" : 67,
+            "width" : 128,
+            "height" : 16,
+            "alignment" : "top_center"
+        },
+		
+        "tmnm":
+        {
+            "image" : "hanavi:tmnm.png",
+            "posX" : -102,
+            "posY" : 7,
+            "width" : 0,
+            "height" : 0,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "",
+			"texture": "hanavi:hanavi ipjang.png",
+			"imageWidth": 250,
+			"imageHeight": 250,
+            "posX" : -202,
+            "posY" : -52,
+            "width" : 70,
+            "height" : 70,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "hanavi.kro.kr"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "",
+            "posX" : -207,
+            "posY" : 47,
+            "width" : 0,
+            "height" : 0,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "hanavikorea.com"
+            }
+        },
+		
+		"test":
+        {
+            "text" : "",
+			"texture": "hanavi:gongji.png",
+			"imageWidth": 640,
+			"imageHeight": 360,
+            "posX" : -207,
+            "posY" : 20,
+            "width" : 80,
+            "height" : 45,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.hanavikorea.com/forum/gongjisahang"
+            }
+        },
+		
+		"test2":
+        {
+            "text" : "",
+			"texture": "hanavi:event.png",
+			"imageWidth": 640,
+			"imageHeight": 360,
+            "posX" : -207,
+            "posY" : 70,
+            "width" : 80,
+            "height" : 45,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.hanavikorea.com/forum/gongjisahang"
+            }
+        },
+        
+		"test3":
+        {
+            "text" : "",
+			"texture": "hanavi:discord.png",
+			"imageWidth": 640,
+			"imageHeight": 360,
+            "posX" : -207,
+            "posY" : 120,
+            "width" : 80,
+            "height" : 45,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/3UY8arY4kc"
+            }
+        },
+		
+        "mods":
+        {
+            "text" : "",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 0,
+            "height" : 0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "",
+			"texture": "hanavi:topgui.png",
+			"imageWidth": 250,
+			"imageHeight": 250,
+            "posX" : 142,
+            "posY" : 142,
+            "width" : 25,
+            "height" : 25,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "",
+			"texture": "hanavi:jongryo.png",
+			"imageWidth": 512,
+			"imageHeight": 512,
+            "posX" : 172,
+            "posY" : 142,
+            "width" : 25,
+            "height" : 25,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -124,
+            "posY" : 132,
+            "width" : 0,
+            "height" : 0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -204,
+            "posY" : 152,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        
+    },
+    
+    "other":
+    {
+        
+        
+        "panorama":
+        {
+            "images" : "hanavi:bg2.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : false,
+            "gradient" : true
+        }
+    }
+}
