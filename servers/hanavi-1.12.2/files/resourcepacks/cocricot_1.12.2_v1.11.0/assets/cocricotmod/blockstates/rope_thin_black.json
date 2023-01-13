@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "up=false": { "model": "cocricotmod:rope_thin_black" },
-        "up=true": { "model": "cocricotmod:rope_thin_black_true" }
-    }
-}

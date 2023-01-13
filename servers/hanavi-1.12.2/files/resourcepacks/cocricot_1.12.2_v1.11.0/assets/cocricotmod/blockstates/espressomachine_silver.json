@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:espressomachine_silver", "y": 180 },
-        "facing=west": { "model": "cocricotmod:espressomachine_silver", "y": 270 },
-        "facing=north": { "model": "cocricotmod:espressomachine_silver" },
-        "facing=east": { "model": "cocricotmod:espressomachine_silver", "y": 90 }
-    }
-}

@@ -1,6 +1,0 @@
-{
-	"parent": "cocricotmod:block/woodfence_rope_item",
-	"textures": {
-		"0": "cocricotmod:blocks/planks_white_stick"
-	}
-}

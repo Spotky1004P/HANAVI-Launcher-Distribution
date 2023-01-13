@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:bread_woodtray_big", "y": 180 },
-        "facing=west": { "model": "cocricotmod:bread_woodtray_big", "y": 270 },
-        "facing=north": { "model": "cocricotmod:bread_woodtray_big" },
-        "facing=east": { "model": "cocricotmod:bread_woodtray_big", "y": 90 }
-    }
-}

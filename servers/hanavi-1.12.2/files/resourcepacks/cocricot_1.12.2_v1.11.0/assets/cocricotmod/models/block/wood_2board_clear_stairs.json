@@ -1,8 +1,0 @@
-{
-    "parent": "block/stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/wood_2board_clear",
-        "top": "cocricotmod:blocks/wood_2board_clear",
-        "side": "cocricotmod:blocks/wood_2board_clear"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:hook_hanging_driftwood", "y": 180 },
-        "facing=west": { "model": "cocricotmod:hook_hanging_driftwood", "y": 270  },
-        "facing=north": { "model": "cocricotmod:hook_hanging_driftwood" },
-        "facing=east": { "model": "cocricotmod:hook_hanging_driftwood", "y": 90 }
-    }
-}

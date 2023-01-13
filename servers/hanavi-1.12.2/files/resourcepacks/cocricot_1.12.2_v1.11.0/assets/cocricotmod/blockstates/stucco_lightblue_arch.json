@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:stucco_lightblue_arch", "y": 270 },
-        "facing=west": { "model": "cocricotmod:stucco_lightblue_arch" },
-        "facing=north": { "model": "cocricotmod:stucco_lightblue_arch", "y": 90 },
-        "facing=east": { "model": "cocricotmod:stucco_lightblue_arch", "y": 180 }
-    }
-}

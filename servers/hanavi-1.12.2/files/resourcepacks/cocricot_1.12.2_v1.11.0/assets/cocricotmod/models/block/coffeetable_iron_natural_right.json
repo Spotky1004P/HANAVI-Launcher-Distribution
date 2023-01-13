@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/coffeetable_iron_right",
-    "textures": {
-        "1": "cocricotmod:blocks/planks_natural"
-    }
-}

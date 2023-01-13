@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:rangehood_silver", "y": 180 },
-        "facing=west": { "model": "cocricotmod:rangehood_silver", "y": 270 },
-        "facing=north": { "model": "cocricotmod:rangehood_silver" },
-        "facing=east": { "model": "cocricotmod:rangehood_silver", "y": 90 }
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "lighting=true": { "model": "cocricotmod:candle_shell" },
-        "lighting=false": { "model": "cocricotmod:candle_shell_false" }
-    }
-}

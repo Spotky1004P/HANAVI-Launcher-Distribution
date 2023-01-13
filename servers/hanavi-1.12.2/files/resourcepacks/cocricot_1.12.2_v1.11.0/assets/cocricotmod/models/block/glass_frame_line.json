@@ -1,7 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_cube_topside",
-    "textures": {
-        "side": "cocricotmod:blocks/glass_frame_line",
-        "top": "cocricotmod:blocks/glass_frame_line_top"
-    }
-}

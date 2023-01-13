@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:shelf_normal_winebottle" },
-        "facing=west": { "model": "cocricotmod:shelf_normal_winebottle", "y": 90 },
-        "facing=north": { "model": "cocricotmod:shelf_normal_winebottle" },
-        "facing=east": { "model": "cocricotmod:shelf_normal_winebottle", "y": 90 }
-    }
-}

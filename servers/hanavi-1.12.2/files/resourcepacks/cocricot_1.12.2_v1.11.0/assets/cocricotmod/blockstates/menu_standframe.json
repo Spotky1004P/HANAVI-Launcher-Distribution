@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:menu_standframe", "y": 270 },
-        "facing=west": { "model": "cocricotmod:menu_standframe" },
-        "facing=north": { "model": "cocricotmod:menu_standframe", "y": 90 },
-        "facing=east": { "model": "cocricotmod:menu_standframe", "y": 180 }
-    }
-}

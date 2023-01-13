@@ -1,7 +1,0 @@
-{
-    "parent": "cocricotmod:block/shutter",
-    "textures": {
-      "top": "cocricotmod:blocks/shutter_louvered_blue_top",
-      "side": "cocricotmod:blocks/shutter_louvered_blue"
-    }
-}

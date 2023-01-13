@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:slantbar_natural", "y": 90 },
-        "facing=west": { "model": "cocricotmod:slantbar_natural", "y": 180 },
-        "facing=north": { "model": "cocricotmod:slantbar_natural", "y": 270 },
-        "facing=east": { "model": "cocricotmod:slantbar_natural" }
-    }
-}

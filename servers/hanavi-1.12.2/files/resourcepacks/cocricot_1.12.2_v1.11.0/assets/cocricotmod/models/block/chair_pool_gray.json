@@ -1,6 +1,0 @@
-{
-	"parent": "cocricotmod:block/chair_pool_white",
-	"textures": {
-		"0": "cocricotmod:blocks/bed_frame_wood_simple_dark"
-	}
-}

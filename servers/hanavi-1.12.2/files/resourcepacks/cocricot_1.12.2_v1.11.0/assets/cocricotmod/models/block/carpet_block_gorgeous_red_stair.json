@@ -1,8 +1,0 @@
-{
-    "parent": "cocricotmod:block/carpet_stair",
-    "textures": {
-        "top": "cocricotmod:blocks/carpet_block_gorgeous_red",
-        "front": "cocricotmod:blocks/carpet_block_gorgeous_red24",
-        "side": "cocricotmod:blocks/carpet_block_gorgeous_red26"
-    }
-}

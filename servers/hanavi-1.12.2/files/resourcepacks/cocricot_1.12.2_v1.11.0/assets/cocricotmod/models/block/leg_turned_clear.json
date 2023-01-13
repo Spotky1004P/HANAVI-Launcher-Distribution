@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "cocricotmod:blocks/leg_turned_clear"
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_arch_single",
-    "textures": {
-      "texture": "cocricotmod:blocks/brick_red_white_"
-    }
-}

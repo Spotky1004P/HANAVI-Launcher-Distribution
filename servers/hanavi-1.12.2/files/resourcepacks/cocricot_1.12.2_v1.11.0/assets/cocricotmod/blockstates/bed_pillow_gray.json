@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:bed_pillow_gray" },
-        "facing=west": { "model": "cocricotmod:bed_pillow_gray", "y": 90 },
-        "facing=north": { "model": "cocricotmod:bed_pillow_gray", "y": 180 },
-        "facing=east": { "model": "cocricotmod:bed_pillow_gray", "y": 270 }
-    }
-}

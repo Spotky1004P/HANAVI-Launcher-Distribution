@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:stair_spiral_dark_top", "y": 270 },
-        "facing=west": { "model": "cocricotmod:stair_spiral_dark_top" },
-        "facing=north": { "model": "cocricotmod:stair_spiral_dark_top", "y": 90 },
-        "facing=east": { "model": "cocricotmod:stair_spiral_dark_top", "y": 180 }
-    }
-}

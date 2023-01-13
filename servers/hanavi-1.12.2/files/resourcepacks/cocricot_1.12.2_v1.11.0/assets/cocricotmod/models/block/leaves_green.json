@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/leaves",
-    "textures": {
-      "texture": "cocricotmod:blocks/leaves_green"
-    }
-}

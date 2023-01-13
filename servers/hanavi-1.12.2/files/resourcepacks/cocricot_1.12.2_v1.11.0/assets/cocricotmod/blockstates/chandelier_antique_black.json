@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "lighting=true": { "model": "cocricotmod:chandelier_antique_black" },
-        "lighting=false": { "model": "cocricotmod:chandelier_antique_black_false" }
-    }
-}

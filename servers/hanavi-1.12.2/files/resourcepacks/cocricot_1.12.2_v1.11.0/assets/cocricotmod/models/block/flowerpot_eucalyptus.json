@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_cross_odd",
-    "textures": {
-        "cross": "cocricotmod:blocks/flowerpot_eucalyptus"
-    }
-}

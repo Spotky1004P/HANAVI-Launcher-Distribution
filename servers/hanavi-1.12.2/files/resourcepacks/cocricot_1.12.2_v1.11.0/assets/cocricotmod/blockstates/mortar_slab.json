@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=bottom,variant=default": { "model": "cocricotmod:mortar_slab" },
-        "half=top,variant=default": { "model": "cocricotmod:mortar_slab_upper" }
-    }
-}

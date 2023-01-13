@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/bonfire",
-    "textures": {
-  		"1": "cocricotmod:blocks/transparent"
-  	}
-}

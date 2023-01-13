@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:woodenbox_apple" },
-        "facing=west": { "model": "cocricotmod:woodenbox_apple", "y": 90 },
-        "facing=north": { "model": "cocricotmod:woodenbox_apple", "y": 180 },
-        "facing=east": { "model": "cocricotmod:woodenbox_apple", "y": 270 }
-    }
-}

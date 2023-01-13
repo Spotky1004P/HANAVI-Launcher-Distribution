@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:fireplace_gray", "y": 180 },
-        "facing=west": { "model": "cocricotmod:fireplace_gray", "y": 270 },
-        "facing=north": { "model": "cocricotmod:fireplace_gray" },
-        "facing=east": { "model": "cocricotmod:fireplace_gray", "y": 90 }
-    }
-}

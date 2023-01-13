@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:doormat", "y": 180 },
-        "facing=west": { "model": "cocricotmod:doormat", "y": 270 },
-        "facing=north": { "model": "cocricotmod:doormat" },
-        "facing=east": { "model": "cocricotmod:doormat", "y": 90 }
-    }
-}

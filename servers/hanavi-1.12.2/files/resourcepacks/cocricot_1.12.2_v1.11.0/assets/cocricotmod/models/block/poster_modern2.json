@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/poster_modern",
-    "textures": {
-        "0": "cocricotmod:blocks/poster_modern2"
-    }
-}

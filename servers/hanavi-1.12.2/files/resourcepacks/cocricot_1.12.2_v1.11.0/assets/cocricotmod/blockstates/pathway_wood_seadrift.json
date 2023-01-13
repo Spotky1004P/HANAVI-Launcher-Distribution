@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:pathway_wood_seadrift", "y": 180 },
-        "facing=west": { "model": "cocricotmod:pathway_wood_seadrift", "y": 270 },
-        "facing=north": { "model": "cocricotmod:pathway_wood_seadrift" },
-        "facing=east": { "model": "cocricotmod:pathway_wood_seadrift", "y": 90 }
-    }
-}

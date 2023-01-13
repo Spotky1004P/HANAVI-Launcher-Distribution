@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:mailbox_red_white", "y": 180 },
-        "facing=west": { "model": "cocricotmod:mailbox_red_white", "y": 270 },
-        "facing=north": { "model": "cocricotmod:mailbox_red_white" },
-        "facing=east": { "model": "cocricotmod:mailbox_red_white", "y": 90 }
-    }
-}

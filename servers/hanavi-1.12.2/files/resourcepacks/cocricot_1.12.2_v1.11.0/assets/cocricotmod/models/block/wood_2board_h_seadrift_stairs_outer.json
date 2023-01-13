@@ -1,8 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_stairs_h_outer",
-    "textures": {
-        "bottom": "cocricotmod:blocks/wood_2board_seadrift",
-        "top": "cocricotmod:blocks/wood_2board_seadrift",
-        "side": "cocricotmod:blocks/wood_2board_seadrift"
-    }
-}

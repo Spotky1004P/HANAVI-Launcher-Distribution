@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=bottom,variant=default": { "model": "cocricotmod:stone_plane_sand_slab" },
-        "half=top,variant=default": { "model": "cocricotmod:stone_plane_sand_slab_upper" }
-    }
-}

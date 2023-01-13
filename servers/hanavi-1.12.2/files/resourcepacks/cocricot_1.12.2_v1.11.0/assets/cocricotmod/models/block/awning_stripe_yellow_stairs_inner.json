@@ -1,8 +1,0 @@
-{
-    "parent": "block/inner_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/awning_stripe_yellow_upper",
-        "top": "cocricotmod:blocks/awning_stripe_yellow_upper",
-        "side": "cocricotmod:blocks/awning_stripe_yellow_upper"
-    }
-}

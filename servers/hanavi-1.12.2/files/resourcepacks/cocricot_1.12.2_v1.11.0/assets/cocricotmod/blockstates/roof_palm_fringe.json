@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=east": { "model": "cocricotmod:roof_palm_fringe", "y": 270 },
-        "facing=south": { "model": "cocricotmod:roof_palm_fringe" },
-        "facing=west": { "model": "cocricotmod:roof_palm_fringe", "y": 90 },
-        "facing=north": { "model": "cocricotmod:roof_palm_fringe", "y": 180 }
-    }
-}

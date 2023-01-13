@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:hammock_simple", "y": 180 },
-        "facing=west": { "model": "cocricotmod:hammock_simple", "y": 270 },
-        "facing=north": { "model": "cocricotmod:hammock_simple" },
-        "facing=east": { "model": "cocricotmod:hammock_simple", "y": 90 }
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/chair_beach_white",
-    "textures": {
-        "0": "cocricotmod:blocks/chair_beach_stripe_blue"
-    }
-}

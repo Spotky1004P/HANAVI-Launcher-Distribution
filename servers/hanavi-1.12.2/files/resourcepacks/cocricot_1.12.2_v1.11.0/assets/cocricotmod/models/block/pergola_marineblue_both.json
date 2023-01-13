@@ -1,7 +1,0 @@
-{
-    "parent": "cocricotmod:block/pergola_brown_both",
-    "textures": {
-        "particle": "cocricotmod:blocks/stucco_marineblue",
-        "0": "cocricotmod:blocks/pergola_marineblue"
-    }
-}

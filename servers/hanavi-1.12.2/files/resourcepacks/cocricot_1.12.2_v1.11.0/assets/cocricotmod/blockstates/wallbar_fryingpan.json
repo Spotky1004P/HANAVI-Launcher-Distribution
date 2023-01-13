@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:wallbar_fryingpan", "y": 180 },
-        "facing=west": { "model": "cocricotmod:wallbar_fryingpan", "y": 270 },
-        "facing=north": { "model": "cocricotmod:wallbar_fryingpan" },
-        "facing=east": { "model": "cocricotmod:wallbar_fryingpan", "y": 90 }
-    }
-}

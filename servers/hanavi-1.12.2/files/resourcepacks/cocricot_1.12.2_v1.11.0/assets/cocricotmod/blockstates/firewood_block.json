@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "axis=x": { "model": "cocricotmod:firewood_block", "y":90, "x":90 },
-        "axis=z": { "model": "cocricotmod:firewood_block", "x":90 }
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_nothickness_side",
-    "textures": {
-        "texture": "cocricotmod:blocks/chain_horizontal"
-    }
-}

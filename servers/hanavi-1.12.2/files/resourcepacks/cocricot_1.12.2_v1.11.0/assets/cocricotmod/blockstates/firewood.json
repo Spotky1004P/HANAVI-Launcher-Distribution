@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": [{ "model": "cocricotmod:firewood", "y": 180 },{ "model": "cocricotmod:firewood1", "y": 180 }],
-        "facing=west": [{ "model": "cocricotmod:firewood", "y": 270 },{ "model": "cocricotmod:firewood1", "y": 270 }],
-        "facing=north": [{ "model": "cocricotmod:firewood" },{ "model": "cocricotmod:firewood1" }],
-        "facing=east": [{ "model": "cocricotmod:firewood", "y": 90 },{ "model": "cocricotmod:firewood1", "y": 90 }]
-    }
-}

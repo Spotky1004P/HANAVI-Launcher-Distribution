@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "slab=true": { "model": "cocricotmod:counterstool_industrial_seadrift" },
-        "slab=false": { "model": "cocricotmod:counterstool_industrial_seadrift_false" }
-    }
-}

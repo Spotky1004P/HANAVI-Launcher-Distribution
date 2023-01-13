@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/mortar",
-        "top": "cocricotmod:blocks/mortar",
-        "side": "cocricotmod:blocks/mortar"
-    }
-}

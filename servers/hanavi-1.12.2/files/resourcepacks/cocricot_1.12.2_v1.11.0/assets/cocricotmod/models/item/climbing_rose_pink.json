@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "cocricotmod:blocks/climbing_rose_pink_item"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": [{ "model": "cocricotmod:bread_woodtray", "y": 180 },{ "model": "cocricotmod:bread_woodtray1", "y": 180 },{ "model": "cocricotmod:bread_woodtray2", "y": 180 },{ "model": "cocricotmod:bread_woodtray3", "y": 180 },{ "model": "cocricotmod:bread_woodtray4", "y": 180 }],
-        "facing=west": [{ "model": "cocricotmod:bread_woodtray", "y": 270 },{ "model": "cocricotmod:bread_woodtray1", "y": 270 },{ "model": "cocricotmod:bread_woodtray2", "y": 270 },{ "model": "cocricotmod:bread_woodtray3", "y": 270 },{ "model": "cocricotmod:bread_woodtray4", "y": 270 }],
-        "facing=north": [{ "model": "cocricotmod:bread_woodtray" },{ "model": "cocricotmod:bread_woodtray1" },{ "model": "cocricotmod:bread_woodtray2" },{ "model": "cocricotmod:bread_woodtray3" },{ "model": "cocricotmod:bread_woodtray4" }],
-        "facing=east": [{ "model": "cocricotmod:bread_woodtray", "y": 90 },{ "model": "cocricotmod:bread_woodtray1", "y": 90 },{ "model": "cocricotmod:bread_woodtray2", "y": 90 },{ "model": "cocricotmod:bread_woodtray3", "y": 90 },{ "model": "cocricotmod:bread_woodtray4", "y": 90 }]
-    }
-}

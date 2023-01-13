@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:coffeegrinder_red", "y": 180 },
-        "facing=west": { "model": "cocricotmod:coffeegrinder_red", "y": 270 },
-        "facing=north": { "model": "cocricotmod:coffeegrinder_red" },
-        "facing=east": { "model": "cocricotmod:coffeegrinder_red", "y": 90 }
-    }
-}

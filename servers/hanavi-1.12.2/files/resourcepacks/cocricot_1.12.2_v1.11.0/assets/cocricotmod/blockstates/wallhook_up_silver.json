@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:wallhook_up_silver" },
-        "facing=west": { "model": "cocricotmod:wallhook_up_silver", "y": 90 },
-        "facing=north": { "model": "cocricotmod:wallhook_up_silver", "y": 180 },
-        "facing=east": { "model": "cocricotmod:wallhook_up_silver", "y": 270 }
-    }
-}

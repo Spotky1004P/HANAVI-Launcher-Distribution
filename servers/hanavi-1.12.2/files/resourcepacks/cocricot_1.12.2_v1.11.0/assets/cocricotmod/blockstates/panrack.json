@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "type=empty": { "model": "cocricotmod:panrack_empty" },
-        "type=bread": { "model": "cocricotmod:panrack_bread" }
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "axis=x": { "model": "cocricotmod:wood_3board_seadrift" },
-        "axis=z": { "model": "cocricotmod:wood_3board_seadrift", "y":90 }
-    }
-}

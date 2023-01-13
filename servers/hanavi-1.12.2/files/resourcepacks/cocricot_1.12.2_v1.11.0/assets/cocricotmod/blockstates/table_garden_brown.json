@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:table_garden_brown", "y": 270 },
-        "facing=west": { "model": "cocricotmod:table_garden_brown" },
-        "facing=north": { "model": "cocricotmod:table_garden_brown", "y": 90 },
-        "facing=east": { "model": "cocricotmod:table_garden_brown", "y": 180 }
-    }
-}

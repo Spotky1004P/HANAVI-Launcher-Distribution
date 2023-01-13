@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/awning_black_upper",
-        "top": "cocricotmod:blocks/awning_black_upper",
-        "side": "cocricotmod:blocks/awning_black_upper"
-    }
-}

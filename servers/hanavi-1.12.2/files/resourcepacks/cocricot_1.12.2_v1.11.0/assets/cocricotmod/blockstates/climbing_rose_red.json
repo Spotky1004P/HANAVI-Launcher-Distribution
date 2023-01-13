@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:climbing_rose_red", "y": 180 },
-        "facing=west": { "model": "cocricotmod:climbing_rose_red", "y": 270 },
-        "facing=north": { "model": "cocricotmod:climbing_rose_red" },
-        "facing=east": { "model": "cocricotmod:climbing_rose_red", "y": 90 }
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=bottom,variant=default": { "model": "cocricotmod:brick_terracotta_small_lightbrown_slab" },
-        "half=top,variant=default": { "model": "cocricotmod:brick_terracotta_small_lightbrown_slab_upper" }
-    }
-}

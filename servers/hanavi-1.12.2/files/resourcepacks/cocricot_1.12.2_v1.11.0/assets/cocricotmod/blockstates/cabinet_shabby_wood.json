@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:cabinet_shabby_wood", "y": 180 },
-        "facing=west": { "model": "cocricotmod:cabinet_shabby_wood", "y": 270 },
-        "facing=north": { "model": "cocricotmod:cabinet_shabby_wood" },
-        "facing=east": { "model": "cocricotmod:cabinet_shabby_wood", "y": 90 }
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=east": { "model": "cocricotmod:rustication_banded_black_plate", "y": 90, "uvlock": true },
-        "facing=south": { "model": "cocricotmod:rustication_banded_black_plate", "y": 180, "uvlock": true },
-        "facing=west": { "model": "cocricotmod:rustication_banded_black_plate", "y": 270, "uvlock": true },
-        "facing=north": { "model": "cocricotmod:rustication_banded_black_plate", "uvlock": true }
-    }
-}

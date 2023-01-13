@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_nothickness_post",
-    "textures": {
-        "texture": "cocricotmod:blocks/stringlights_globe"
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "slab=true": { "model": "cocricotmod:counterstool_shabby" },
-        "slab=false": { "model": "cocricotmod:counterstool_shabby_false" }
-    }
-}

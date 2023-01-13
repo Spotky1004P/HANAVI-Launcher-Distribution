@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=bottom,variant=default": { "model": "cocricotmod:roof_claytile_brown_slab" },
-        "half=top,variant=default": { "model": "cocricotmod:roof_claytile_brown_slab_upper" }
-    }
-}

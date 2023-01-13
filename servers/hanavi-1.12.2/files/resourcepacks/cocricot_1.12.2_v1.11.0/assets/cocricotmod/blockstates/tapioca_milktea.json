@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "coffeetable=false": { "model": "cocricotmod:tapioca_milktea" },
-        "coffeetable=true": { "model": "cocricotmod:tapioca_milktea_table" }
-    }
-}

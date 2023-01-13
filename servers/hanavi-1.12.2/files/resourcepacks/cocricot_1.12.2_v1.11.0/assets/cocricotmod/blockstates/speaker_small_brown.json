@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:speaker_small_brown", "y": 180 },
-        "facing=west": { "model": "cocricotmod:speaker_small_brown", "y": 270 },
-        "facing=north": { "model": "cocricotmod:speaker_small_brown" },
-        "facing=east": { "model": "cocricotmod:speaker_small_brown", "y": 90 }
-    }
-}

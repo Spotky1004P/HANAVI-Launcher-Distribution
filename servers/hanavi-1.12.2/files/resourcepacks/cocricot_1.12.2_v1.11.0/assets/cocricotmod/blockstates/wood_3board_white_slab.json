@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "axis=x,half=bottom,variant=default": { "model": "cocricotmod:wood_3board_white_slab" },
-        "axis=x,half=top,variant=default": { "model": "cocricotmod:wood_3board_white_slab_upper" },
-        "axis=z,half=bottom,variant=default": { "model": "cocricotmod:wood_3board_white_slab", "y":90 },
-        "axis=z,half=top,variant=default": { "model": "cocricotmod:wood_3board_white_slab_upper", "y":90 }
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:chest_retro_lightbrown", "y": 180 },
-        "facing=west": { "model": "cocricotmod:chest_retro_lightbrown", "y": 270 },
-        "facing=north": { "model": "cocricotmod:chest_retro_lightbrown" },
-        "facing=east": { "model": "cocricotmod:chest_retro_lightbrown", "y": 90 }
-    }
-}

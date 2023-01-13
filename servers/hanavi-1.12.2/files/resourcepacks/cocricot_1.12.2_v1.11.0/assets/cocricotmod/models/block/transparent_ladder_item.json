@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/plate",
-    "textures": {
-        "texture": "cocricotmod:blocks/transparent_item"
-    }
-}

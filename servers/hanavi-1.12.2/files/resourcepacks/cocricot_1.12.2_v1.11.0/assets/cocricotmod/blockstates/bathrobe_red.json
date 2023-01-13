@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:bathrobe_red", "y": 180 },
-        "facing=west": { "model": "cocricotmod:bathrobe_red", "y": 270 },
-        "facing=north": { "model": "cocricotmod:bathrobe_red" },
-        "facing=east": { "model": "cocricotmod:bathrobe_red", "y": 90 }
-    }
-}

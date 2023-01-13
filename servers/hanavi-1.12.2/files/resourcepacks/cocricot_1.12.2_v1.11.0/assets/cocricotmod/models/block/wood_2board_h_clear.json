@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_cube_h",
-    "textures": {
-        "all": "cocricotmod:blocks/wood_2board_clear"
-    }
-}

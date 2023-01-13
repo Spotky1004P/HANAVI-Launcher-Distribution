@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/stucco_pink",
-        "top": "cocricotmod:blocks/stucco_pink",
-        "side": "cocricotmod:blocks/stucco_pink"
-    }
-}

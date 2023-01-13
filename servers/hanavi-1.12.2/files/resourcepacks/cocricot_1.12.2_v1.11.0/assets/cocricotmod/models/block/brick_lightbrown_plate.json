@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_plate",
-    "textures": {
-      "0": "cocricotmod:blocks/brick_lightbrown_"
-    }
-}

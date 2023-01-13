@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:car_seat_lightbrown", "y": 180 },
-        "facing=west": { "model": "cocricotmod:car_seat_lightbrown", "y": 270 },
-        "facing=north": { "model": "cocricotmod:car_seat_lightbrown" },
-        "facing=east": { "model": "cocricotmod:car_seat_lightbrown", "y": 90 }
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "normal": [
-            { "model": "cocricotmod:bottle_cola" },
-            { "model": "cocricotmod:bottle_cola1" }
-        ]
-    }
-}

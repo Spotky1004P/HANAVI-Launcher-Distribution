@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:wineglassrack" },
-        "facing=west": { "model": "cocricotmod:wineglassrack", "y": 90 },
-        "facing=north": { "model": "cocricotmod:wineglassrack", "y": 180 },
-        "facing=east": { "model": "cocricotmod:wineglassrack", "y": 270 }
-    }
-}

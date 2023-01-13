@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:handrail_wood_turnedleg_natural_slanting", "y": 270 },
-        "facing=west": { "model": "cocricotmod:handrail_wood_turnedleg_natural_slanting" },
-        "facing=north": { "model": "cocricotmod:handrail_wood_turnedleg_natural_slanting", "y": 90  },
-        "facing=east": { "model": "cocricotmod:handrail_wood_turnedleg_natural_slanting", "y": 180 }
-    }
-}

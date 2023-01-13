@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "cocricotmod:blocks/roof_palm"
-    }
-}

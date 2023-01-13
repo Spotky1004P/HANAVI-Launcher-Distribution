@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:holycross_stone", "y": 180 },
-        "facing=west": { "model": "cocricotmod:holycross_stone", "y": 270 },
-        "facing=north": { "model": "cocricotmod:holycross_stone" },
-        "facing=east": { "model": "cocricotmod:holycross_stone", "y": 90 }
-    }
-}

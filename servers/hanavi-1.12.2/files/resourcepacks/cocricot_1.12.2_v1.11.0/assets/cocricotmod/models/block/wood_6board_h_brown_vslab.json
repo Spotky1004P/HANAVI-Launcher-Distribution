@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_vslab_h",
-    "textures": {
-        "0": "cocricotmod:blocks/wood_6board_brown"
-    }
-}

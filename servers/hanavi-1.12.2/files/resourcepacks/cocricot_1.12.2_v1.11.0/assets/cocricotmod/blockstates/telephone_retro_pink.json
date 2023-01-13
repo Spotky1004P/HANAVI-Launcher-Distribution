@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:telephone_retro_pink", "y": 180 },
-        "facing=west": { "model": "cocricotmod:telephone_retro_pink", "y": 270 },
-        "facing=north": { "model": "cocricotmod:telephone_retro_pink" },
-        "facing=east": { "model": "cocricotmod:telephone_retro_pink", "y": 90 }
-    }
-}

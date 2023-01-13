@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/stone_random_whitejoint_",
-        "top": "cocricotmod:blocks/stone_random_whitejoint_",
-        "side": "cocricotmod:blocks/stone_random_whitejoint_"
-    }
-}

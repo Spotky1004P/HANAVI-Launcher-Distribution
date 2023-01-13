@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:basket_deep_darkbrown_baguette", "y": 180 },
-        "facing=west": { "model": "cocricotmod:basket_deep_darkbrown_baguette", "y": 270 },
-        "facing=north": { "model": "cocricotmod:basket_deep_darkbrown_baguette" },
-        "facing=east": { "model": "cocricotmod:basket_deep_darkbrown_baguette", "y": 90 }
-    }
-}

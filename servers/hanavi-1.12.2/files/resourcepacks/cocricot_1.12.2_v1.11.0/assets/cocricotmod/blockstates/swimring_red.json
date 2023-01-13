@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "water=false": [
-          { "model": "cocricotmod:swimring_red" },
-          { "model": "cocricotmod:swimring_red1" }
-        ],
-        "water=true": { "model": "cocricotmod:swimring_red_water" }
-    }
-}

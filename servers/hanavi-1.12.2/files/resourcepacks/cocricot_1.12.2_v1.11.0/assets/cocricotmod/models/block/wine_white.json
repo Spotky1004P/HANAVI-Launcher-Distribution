@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/wine_red",
-    "textures": {
-			"texture": "cocricotmod:blocks/wine_white"
-    }
-}

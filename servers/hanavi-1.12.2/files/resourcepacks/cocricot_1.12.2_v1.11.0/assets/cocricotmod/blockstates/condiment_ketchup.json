@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:condiment_ketchup", "y": 180 },
-        "facing=west": { "model": "cocricotmod:condiment_ketchup", "y": 270 },
-        "facing=north": { "model": "cocricotmod:condiment_ketchup" },
-        "facing=east": { "model": "cocricotmod:condiment_ketchup", "y": 90 }
-    }
-}

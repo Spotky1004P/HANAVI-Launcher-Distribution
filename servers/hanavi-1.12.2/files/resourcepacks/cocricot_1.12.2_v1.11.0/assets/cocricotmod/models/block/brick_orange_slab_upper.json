@@ -1,8 +1,0 @@
-{
-    "parent": "block/upper_slab",
-    "textures": {
-        "bottom": "cocricotmod:blocks/brick_orange",
-        "top": "cocricotmod:blocks/brick_orange",
-        "side": "cocricotmod:blocks/brick_orange"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "parent": "cocricotmod:block/basket_slab",
-    "textures": {
-      "top": "cocricotmod:blocks/basket_bread",
-      "n": "cocricotmod:blocks/basket_slab",
-      "s": "cocricotmod:blocks/basket_slab"
-    }
-}

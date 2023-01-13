@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "lighting=true": { "model": "cocricotmod:pendantlight_rattan_long_dark" },
-        "lighting=false": { "model": "cocricotmod:pendantlight_rattan_long_dark" }
-    }
-}

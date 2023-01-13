@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:garland_small_cool", "y": 180 },
-        "facing=west": { "model": "cocricotmod:garland_small_cool", "y": 270 },
-        "facing=north": { "model": "cocricotmod:garland_small_cool" },
-        "facing=east": { "model": "cocricotmod:garland_small_cool", "y": 90 }
-    }
-}

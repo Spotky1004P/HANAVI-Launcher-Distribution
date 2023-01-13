@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:bed_headboard_wood_simple_white" },
-        "facing=west": { "model": "cocricotmod:bed_headboard_wood_simple_white", "y": 90 },
-        "facing=north": { "model": "cocricotmod:bed_headboard_wood_simple_white", "y": 180 },
-        "facing=east": { "model": "cocricotmod:bed_headboard_wood_simple_white", "y": 270 }
-    }
-}

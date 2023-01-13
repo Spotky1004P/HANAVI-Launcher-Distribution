@@ -1,8 +1,0 @@
-{
-    "parent": "block/inner_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/roof_claytile_orange",
-        "top": "cocricotmod:blocks/roof_claytile_orange",
-        "side": "cocricotmod:blocks/roof_claytile_orange"
-    }
-}

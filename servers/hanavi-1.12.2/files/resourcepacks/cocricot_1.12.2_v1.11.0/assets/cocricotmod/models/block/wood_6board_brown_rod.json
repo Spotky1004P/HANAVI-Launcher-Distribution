@@ -1,7 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_rod",
-    "textures": {
-        "particle": "cocricotmod:blocks/wood_6board_brown",
-        "0": "cocricotmod:blocks/wood_6board_brown"
-    }
-}

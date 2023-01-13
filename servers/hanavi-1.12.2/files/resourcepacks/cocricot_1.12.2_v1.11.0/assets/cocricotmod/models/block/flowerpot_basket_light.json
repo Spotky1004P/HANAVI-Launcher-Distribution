@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/flowerpot",
-    "textures": {
-  		"texture": "cocricotmod:blocks/flowerpot_basket_light"
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "cocricotmod:blocks/bed_canopy_round_lace_lower"
-    }
-}

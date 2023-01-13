@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:countertable_american_white", "y": 180 },
-        "facing=west": { "model": "cocricotmod:countertable_american_white", "y": 270 },
-        "facing=north": { "model": "cocricotmod:countertable_american_white" },
-        "facing=east": { "model": "cocricotmod:countertable_american_white", "y": 90 }
-    }
-}

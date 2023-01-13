@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=bottom,variant=default": { "model": "cocricotmod:wood_wainscot_panels_seadrift_slab" },
-        "half=top,variant=default": { "model": "cocricotmod:wood_wainscot_panels_seadrift_slab_upper" }
-    }
-}

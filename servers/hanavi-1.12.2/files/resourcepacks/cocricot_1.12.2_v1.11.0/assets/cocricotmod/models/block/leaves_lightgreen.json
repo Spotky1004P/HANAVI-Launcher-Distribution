@@ -1,7 +1,0 @@
-{
-    "parent": "cocricotmod:block/leaves_red",
-  	"textures": {
-  		"0": "cocricotmod:blocks/leaves_lightgreen",
-  		"particle": "cocricotmod:blocks/leaves_lightgreen"
-  	}
-}

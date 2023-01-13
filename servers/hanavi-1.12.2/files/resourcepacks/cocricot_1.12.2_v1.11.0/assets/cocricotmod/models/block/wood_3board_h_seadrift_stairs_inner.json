@@ -1,8 +1,0 @@
-{
-    "parent": "block/inner_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/wood_rustic_seadrift",
-        "top": "cocricotmod:blocks/wood_rustic_seadrift",
-        "side": "cocricotmod:blocks/wood_rustic_seadrift"
-    }
-}

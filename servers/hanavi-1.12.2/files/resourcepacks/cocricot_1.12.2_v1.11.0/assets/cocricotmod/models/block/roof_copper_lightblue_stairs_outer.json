@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/roof_copper_lightblue",
-        "top": "cocricotmod:blocks/roof_copper_lightblue",
-        "side": "cocricotmod:blocks/roof_copper_lightblue"
-    }
-}

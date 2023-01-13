@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "lighting=true": { "model": "cocricotmod:candleholders_antique_white" },
-        "lighting=false": { "model": "cocricotmod:candleholders_antique_white_false" }
-    }
-}

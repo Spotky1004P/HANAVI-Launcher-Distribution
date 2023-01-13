@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/sink_plate",
-    "textures": {
-  		"0": "cocricotmod:blocks/planks_brown"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:menu_easel_white", "y": 90 },
-        "facing=west": { "model": "cocricotmod:menu_easel_white", "y": 180 },
-        "facing=north": { "model": "cocricotmod:menu_easel_white", "y": 270 },
-        "facing=east": { "model": "cocricotmod:menu_easel_white" }
-    }
-}

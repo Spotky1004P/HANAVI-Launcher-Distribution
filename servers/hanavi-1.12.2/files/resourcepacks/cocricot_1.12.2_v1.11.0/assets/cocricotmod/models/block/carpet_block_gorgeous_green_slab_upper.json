@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/carpet_slab_upper",
-    "textures": {
-        "0": "cocricotmod:blocks/carpet_block_gorgeous_green"
-    }
-}

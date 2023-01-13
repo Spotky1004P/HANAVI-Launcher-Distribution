@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/bougainvillea",
-    "textures": {
-      "texture1": "cocricotmod:blocks/bougainvillea_pink"
-    }
-}

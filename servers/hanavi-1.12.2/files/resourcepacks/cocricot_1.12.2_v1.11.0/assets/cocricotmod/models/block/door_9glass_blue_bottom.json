@@ -1,6 +1,0 @@
-{
-    "parent": "block/door_small_bottom",
-    "textures": {
-        "texture": "cocricotmod:blocks/door_9glass_blue"
-    }
-}

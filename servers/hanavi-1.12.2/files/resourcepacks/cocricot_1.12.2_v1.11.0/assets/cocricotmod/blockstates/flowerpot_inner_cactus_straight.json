@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "flowerpot=true": { "model": "cocricotmod:flowerpot_inner_cactus_straight" },
-        "flowerpot=false": { "model": "cocricotmod:flowerpot_inner_cactus_straight_false" }
-    }
-}

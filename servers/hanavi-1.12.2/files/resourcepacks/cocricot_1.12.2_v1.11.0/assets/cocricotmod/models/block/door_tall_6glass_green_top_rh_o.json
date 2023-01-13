@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/door_tall_top_rh_o",
-    "textures": {
-        "texture": "cocricotmod:blocks/door_tall_6glass_green"
-    }
-}

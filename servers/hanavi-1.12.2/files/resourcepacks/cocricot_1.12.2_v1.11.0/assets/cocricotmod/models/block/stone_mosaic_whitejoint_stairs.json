@@ -1,8 +1,0 @@
-{
-    "parent": "block/stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/stone_mosaic_whitejoint_",
-        "top": "cocricotmod:blocks/stone_mosaic_whitejoint_",
-        "side": "cocricotmod:blocks/stone_mosaic_whitejoint_"
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "lighting=true": { "model": "cocricotmod:tablelamp_stainedglass_blue" },
-        "lighting=false": { "model": "cocricotmod:tablelamp_stainedglass_blue" }
-    }
-}

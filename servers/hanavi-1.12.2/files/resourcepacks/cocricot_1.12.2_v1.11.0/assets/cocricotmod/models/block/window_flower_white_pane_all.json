@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/window_pane_all",
-    "textures": {
-        "texture": "cocricotmod:blocks/window_flower_white"
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_cross_odd_table",
-    "textures": {
-        "cross": "cocricotmod:blocks/masonjar_lemonade"
-    }
-}

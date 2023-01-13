@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "half=upper": [
-          { "model": "cocricotmod:clothes_polehanger_dark"},
-          { "model": "cocricotmod:clothes_polehanger_dark1"}
-          ],
-        "half=lower": { "model": "cocricotmod:transparent"}
-    }
-}

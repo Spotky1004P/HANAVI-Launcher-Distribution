@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:bookshelf_antique_full_vslab", "uvlock":true },
-        "facing=west": { "model": "cocricotmod:bookshelf_antique_full_vslab", "y": 90, "uvlock":true },
-        "facing=north": { "model": "cocricotmod:bookshelf_antique_full_vslab", "y": 180, "uvlock":true },
-        "facing=east": { "model": "cocricotmod:bookshelf_antique_full_vslab", "y": 270, "uvlock":true  }
-    }
-}

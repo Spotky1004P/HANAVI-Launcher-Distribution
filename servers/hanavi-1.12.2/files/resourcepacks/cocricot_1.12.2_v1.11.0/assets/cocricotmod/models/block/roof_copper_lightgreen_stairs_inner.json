@@ -1,8 +1,0 @@
-{
-    "parent": "block/inner_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/roof_copper_lightgreen",
-        "top": "cocricotmod:blocks/roof_copper_lightgreen",
-        "side": "cocricotmod:blocks/roof_copper_lightgreen"
-    }
-}

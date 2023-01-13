@@ -1,8 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_cube_topfrontside",
-    "textures": {
-      "front": "cocricotmod:blocks/drawer_square_antique_black",
-      "side": "cocricotmod:blocks/stone_color_black",
-      "top": "cocricotmod:blocks/stone_color_black"
-    }
-}

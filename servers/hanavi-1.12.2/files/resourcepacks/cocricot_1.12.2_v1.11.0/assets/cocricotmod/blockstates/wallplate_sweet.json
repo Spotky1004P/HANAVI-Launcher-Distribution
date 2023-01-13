@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:wallplate_sweet", "y": 180 },
-        "facing=west": { "model": "cocricotmod:wallplate_sweet", "y": 270 },
-        "facing=north": { "model": "cocricotmod:wallplate_sweet" },
-        "facing=east": { "model": "cocricotmod:wallplate_sweet", "y": 90 }
-    }
-}

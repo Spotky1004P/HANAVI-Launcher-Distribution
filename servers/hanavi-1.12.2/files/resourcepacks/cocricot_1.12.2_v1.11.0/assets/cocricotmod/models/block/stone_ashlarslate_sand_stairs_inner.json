@@ -1,8 +1,0 @@
-{
-    "parent": "block/inner_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/stone_ashlarslate_sand_",
-        "top": "cocricotmod:blocks/stone_ashlarslate_sand_",
-        "side": "cocricotmod:blocks/stone_ashlarslate_sand_"
-    }
-}

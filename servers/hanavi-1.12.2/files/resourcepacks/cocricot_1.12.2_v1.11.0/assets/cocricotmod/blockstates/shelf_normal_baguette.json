@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:shelf_normal_baguette" },
-        "facing=west": { "model": "cocricotmod:shelf_normal_baguette", "y": 90 },
-        "facing=north": { "model": "cocricotmod:shelf_normal_baguette" },
-        "facing=east": { "model": "cocricotmod:shelf_normal_baguette", "y": 90 }
-    }
-}

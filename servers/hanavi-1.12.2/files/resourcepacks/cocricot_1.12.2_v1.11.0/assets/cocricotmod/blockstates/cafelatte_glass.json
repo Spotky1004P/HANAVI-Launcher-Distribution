@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "coffeetable=false": { "model": "cocricotmod:cafelatte_glass" },
-        "coffeetable=true": { "model": "cocricotmod:cafelatte_glass_table" }
-    }
-}

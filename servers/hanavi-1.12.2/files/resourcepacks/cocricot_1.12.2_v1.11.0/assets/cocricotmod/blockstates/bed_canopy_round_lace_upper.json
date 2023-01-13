@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:bed_canopy_round_lace_upper", "y": 90 },
-        "facing=west": { "model": "cocricotmod:bed_canopy_round_lace_upper", "y": 180 },
-        "facing=north": { "model": "cocricotmod:bed_canopy_round_lace_upper", "y": 270 },
-        "facing=east": { "model": "cocricotmod:bed_canopy_round_lace_upper" }
-    }
-}

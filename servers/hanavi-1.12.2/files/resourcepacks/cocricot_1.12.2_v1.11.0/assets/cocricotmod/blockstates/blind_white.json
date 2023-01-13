@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:blind_white", "y": 180 },
-        "facing=west": { "model": "cocricotmod:blind_white", "y": 270 },
-        "facing=north": { "model": "cocricotmod:blind_white" },
-        "facing=east": { "model": "cocricotmod:blind_white", "y": 90 }
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "down=true": { "model": "cocricotmod:floorlamp_simpleleg_brown_upper" },
-        "down=false": { "model": "cocricotmod:floorlamp_simpleleg_brown_lower" }
-    }
-}

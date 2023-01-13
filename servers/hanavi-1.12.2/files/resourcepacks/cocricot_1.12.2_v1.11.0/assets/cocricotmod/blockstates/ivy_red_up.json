@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:ivy_red_up", "y": 180 },
-        "facing=west": { "model": "cocricotmod:ivy_red_up", "y": 270 },
-        "facing=north": { "model": "cocricotmod:ivy_red_up" },
-        "facing=east": { "model": "cocricotmod:ivy_red_up", "y": 90 }
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "parent": "cocricotmod:block/countertable_wood_brown",
-    "textures": {
-        "0": "cocricotmod:blocks/marble_black",
-        "1": "cocricotmod:blocks/marble_black",
-        "particle": "cocricotmod:blocks/marble_black"
-    }
-}

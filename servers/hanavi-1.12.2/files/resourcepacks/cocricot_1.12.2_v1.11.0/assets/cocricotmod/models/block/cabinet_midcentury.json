@@ -1,8 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_cube_topfrontside_nobottom",
-    "textures": {
-      "front": "cocricotmod:blocks/cabinet_midcentury",
-      "side": "cocricotmod:blocks/cabinet_midcentury_side",
-      "top": "cocricotmod:blocks/planks_brown"
-    }
-}

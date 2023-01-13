@@ -1,9 +1,0 @@
-{
-    "parent": "cocricotmod:block/base_cube_topfrontsidebottom",
-    "textures": {
-      "front": "cocricotmod:blocks/chest_medicine_brown",
-      "side": "cocricotmod:blocks/chest_medicine_brown_side",
-      "top": "cocricotmod:blocks/chest_medicine_brown_top",
-      "bottom": "cocricotmod:blocks/chest_medicine_brown_top"
-    }
-}

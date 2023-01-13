@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:curtain_fringe_green", "y": 180 },
-        "facing=west": { "model": "cocricotmod:curtain_fringe_green", "y": 270 },
-        "facing=north": { "model": "cocricotmod:curtain_fringe_green" },
-        "facing=east": { "model": "cocricotmod:curtain_fringe_green", "y": 90 }
-    }
-}

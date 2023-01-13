@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=bottom,variant=default": { "model": "cocricotmod:wood_6board_h_seadrift_slab" },
-        "half=top,variant=default": { "model": "cocricotmod:wood_6board_h_seadrift_slab_upper" }
-    }
-}

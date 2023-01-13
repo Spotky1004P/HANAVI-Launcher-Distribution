@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "lighting=true": { "model": "cocricotmod:pendantlight_green" },
-        "lighting=false": { "model": "cocricotmod:pendantlight_green" }
-    }
-}

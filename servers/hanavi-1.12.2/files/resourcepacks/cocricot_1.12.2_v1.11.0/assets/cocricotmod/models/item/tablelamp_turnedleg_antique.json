@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "cocricotmod:blocks/tablelamp_turnedleg_antique"
-    }
-}

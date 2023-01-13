@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:shelf_normal_basket" },
-        "facing=west": { "model": "cocricotmod:shelf_normal_basket", "y": 90 },
-        "facing=north": { "model": "cocricotmod:shelf_normal_basket" },
-        "facing=east": { "model": "cocricotmod:shelf_normal_basket", "y": 90 }
-    }
-}

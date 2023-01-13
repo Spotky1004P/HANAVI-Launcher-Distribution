@@ -1,8 +1,0 @@
-{
-	"parent": "cocricotmod:block/range_retro",
-	"textures": {
-		"u": "cocricotmod:blocks/range_retro_black2",
-		"s": "cocricotmod:blocks/range_retro_black1",
-		"n": "cocricotmod:blocks/range_retro_black"
-	}
-}

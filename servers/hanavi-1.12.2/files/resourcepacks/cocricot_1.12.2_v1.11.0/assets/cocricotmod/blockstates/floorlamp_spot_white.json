@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "lighting=true": { "model": "cocricotmod:floorlamp_spot_white" },
-        "lighting=false": { "model": "cocricotmod:floorlamp_spot_white" }
-    }
-}

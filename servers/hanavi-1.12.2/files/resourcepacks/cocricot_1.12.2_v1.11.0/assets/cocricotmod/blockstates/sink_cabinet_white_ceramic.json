@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:sink_cabinet_white_ceramic", "y": 180 },
-        "facing=west": { "model": "cocricotmod:sink_cabinet_white_ceramic", "y": 270 },
-        "facing=north": { "model": "cocricotmod:sink_cabinet_white_ceramic" },
-        "facing=east": { "model": "cocricotmod:sink_cabinet_white_ceramic", "y": 90 }
-    }
-}

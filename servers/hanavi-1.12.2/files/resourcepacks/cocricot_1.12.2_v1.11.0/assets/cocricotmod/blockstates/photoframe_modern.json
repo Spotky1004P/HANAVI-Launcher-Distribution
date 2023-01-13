@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:photoframe_modern", "y": 180 },
-        "facing=west": { "model": "cocricotmod:photoframe_modern", "y": 270 },
-        "facing=north": { "model": "cocricotmod:photoframe_modern" },
-        "facing=east": { "model": "cocricotmod:photoframe_modern", "y": 90 }
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:ladder_pool", "y": 180 },
-        "facing=west": { "model": "cocricotmod:ladder_pool", "y": 270 },
-        "facing=north": { "model": "cocricotmod:ladder_pool" },
-        "facing=east": { "model": "cocricotmod:ladder_pool", "y": 90 }
-    }
-}

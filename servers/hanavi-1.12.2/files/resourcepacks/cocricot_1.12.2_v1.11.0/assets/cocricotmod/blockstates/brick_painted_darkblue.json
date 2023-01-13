@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "normal": [
-          { "model": "cocricotmod:brick_painted_darkblue" },
-          { "model": "cocricotmod:brick_painted_darkblue1" }
-        ]
-    }
-}

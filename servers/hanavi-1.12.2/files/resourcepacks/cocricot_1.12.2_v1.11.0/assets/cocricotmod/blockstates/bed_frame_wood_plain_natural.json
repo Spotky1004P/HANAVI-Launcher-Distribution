@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:bed_frame_wood_plain_natural" },
-        "facing=west": { "model": "cocricotmod:bed_frame_wood_plain_natural", "y": 90 },
-        "facing=north": { "model": "cocricotmod:bed_frame_wood_plain_natural", "y": 180 },
-        "facing=east": { "model": "cocricotmod:bed_frame_wood_plain_natural", "y": 270 }
-    }
-}

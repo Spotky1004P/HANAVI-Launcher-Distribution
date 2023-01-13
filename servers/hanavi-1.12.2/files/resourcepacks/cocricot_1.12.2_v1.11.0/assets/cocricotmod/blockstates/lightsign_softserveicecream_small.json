@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "lighting=true": { "model": "cocricotmod:lightsign_softserveicecream_small" },
-        "lighting=false": { "model": "cocricotmod:lightsign_softserveicecream_small" }
-    }
-}

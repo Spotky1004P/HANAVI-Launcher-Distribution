@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:roof_copper_lightblue_vslab" },
-        "facing=west": { "model": "cocricotmod:roof_copper_lightblue_vslab", "y": 90 },
-        "facing=north": { "model": "cocricotmod:roof_copper_lightblue_vslab", "y": 180 },
-        "facing=east": { "model": "cocricotmod:roof_copper_lightblue_vslab", "y": 270 }
-    }
-}

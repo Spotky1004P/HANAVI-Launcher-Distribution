@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:mortar_vslab", "uvlock":true },
-        "facing=west": { "model": "cocricotmod:mortar_vslab", "y": 90, "uvlock":true },
-        "facing=north": { "model": "cocricotmod:mortar_vslab", "y": 180, "uvlock":true },
-        "facing=east": { "model": "cocricotmod:mortar_vslab", "y": 270, "uvlock":true  }
-    }
-}

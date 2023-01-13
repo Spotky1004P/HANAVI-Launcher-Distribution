@@ -1,8 +1,0 @@
-{
-    "parent": "cocricotmod:block/awning_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/awning_lightpurple_upper",
-        "top": "cocricotmod:blocks/awning_lightpurple_upper",
-        "side": "cocricotmod:blocks/awning_lightpurple_upper"
-    }
-}

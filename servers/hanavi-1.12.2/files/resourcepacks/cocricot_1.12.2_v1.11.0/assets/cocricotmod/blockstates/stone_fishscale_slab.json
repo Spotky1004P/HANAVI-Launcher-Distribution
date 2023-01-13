@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=bottom,variant=default": { "model": "cocricotmod:stone_fishscale_slab" },
-        "half=top,variant=default": { "model": "cocricotmod:stone_fishscale_slab_upper" }
-    }
-}

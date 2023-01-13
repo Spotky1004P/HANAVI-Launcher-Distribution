@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:mirror_plate", "y": 180 },
-        "facing=west": { "model": "cocricotmod:mirror_plate", "y": 270 },
-        "facing=north": { "model": "cocricotmod:mirror_plate" },
-        "facing=east": { "model": "cocricotmod:mirror_plate", "y": 90 }
-    }
-}

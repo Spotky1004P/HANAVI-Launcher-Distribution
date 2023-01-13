@@ -1,7 +1,0 @@
-{
-    "parent": "cocricotmod:block/drainpipe_elbow",
-    "textures": {
-        "particle": "cocricotmod:blocks/stone_color_white",
-        "texture": "cocricotmod:blocks/drainpipe_white"
-    }
-}

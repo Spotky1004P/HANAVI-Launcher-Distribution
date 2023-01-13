@@ -1,8 +1,0 @@
-{
-    "parent": "block/half_slab",
-    "textures": {
-        "bottom": "cocricotmod:blocks/wood_herringbone_seadrift",
-        "top": "cocricotmod:blocks/wood_herringbone_seadrift",
-        "side": "cocricotmod:blocks/wood_herringbone_seadrift_f"
-    }
-}

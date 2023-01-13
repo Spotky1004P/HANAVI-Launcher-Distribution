@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "lighting=true": { "model": "cocricotmod:gaslamp_yellow" },
-        "lighting=false": { "model": "cocricotmod:gaslamp_yellow" }
-    }
-}

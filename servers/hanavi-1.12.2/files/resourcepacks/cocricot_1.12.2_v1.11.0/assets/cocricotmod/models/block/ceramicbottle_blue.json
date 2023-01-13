@@ -1,6 +1,0 @@
-{
-	"parent": "cocricotmod:block/glassbottle_brown",
-	"textures": {
-		"0": "cocricotmod:blocks/ceramicbottle_blue"
-	}
-}

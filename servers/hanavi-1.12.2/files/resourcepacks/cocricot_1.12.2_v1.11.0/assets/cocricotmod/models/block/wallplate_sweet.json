@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/wall_ornament",
-    "textures": {
-      "texture": "cocricotmod:blocks/wallplate_sweet"
-    }
-}

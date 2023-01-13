@@ -1,7 +1,0 @@
-{
-    "parent": "cocricotmod:block/gardenbench_single",
-    "textures": {
-      "particle": "cocricotmod:blocks/stucco_red",
-      "texture": "cocricotmod:blocks/gardenbench_red"
-    }
-}

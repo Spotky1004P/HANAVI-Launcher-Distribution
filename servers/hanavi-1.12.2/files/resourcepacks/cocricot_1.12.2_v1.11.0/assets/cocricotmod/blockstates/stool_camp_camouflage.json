@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:stool_camp_camouflage", "y": 180 },
-        "facing=west": { "model": "cocricotmod:stool_camp_camouflage", "y": 270 },
-        "facing=north": { "model": "cocricotmod:stool_camp_camouflage" },
-        "facing=east": { "model": "cocricotmod:stool_camp_camouflage", "y": 90 }
-    }
-}

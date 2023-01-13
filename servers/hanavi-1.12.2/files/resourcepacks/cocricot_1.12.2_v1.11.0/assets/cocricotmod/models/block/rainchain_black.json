@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/rainchain",
-    "textures": {
-        "cross": "cocricotmod:blocks/rainchain_black"
-    }
-}

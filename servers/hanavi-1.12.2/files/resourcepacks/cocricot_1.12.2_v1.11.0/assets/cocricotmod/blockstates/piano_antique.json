@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:piano_antique", "y": 180 },
-        "facing=west": { "model": "cocricotmod:piano_antique", "y": 270 },
-        "facing=north": { "model": "cocricotmod:piano_antique"  },
-        "facing=east": { "model": "cocricotmod:piano_antique", "y": 90 }
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:poster_american", "y": 180 },
-        "facing=west": { "model": "cocricotmod:poster_american", "y": 270 },
-        "facing=north": { "model": "cocricotmod:poster_american" },
-        "facing=east": { "model": "cocricotmod:poster_american", "y": 90 }
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/stone_plane_sand",
-        "top": "cocricotmod:blocks/stone_plane_sand",
-        "side": "cocricotmod:blocks/stone_plane_sand"
-    }
-}

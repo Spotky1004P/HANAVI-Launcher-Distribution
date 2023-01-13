@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:drinkdispenser_lemon", "y": 180 },
-        "facing=west": { "model": "cocricotmod:drinkdispenser_lemon", "y": 270 },
-        "facing=north": { "model": "cocricotmod:drinkdispenser_lemon" },
-        "facing=east": { "model": "cocricotmod:drinkdispenser_lemon", "y": 90 }
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/door_tall_bottom",
-    "textures": {
-        "texture": "cocricotmod:blocks/door_tall_2panel_green"
-    }
-}

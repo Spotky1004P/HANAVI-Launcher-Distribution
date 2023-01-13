@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/wallshelf",
-    "textures": {
-        "front": "cocricotmod:blocks/wallshelf_mugcup_yellow"
-    }
-}

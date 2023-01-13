@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "type=empty": { "parent": "cocricotmod:block/panrack_empty" },
-        "type=bread": { "parent": "cocricotmod:block/panrack_bread" }
-    }
-}

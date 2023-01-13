@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "normal": [
-          { "model": "cocricotmod:pattern_flower_pink" },
-          { "model": "cocricotmod:pattern_flower_pink1" },
-          { "model": "cocricotmod:pattern_flower_pink2" }
-        ]
-    }
-}

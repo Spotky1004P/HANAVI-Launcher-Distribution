@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:steak_luxury", "y": 180 },
-        "facing=west": { "model": "cocricotmod:steak_luxury", "y": 270 },
-        "facing=north": { "model": "cocricotmod:steak_luxury" },
-        "facing=east": { "model": "cocricotmod:steak_luxury", "y": 90 }
-    }
-}

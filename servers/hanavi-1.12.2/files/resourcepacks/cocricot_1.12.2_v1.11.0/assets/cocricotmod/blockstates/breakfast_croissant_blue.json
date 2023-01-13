@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:breakfast_croissant_blue", "y": 180 },
-        "facing=west": { "model": "cocricotmod:breakfast_croissant_blue", "y": 270 },
-        "facing=north": { "model": "cocricotmod:breakfast_croissant_blue" },
-        "facing=east": { "model": "cocricotmod:breakfast_croissant_blue", "y": 90 }
-    }
-}

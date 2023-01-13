@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "normal": [
-          { "model": "fire_floor0" },
-          { "model": "fire_floor1" }
-        ]
-    }
-}

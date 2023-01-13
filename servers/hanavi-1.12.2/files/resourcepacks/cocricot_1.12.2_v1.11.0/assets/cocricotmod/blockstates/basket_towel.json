@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:basket_towel" },
-        "facing=west": { "model": "cocricotmod:basket_towel", "y": 90 },
-        "facing=north": { "model": "cocricotmod:basket_towel", "y": 180 },
-        "facing=east": { "model": "cocricotmod:basket_towel", "y": 270 }
-    }
-}

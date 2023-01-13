@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:clock_wall_cuckoo", "y": 180 },
-        "facing=west": { "model": "cocricotmod:clock_wall_cuckoo", "y": 270 },
-        "facing=north": { "model": "cocricotmod:clock_wall_cuckoo" },
-        "facing=east": { "model": "cocricotmod:clock_wall_cuckoo", "y": 90 }
-    }
-}

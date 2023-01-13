@@ -1,8 +1,0 @@
-{
-    "parent": "block/inner_stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/roof_tile_black",
-        "top": "cocricotmod:blocks/roof_tile_black",
-        "side": "cocricotmod:blocks/roof_tile_black"
-    }
-}

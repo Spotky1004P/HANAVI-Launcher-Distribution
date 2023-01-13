@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "coffeetable=false": { "model": "cocricotmod:masonjar_bluepunch" },
-        "coffeetable=true": { "model": "cocricotmod:masonjar_bluepunch_table" }
-    }
-}

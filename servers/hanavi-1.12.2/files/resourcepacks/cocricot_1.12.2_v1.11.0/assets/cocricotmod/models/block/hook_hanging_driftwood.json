@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/wall_ornament_middle",
-    "textures": {
-        "texture": "cocricotmod:blocks/hook_hanging_driftwood"
-    }
-}

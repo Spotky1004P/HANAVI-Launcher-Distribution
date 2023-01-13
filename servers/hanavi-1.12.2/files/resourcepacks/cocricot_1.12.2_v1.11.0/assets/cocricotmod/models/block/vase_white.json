@@ -1,8 +1,0 @@
-{
-    "parent": "cocricotmod:block/vase",
-    "textures": {
-      "particle": "cocricotmod:blocks/stucco_white",
-  		"texture": "cocricotmod:blocks/vase_white",
-      "texture1": "cocricotmod:blocks/vase_white1"
-    }
-}

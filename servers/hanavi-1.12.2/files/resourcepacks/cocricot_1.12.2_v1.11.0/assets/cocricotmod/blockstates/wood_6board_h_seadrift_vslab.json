@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "cocricotmod:wood_6board_h_seadrift_vslab", "uvlock":true },
-        "facing=west": { "model": "cocricotmod:wood_6board_h_seadrift_vslab", "y": 90, "uvlock":true },
-        "facing=north": { "model": "cocricotmod:wood_6board_h_seadrift_vslab", "y": 180, "uvlock":true },
-        "facing=east": { "model": "cocricotmod:wood_6board_h_seadrift_vslab", "y": 270, "uvlock":true  }
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/stairs",
-    "textures": {
-        "bottom": "cocricotmod:blocks/stone_bushrock_",
-        "top": "cocricotmod:blocks/stone_bushrock_",
-        "side": "cocricotmod:blocks/stone_bushrock_"
-    }
-}

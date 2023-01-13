@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/partitionpole_classic_gold_side",
-    "textures": {
-  		"1": "cocricotmod:blocks/rope_thin_silver"
-  	}
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "cocricotmod:block/shelf_normal",
-    "textures": {
-        "texture2": "cocricotmod:blocks/shelf_normal_book_goods3"
-    }
-}

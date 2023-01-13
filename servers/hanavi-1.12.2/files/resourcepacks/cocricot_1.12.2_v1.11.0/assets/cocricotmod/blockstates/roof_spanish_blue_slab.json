@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=bottom,variant=default": { "model": "cocricotmod:roof_spanish_blue_slab" },
-        "half=top,variant=default": { "model": "cocricotmod:roof_spanish_blue_slab_upper" }
-    }
-}

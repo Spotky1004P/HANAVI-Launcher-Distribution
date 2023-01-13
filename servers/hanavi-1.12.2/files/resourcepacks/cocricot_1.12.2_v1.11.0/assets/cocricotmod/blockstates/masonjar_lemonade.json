@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "coffeetable=false": { "model": "cocricotmod:masonjar_lemonade" },
-        "coffeetable=true": { "model": "cocricotmod:masonjar_lemonade_table" }
-    }
-}

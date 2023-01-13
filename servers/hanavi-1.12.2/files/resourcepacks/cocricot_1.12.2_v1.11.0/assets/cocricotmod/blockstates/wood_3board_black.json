@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "axis=x": { "model": "cocricotmod:wood_3board_black" },
-        "axis=z": { "model": "cocricotmod:wood_3board_black", "y":90 }
-    }
-}

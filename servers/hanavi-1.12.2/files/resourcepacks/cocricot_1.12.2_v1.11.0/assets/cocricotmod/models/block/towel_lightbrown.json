@@ -1,7 +1,0 @@
-{
-    "parent": "cocricotmod:block/towel_white",
-    "textures": {
-        "0": "cocricotmod:blocks/towel_lightbrown",
-	"particle": "cocricotmod:blocks/towel_lightbrown"
-    }
-}
