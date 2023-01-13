@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:hamburger_american", "y": 180 },
+        "facing=west": { "model": "cocricotmod:hamburger_american", "y": 270 },
+        "facing=north": { "model": "cocricotmod:hamburger_american" },
+        "facing=east": { "model": "cocricotmod:hamburger_american", "y": 90 }
+    }
+}

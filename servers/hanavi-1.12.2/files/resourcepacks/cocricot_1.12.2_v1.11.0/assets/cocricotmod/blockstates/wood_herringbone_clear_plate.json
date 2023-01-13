@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "cocricotmod:wood_herringbone_clear_plate" },
+        "facing=down": { "model": "cocricotmod:wood_herringbone_clear_plate1", "x": 180, "uvlock": true },
+        "facing=east": { "model": "cocricotmod:wood_herringbone_clear_plate2", "y": 90, "x": 90, "uvlock": true },
+        "facing=south": { "model": "cocricotmod:wood_herringbone_clear_plate2", "y": 180, "x": 90, "uvlock": true },
+        "facing=west": { "model": "cocricotmod:wood_herringbone_clear_plate2", "y": 270, "x": 90, "uvlock": true },
+        "facing=north": { "model": "cocricotmod:wood_herringbone_clear_plate2", "y": 0, "x": 90, "uvlock": true }
+    }
+}

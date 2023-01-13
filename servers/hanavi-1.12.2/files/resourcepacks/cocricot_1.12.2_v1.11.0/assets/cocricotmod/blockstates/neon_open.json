@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south,lighting=true": { "model": "cocricotmod:neon_open", "y": 180 },
+        "facing=west,lighting=true": { "model": "cocricotmod:neon_open", "y": 270 },
+        "facing=north,lighting=true": { "model": "cocricotmod:neon_open" },
+        "facing=east,lighting=true": { "model": "cocricotmod:neon_open", "y": 90 },
+        "facing=south,lighting=false": { "model": "cocricotmod:neon_open", "y": 180 },
+        "facing=west,lighting=false": { "model": "cocricotmod:neon_open", "y": 270 },
+        "facing=north,lighting=false": { "model": "cocricotmod:neon_open" },
+        "facing=east,lighting=false": { "model": "cocricotmod:neon_open", "y": 90 }
+    }
+}

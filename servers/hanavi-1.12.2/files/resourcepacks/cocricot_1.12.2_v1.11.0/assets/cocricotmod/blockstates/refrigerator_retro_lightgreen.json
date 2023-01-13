@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:refrigerator_retro_lightgreen", "y": 180 },
+        "facing=west": { "model": "cocricotmod:refrigerator_retro_lightgreen", "y": 270 },
+        "facing=north": { "model": "cocricotmod:refrigerator_retro_lightgreen" },
+        "facing=east": { "model": "cocricotmod:refrigerator_retro_lightgreen", "y": 90 }
+    }
+}

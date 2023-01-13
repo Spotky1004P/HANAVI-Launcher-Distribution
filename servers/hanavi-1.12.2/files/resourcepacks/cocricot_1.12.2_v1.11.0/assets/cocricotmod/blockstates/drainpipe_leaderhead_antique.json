@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:drainpipe_leaderhead_antique", "y": 180 },
+        "facing=west": { "model": "cocricotmod:drainpipe_leaderhead_antique", "y": 270 },
+        "facing=north": { "model": "cocricotmod:drainpipe_leaderhead_antique" },
+        "facing=east": { "model": "cocricotmod:drainpipe_leaderhead_antique", "y": 90 }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "coffeetable=false,facing=south": { "model": "cocricotmod:tissuebox_waterhyacinth" },
+        "coffeetable=false,facing=west": { "model": "cocricotmod:tissuebox_waterhyacinth", "y": 90 },
+        "coffeetable=false,facing=north": { "model": "cocricotmod:tissuebox_waterhyacinth" },
+        "coffeetable=false,facing=east": { "model": "cocricotmod:tissuebox_waterhyacinth", "y": 90 },
+        "coffeetable=true,facing=south": { "model": "cocricotmod:tissuebox_waterhyacinth_table" },
+        "coffeetable=true,facing=west": { "model": "cocricotmod:tissuebox_waterhyacinth_table", "y": 90 },
+        "coffeetable=true,facing=north": { "model": "cocricotmod:tissuebox_waterhyacinth_table" },
+        "coffeetable=true,facing=east": { "model": "cocricotmod:tissuebox_waterhyacinth_table", "y": 90 }
+    }
+}

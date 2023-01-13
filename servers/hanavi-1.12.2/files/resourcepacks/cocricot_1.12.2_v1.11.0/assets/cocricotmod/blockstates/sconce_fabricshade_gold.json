@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south,lighting=true": { "model": "cocricotmod:sconce_fabricshade_gold", "y": 270 },
+        "facing=west,lighting=true": { "model": "cocricotmod:sconce_fabricshade_gold" },
+        "facing=north,lighting=true": { "model": "cocricotmod:sconce_fabricshade_gold", "y": 90 },
+        "facing=east,lighting=true": { "model": "cocricotmod:sconce_fabricshade_gold", "y": 180 },
+        "facing=south,lighting=false": { "model": "cocricotmod:sconce_fabricshade_gold", "y": 270 },
+        "facing=west,lighting=false": { "model": "cocricotmod:sconce_fabricshade_gold" },
+        "facing=north,lighting=false": { "model": "cocricotmod:sconce_fabricshade_gold", "y": 90 },
+        "facing=east,lighting=false": { "model": "cocricotmod:sconce_fabricshade_gold", "y": 180 }
+    }
+}

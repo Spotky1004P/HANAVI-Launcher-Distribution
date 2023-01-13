@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "facing=east,fence=false,position=left":  { "model": "cocricotmod:windowframe_classic_side_dark_left", "y": 270 },
+        "facing=west,fence=false,position=left":  { "model": "cocricotmod:windowframe_classic_side_dark_left", "y": 90},
+        "facing=south,fence=false,position=left": { "model": "cocricotmod:windowframe_classic_side_dark_left"},
+        "facing=north,fence=false,position=left": { "model": "cocricotmod:windowframe_classic_side_dark_left", "y": 180},
+        "facing=east,fence=false,position=single":  { "model": "cocricotmod:windowframe_classic_side_dark", "y": 270 },
+        "facing=west,fence=false,position=single":  { "model": "cocricotmod:windowframe_classic_side_dark", "y": 90 },
+        "facing=south,fence=false,position=single": { "model": "cocricotmod:windowframe_classic_side_dark" },
+        "facing=north,fence=false,position=single": { "model": "cocricotmod:windowframe_classic_side_dark", "y": 180 },
+        "facing=east,fence=false,position=right":  { "model": "cocricotmod:windowframe_classic_side_dark_right", "y": 270 },
+        "facing=west,fence=false,position=right":  { "model": "cocricotmod:windowframe_classic_side_dark_right", "y": 90 },
+        "facing=south,fence=false,position=right": { "model": "cocricotmod:windowframe_classic_side_dark_right" },
+        "facing=north,fence=false,position=right": { "model": "cocricotmod:windowframe_classic_side_dark_right", "y": 180 },
+        "facing=east,fence=true,position=left":  { "model": "cocricotmod:windowframe_classic_side_dark_left_fence", "y": 270 },
+        "facing=west,fence=true,position=left":  { "model": "cocricotmod:windowframe_classic_side_dark_left_fence", "y": 90},
+        "facing=south,fence=true,position=left": { "model": "cocricotmod:windowframe_classic_side_dark_left_fence"},
+        "facing=north,fence=true,position=left": { "model": "cocricotmod:windowframe_classic_side_dark_left_fence", "y": 180},
+        "facing=east,fence=true,position=single":  { "model": "cocricotmod:windowframe_classic_side_dark_fence", "y": 270 },
+        "facing=west,fence=true,position=single":  { "model": "cocricotmod:windowframe_classic_side_dark_fence", "y": 90 },
+        "facing=south,fence=true,position=single": { "model": "cocricotmod:windowframe_classic_side_dark_fence" },
+        "facing=north,fence=true,position=single": { "model": "cocricotmod:windowframe_classic_side_dark_fence", "y": 180 },
+        "facing=east,fence=true,position=right":  { "model": "cocricotmod:windowframe_classic_side_dark_right_fence", "y": 270 },
+        "facing=west,fence=true,position=right":  { "model": "cocricotmod:windowframe_classic_side_dark_right_fence", "y": 90 },
+        "facing=south,fence=true,position=right": { "model": "cocricotmod:windowframe_classic_side_dark_right_fence" },
+        "facing=north,fence=true,position=right": { "model": "cocricotmod:windowframe_classic_side_dark_right_fence", "y": 180 }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "variants": {
+        "facing=south,shift=true": [
+          { "model": "cocricotmod:wallphoto_big_beach_shift", "y": 180 },
+          { "model": "cocricotmod:wallphoto_big_beach1_shift", "y": 180 },
+          { "model": "cocricotmod:wallphoto_big_beach2_shift", "y": 180 }
+        ],
+        "facing=west,shift=true": [
+          { "model": "cocricotmod:wallphoto_big_beach_shift", "y": 270 },
+          { "model": "cocricotmod:wallphoto_big_beach1_shift", "y": 270 },
+          { "model": "cocricotmod:wallphoto_big_beach2_shift", "y": 270 }
+        ],
+        "facing=north,shift=true": [
+          { "model": "cocricotmod:wallphoto_big_beach_shift" },
+          { "model": "cocricotmod:wallphoto_big_beach1_shift" },
+          { "model": "cocricotmod:wallphoto_big_beach2_shift" }
+        ],
+        "facing=east,shift=true": [
+          { "model": "cocricotmod:wallphoto_big_beach_shift", "y": 90 },
+          { "model": "cocricotmod:wallphoto_big_beach1_shift", "y": 90 },
+          { "model": "cocricotmod:wallphoto_big_beach2_shift", "y": 90 }
+        ],
+        "facing=south,shift=false": [
+          { "model": "cocricotmod:wallphoto_big_beach", "y": 180 },
+          { "model": "cocricotmod:wallphoto_big_beach1", "y": 180 },
+          { "model": "cocricotmod:wallphoto_big_beach2", "y": 180 }
+        ],
+        "facing=west,shift=false": [
+          { "model": "cocricotmod:wallphoto_big_beach", "y": 270 },
+          { "model": "cocricotmod:wallphoto_big_beach1", "y": 270 },
+          { "model": "cocricotmod:wallphoto_big_beach2", "y": 270 }
+        ],
+        "facing=north,shift=false": [
+          { "model": "cocricotmod:wallphoto_big_beach" },
+          { "model": "cocricotmod:wallphoto_big_beach1" },
+          { "model": "cocricotmod:wallphoto_big_beach2" }
+        ],
+        "facing=east,shift=false": [
+          { "model": "cocricotmod:wallphoto_big_beach", "y": 90 },
+          { "model": "cocricotmod:wallphoto_big_beach1", "y": 90 },
+          { "model": "cocricotmod:wallphoto_big_beach2", "y": 90 }
+        ]
+    }
+}

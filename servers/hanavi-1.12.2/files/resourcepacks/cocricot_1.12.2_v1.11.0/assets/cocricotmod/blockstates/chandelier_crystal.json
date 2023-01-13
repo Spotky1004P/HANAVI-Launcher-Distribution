@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lighting=true": { "model": "cocricotmod:chandelier_crystal" },
+        "lighting=false": { "model": "cocricotmod:chandelier_crystal" }
+    }
+}

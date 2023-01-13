@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:stone_plane_vslab", "uvlock":true },
+        "facing=west": { "model": "cocricotmod:stone_plane_vslab", "y": 90, "uvlock":true },
+        "facing=north": { "model": "cocricotmod:stone_plane_vslab", "y": 180, "uvlock":true },
+        "facing=east": { "model": "cocricotmod:stone_plane_vslab", "y": 270, "uvlock":true  }
+    }
+}

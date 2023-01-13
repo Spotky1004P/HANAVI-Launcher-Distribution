@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:ceilingspotlight_rail_dark", "y": 90 },
+        "facing=west": { "model": "cocricotmod:ceilingspotlight_rail_dark", "y": 180 },
+        "facing=north": { "model": "cocricotmod:ceilingspotlight_rail_dark", "y": 270 },
+        "facing=east": { "model": "cocricotmod:ceilingspotlight_rail_dark" }
+    }
+}

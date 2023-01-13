@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:drinkdispenser_berry", "y": 180 },
+        "facing=west": { "model": "cocricotmod:drinkdispenser_berry", "y": 270 },
+        "facing=north": { "model": "cocricotmod:drinkdispenser_berry" },
+        "facing=east": { "model": "cocricotmod:drinkdispenser_berry", "y": 90 }
+    }
+}

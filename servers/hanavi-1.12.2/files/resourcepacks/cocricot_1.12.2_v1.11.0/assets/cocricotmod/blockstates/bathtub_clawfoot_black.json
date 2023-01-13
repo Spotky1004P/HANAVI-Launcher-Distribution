@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:bathtub_clawfoot_black", "y": 270 },
+        "facing=west": { "model": "cocricotmod:bathtub_clawfoot_black" },
+        "facing=north": { "model": "cocricotmod:bathtub_clawfoot_black", "y": 90 },
+        "facing=east": { "model": "cocricotmod:bathtub_clawfoot_black", "y": 180 }
+    }
+}

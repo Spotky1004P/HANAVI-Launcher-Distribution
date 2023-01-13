@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "cocricotmod:hanging_plant_macrame" },
+            { "model": "cocricotmod:hanging_plant_macrame1" }
+        ]
+    }
+}

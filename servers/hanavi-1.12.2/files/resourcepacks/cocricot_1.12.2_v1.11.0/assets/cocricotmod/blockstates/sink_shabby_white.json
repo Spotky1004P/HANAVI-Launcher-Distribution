@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:sink_shabby_white", "y": 180 },
+        "facing=west": { "model": "cocricotmod:sink_shabby_white", "y": 270 },
+        "facing=north": { "model": "cocricotmod:sink_shabby_white" },
+        "facing=east": { "model": "cocricotmod:sink_shabby_white", "y": 90 }
+    }
+}

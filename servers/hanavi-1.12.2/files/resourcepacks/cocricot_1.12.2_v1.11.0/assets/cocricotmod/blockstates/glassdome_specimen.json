@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "facing=north": [
+          { "model": "cocricotmod:glassdome_specimen" },
+          { "model": "cocricotmod:glassdome_specimen1" },
+          { "model": "cocricotmod:glassdome_specimen2" }
+        ],
+        "facing=west": [
+          { "model": "cocricotmod:glassdome_specimen", "y": 90 },
+          { "model": "cocricotmod:glassdome_specimen1", "y": 90 },
+          { "model": "cocricotmod:glassdome_specimen2", "y": 90 }
+        ],
+        "facing=south": [
+          { "model": "cocricotmod:glassdome_specimen", "y": 180 },
+          { "model": "cocricotmod:glassdome_specimen1", "y": 180 },
+          { "model": "cocricotmod:glassdome_specimen2", "y": 180 }
+        ],
+        "facing=east": [
+          { "model": "cocricotmod:glassdome_specimen", "y": 270 },
+          { "model": "cocricotmod:glassdome_specimen1", "y": 270 },
+          { "model": "cocricotmod:glassdome_specimen2", "y": 270 }
+        ]
+    }
+}

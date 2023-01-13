@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "cocricotmod:tile_grid_blackwhite_plate" },
+        "facing=down": { "model": "cocricotmod:tile_grid_blackwhite_plate", "x": 180 },
+        "facing=east": { "model": "cocricotmod:tile_grid_blackwhite_plate", "y": 90, "x": 90, "uvlock": true },
+        "facing=south": { "model": "cocricotmod:tile_grid_blackwhite_plate", "y": 180, "x": 90, "uvlock": true },
+        "facing=west": { "model": "cocricotmod:tile_grid_blackwhite_plate", "y": 270, "x": 90, "uvlock": true },
+        "facing=north": { "model": "cocricotmod:tile_grid_blackwhite_plate", "y": 0, "x": 90, "uvlock": true }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south,shift=true": { "model": "cocricotmod:wallshelf_chain_seadrift", "y": 180 },
+        "facing=west,shift=true": { "model": "cocricotmod:wallshelf_chain_seadrift", "y": 270 },
+        "facing=north,shift=true": { "model": "cocricotmod:wallshelf_chain_seadrift" },
+        "facing=east,shift=true": { "model": "cocricotmod:wallshelf_chain_seadrift", "y": 90 },
+        "facing=south,shift=false": { "model": "cocricotmod:wallshelf_chain_seadrift_false", "y": 180 },
+        "facing=west,shift=false": { "model": "cocricotmod:wallshelf_chain_seadrift_false", "y": 270 },
+        "facing=north,shift=false": { "model": "cocricotmod:wallshelf_chain_seadrift_false" },
+        "facing=east,shift=false": { "model": "cocricotmod:wallshelf_chain_seadrift_false", "y": 90 }
+    }
+}

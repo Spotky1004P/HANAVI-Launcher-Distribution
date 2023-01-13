@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "cocricotmod:wood_herringbone_clear_slab" },
+        "half=top,variant=default": { "model": "cocricotmod:wood_herringbone_clear_slab_upper" }
+    }
+}

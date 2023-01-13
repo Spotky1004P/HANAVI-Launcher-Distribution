@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "carpet=false,facing=south": { "model": "cocricotmod:slipper_white", "y": 180 },
+        "carpet=false,facing=west": { "model": "cocricotmod:slipper_white", "y": 270 },
+        "carpet=false,facing=north": { "model": "cocricotmod:slipper_white" },
+        "carpet=false,facing=east": { "model": "cocricotmod:slipper_white", "y": 90 },
+        "carpet=true,facing=south": { "model": "cocricotmod:slipper_white_true", "y": 180 },
+        "carpet=true,facing=west": { "model": "cocricotmod:slipper_white_true", "y": 270 },
+        "carpet=true,facing=north": { "model": "cocricotmod:slipper_white_true" },
+        "carpet=true,facing=east": { "model": "cocricotmod:slipper_white_true", "y": 90 }
+    }
+}

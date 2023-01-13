@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "cocricotmod:carpet_block_gorgeous_red_slab" },
+        "half=top,variant=default": { "model": "cocricotmod:carpet_block_gorgeous_red_slab_upper" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "cocricotmod:stone_plane_hourglass" },
+        "facing=down": { "model": "cocricotmod:stone_plane_hourglass", "x": 180 },
+        "facing=south": { "model": "cocricotmod:stone_plane_hourglass_side", "y": 270 },
+        "facing=west": { "model": "cocricotmod:stone_plane_hourglass_side" },
+        "facing=north": { "model": "cocricotmod:stone_plane_hourglass_side", "y": 90 },
+        "facing=east": { "model": "cocricotmod:stone_plane_hourglass_side", "y": 180 }
+    }
+}

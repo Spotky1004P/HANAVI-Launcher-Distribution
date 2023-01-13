@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:shelf_normal_book_goods" },
+        "facing=west": { "model": "cocricotmod:shelf_normal_book_goods", "y": 90 },
+        "facing=north": { "model": "cocricotmod:shelf_normal_book_goods" },
+        "facing=east": { "model": "cocricotmod:shelf_normal_book_goods", "y": 90 }
+    }
+}

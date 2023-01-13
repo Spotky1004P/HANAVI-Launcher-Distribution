@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "facing=south": [
+          { "model": "cocricotmod:basket_bread" },
+          { "model": "cocricotmod:basket_bread1" },
+          { "model": "cocricotmod:basket_bread2" }
+        ],
+        "facing=west": [
+          { "model": "cocricotmod:basket_bread", "y": 90 },
+          { "model": "cocricotmod:basket_bread1", "y": 90 },
+          { "model": "cocricotmod:basket_bread2", "y": 90 }
+        ],
+        "facing=north": [
+          { "model": "cocricotmod:basket_bread", "y": 180 },
+          { "model": "cocricotmod:basket_bread1", "y": 180 },
+          { "model": "cocricotmod:basket_bread2", "y": 180 }
+        ],
+        "facing=east": [
+          { "model": "cocricotmod:basket_bread", "y": 270 },
+          { "model": "cocricotmod:basket_bread1", "y": 270 },
+          { "model": "cocricotmod:basket_bread2", "y": 270 }
+        ]
+    }
+}

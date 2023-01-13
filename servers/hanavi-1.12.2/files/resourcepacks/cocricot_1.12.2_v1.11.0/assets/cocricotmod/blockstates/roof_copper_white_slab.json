@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "cocricotmod:roof_copper_white_slab" },
+        "half=top,variant=default": { "model": "cocricotmod:roof_copper_white_slab_upper" }
+    }
+}

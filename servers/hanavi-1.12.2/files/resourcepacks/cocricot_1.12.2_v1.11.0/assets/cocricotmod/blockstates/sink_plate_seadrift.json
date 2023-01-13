@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:sink_plate_seadrift", "y": 180 },
+        "facing=west": { "model": "cocricotmod:sink_plate_seadrift", "y": 270 },
+        "facing=north": { "model": "cocricotmod:sink_plate_seadrift" },
+        "facing=east": { "model": "cocricotmod:sink_plate_seadrift", "y": 90 }
+    }
+}

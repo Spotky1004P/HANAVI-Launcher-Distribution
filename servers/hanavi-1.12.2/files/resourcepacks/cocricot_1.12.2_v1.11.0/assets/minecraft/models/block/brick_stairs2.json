@@ -1,0 +1,7 @@
+{
+    "parent": "block/c_arch",
+    "textures": {
+      "particle": "blocks/brick",
+      "texture": "blocks/brick"
+    }
+}

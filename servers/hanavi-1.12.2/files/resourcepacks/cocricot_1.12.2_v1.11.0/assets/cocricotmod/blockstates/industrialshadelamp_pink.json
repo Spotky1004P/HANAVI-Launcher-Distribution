@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=up,lighting=true": { "model": "cocricotmod:industrialshadelamp_pink" },
+        "facing=down,lighting=true": { "model": "cocricotmod:industrialshadelamp_pink" },
+        "facing=east,lighting=true": { "model": "cocricotmod:industrialshadelamp_pink_wall", "y": 270 },
+        "facing=south,lighting=true": { "model": "cocricotmod:industrialshadelamp_pink_wall" },
+        "facing=west,lighting=true": { "model": "cocricotmod:industrialshadelamp_pink_wall", "y": 90 },
+        "facing=north,lighting=true": { "model": "cocricotmod:industrialshadelamp_pink_wall", "y": 180 },
+        "facing=up,lighting=false": { "model": "cocricotmod:industrialshadelamp_pink" },
+        "facing=down,lighting=false": { "model": "cocricotmod:industrialshadelamp_pink" },
+        "facing=east,lighting=false": { "model": "cocricotmod:industrialshadelamp_pink_wall", "y": 270 },
+        "facing=south,lighting=false": { "model": "cocricotmod:industrialshadelamp_pink_wall" },
+        "facing=west,lighting=false": { "model": "cocricotmod:industrialshadelamp_pink_wall", "y": 90 },
+        "facing=north,lighting=false": { "model": "cocricotmod:industrialshadelamp_pink_wall", "y": 180 }
+    }
+}

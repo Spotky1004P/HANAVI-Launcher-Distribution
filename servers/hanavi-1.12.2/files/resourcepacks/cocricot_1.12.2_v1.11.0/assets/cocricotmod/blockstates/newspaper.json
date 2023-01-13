@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "coffeetable=false,facing=south": { "model": "cocricotmod:newspaper" },
+        "coffeetable=false,facing=west": { "model": "cocricotmod:newspaper", "y": 90 },
+        "coffeetable=false,facing=north": { "model": "cocricotmod:newspaper", "y": 180 },
+        "coffeetable=false,facing=east": { "model": "cocricotmod:newspaper", "y": 270 },
+        "coffeetable=true,facing=south": { "model": "cocricotmod:newspaper_table" },
+        "coffeetable=true,facing=west": { "model": "cocricotmod:newspaper_table", "y": 90 },
+        "coffeetable=true,facing=north": { "model": "cocricotmod:newspaper_table", "y": 180 },
+        "coffeetable=true,facing=east": { "model": "cocricotmod:newspaper_table", "y": 270 }
+    }
+}

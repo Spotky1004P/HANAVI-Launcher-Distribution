@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south,lighting=false": { "model": "cocricotmod:exitsign_american", "y": 180 },
+        "facing=west,lighting=false": { "model": "cocricotmod:exitsign_american", "y": 270 },
+        "facing=north,lighting=false": { "model": "cocricotmod:exitsign_american" },
+        "facing=east,lighting=false": { "model": "cocricotmod:exitsign_american", "y": 90 },
+        "facing=south,lighting=true": { "model": "cocricotmod:exitsign_american", "y": 180 },
+        "facing=west,lighting=true": { "model": "cocricotmod:exitsign_american", "y": 270 },
+        "facing=north,lighting=true": { "model": "cocricotmod:exitsign_american" },
+        "facing=east,lighting=true": { "model": "cocricotmod:exitsign_american", "y": 90 }
+    }
+}

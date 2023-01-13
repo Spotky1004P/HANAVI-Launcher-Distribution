@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:marble_arch", "y": 270 },
+        "facing=west": { "model": "cocricotmod:marble_arch" },
+        "facing=north": { "model": "cocricotmod:marble_arch", "y": 90 },
+        "facing=east": { "model": "cocricotmod:marble_arch", "y": 180 }
+    }
+}

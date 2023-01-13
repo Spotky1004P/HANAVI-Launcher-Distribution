@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "cocricotmod:basket_shallow_natural" },
+            { "model": "cocricotmod:basket_shallow_natural1" }
+        ]
+    }
+}

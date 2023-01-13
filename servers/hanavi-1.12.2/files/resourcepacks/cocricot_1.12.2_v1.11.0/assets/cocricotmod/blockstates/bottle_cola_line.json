@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:bottle_cola_line", "y": 180 },
+        "facing=west": { "model": "cocricotmod:bottle_cola_line", "y": 270 },
+        "facing=north": { "model": "cocricotmod:bottle_cola_line" },
+        "facing=east": { "model": "cocricotmod:bottle_cola_line", "y": 90 }
+    }
+}

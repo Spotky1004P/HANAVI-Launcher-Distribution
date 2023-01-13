@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=south": [
+          { "model": "cocricotmod:garland_photo", "y": 180 },
+          { "model": "cocricotmod:garland_photo1", "y": 180 }
+        ],
+        "facing=west": [
+          { "model": "cocricotmod:garland_photo", "y": 270 },
+          { "model": "cocricotmod:garland_photo1", "y": 270 }
+        ],
+        "facing=north": [
+          { "model": "cocricotmod:garland_photo" },
+          { "model": "cocricotmod:garland_photo1" }
+        ],
+        "facing=east": [
+          { "model": "cocricotmod:garland_photo", "y": 90 },
+          { "model": "cocricotmod:garland_photo1", "y": 90 }
+        ]
+    }
+}

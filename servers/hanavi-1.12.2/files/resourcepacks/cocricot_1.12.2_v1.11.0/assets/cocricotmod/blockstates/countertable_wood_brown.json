@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:countertable_wood_brown", "y": 180, "uvlock": true },
+        "facing=west": { "model": "cocricotmod:countertable_wood_brown", "y": 270, "uvlock": true },
+        "facing=north": { "model": "cocricotmod:countertable_wood_brown", "uvlock": true },
+        "facing=east": { "model": "cocricotmod:countertable_wood_brown", "y": 90, "uvlock": true }
+    }
+}

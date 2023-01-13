@@ -1,0 +1,23 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"0": "cocricotmod:blocks/bed_mattress_rustic",
+		"2": "cocricotmod:blocks/planks_antique",
+		"particle": "cocricotmod:blocks/planks_antique"
+	},
+	"elements": [
+		{
+			"from": [4.5, 4, 15],
+			"to": [11.5, 13, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.5, 15.25]},
+			"faces": {
+				"north": {"uv": [13.625, 3, 15.375, 5.25], "texture": "#0"},
+				"east": {"uv": [16, 6.375, 15.75, 8.625], "texture": "#0"},
+				"south": {"uv": [0, 0, 9, 7], "rotation": 90, "texture": "#2", "cullface": "south"},
+				"west": {"uv": [15.75, 6.375, 16, 8.625], "texture": "#0"},
+				"up": {"uv": [15.75, 6.375, 16, 8.125], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [16, 6.375, 15.75, 8.125], "rotation": 90, "texture": "#0"}
+			}
+		}
+	]
+}

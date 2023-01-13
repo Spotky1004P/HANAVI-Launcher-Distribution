@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lighting=true": { "model": "cocricotmod:tablelamp_simple" },
+        "lighting=false": { "model": "cocricotmod:tablelamp_simple" }
+    }
+}

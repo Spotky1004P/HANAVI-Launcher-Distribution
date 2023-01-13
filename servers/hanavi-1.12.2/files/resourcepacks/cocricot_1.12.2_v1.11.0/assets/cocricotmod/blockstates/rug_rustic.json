@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=south,shift=false": { "model": "cocricotmod:rug_rustic_wall", "y": 180 },
+        "facing=west,shift=false": { "model": "cocricotmod:rug_rustic_wall", "y": 270 },
+        "facing=north,shift=false": { "model": "cocricotmod:rug_rustic_wall" },
+        "facing=east,shift=false": { "model": "cocricotmod:rug_rustic_wall", "y": 90 },
+        "facing=down_south,shift=false": { "model": "cocricotmod:rug_rustic", "y": 180 },
+        "facing=down_west,shift=false": { "model": "cocricotmod:rug_rustic", "y": 270 },
+        "facing=down_north,shift=false": { "model": "cocricotmod:rug_rustic" },
+        "facing=down_east,shift=false": { "model": "cocricotmod:rug_rustic", "y": 90 },
+        "facing=south,shift=true": { "model": "cocricotmod:rug_rustic_wall", "y": 180 },
+        "facing=west,shift=true": { "model": "cocricotmod:rug_rustic_wall", "y": 270 },
+        "facing=north,shift=true": { "model": "cocricotmod:rug_rustic_wall" },
+        "facing=east,shift=true": { "model": "cocricotmod:rug_rustic_wall", "y": 90 },
+        "facing=down_south,shift=true": { "model": "cocricotmod:rug_rustic_true", "y": 180 },
+        "facing=down_west,shift=true": { "model": "cocricotmod:rug_rustic_true", "y": 270 },
+        "facing=down_north,shift=true": { "model": "cocricotmod:rug_rustic_true" },
+        "facing=down_east,shift=true": { "model": "cocricotmod:rug_rustic_true", "y": 90 }
+    }
+}

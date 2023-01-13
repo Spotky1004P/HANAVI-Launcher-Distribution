@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:luggage_antique_small_brown" },
+        "facing=west": { "model": "cocricotmod:luggage_antique_small_brown", "y": 90 },
+        "facing=north": { "model": "cocricotmod:luggage_antique_small_brown", "y": 180 },
+        "facing=east": { "model": "cocricotmod:luggage_antique_small_brown", "y": 270 }
+    }
+}

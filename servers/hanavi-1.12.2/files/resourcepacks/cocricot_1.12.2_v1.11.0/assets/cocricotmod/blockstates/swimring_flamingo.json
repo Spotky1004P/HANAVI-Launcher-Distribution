@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south,water=false": { "model": "cocricotmod:swimring_flamingo", "y": 180 },
+        "facing=west,water=false": { "model": "cocricotmod:swimring_flamingo", "y": 270 },
+        "facing=north,water=false": { "model": "cocricotmod:swimring_flamingo" },
+        "facing=east,water=false": { "model": "cocricotmod:swimring_flamingo", "y": 90 },
+        "facing=south,water=true": { "model": "cocricotmod:swimring_flamingo_water", "y": 180 },
+        "facing=west,water=true": { "model": "cocricotmod:swimring_flamingo_water", "y": 270 },
+        "facing=north,water=true": { "model": "cocricotmod:swimring_flamingo_water" },
+        "facing=east,water=true": { "model": "cocricotmod:swimring_flamingo_water", "y": 90 }
+    }
+}

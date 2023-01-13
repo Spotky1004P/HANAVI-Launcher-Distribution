@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lighting=true": { "model": "cocricotmod:ironlight_square_black" },
+        "lighting=false": { "model": "cocricotmod:ironlight_square_black" }
+    }
+}

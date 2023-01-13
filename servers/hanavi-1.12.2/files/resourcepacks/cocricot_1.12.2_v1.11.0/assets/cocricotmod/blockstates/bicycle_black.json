@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=east": { "model": "cocricotmod:bicycle_black_set", "y": 90 },
+        "facing=south": { "model": "cocricotmod:bicycle_black_set", "y": 180 },
+        "facing=west": { "model": "cocricotmod:bicycle_black_set", "y": 270 },
+        "facing=north": { "model": "cocricotmod:bicycle_black_set" },
+        "facing=down_east": { "model": "cocricotmod:bicycle_black_stand", "y": 90 },
+        "facing=down_south": { "model": "cocricotmod:bicycle_black_stand" , "y": 180 },
+        "facing=down_west": { "model": "cocricotmod:bicycle_black_stand", "y": 270 },
+        "facing=down_north": { "model": "cocricotmod:bicycle_black_stand"  },
+        "facing=up_east": { "model": "cocricotmod:bicycle_black_stand", "y": 90 },
+        "facing=up_south": { "model": "cocricotmod:bicycle_black_stand", "y": 180  },
+        "facing=up_west": { "model": "cocricotmod:bicycle_black_stand", "y": 270 },
+        "facing=up_north": { "model": "cocricotmod:bicycle_black_stand"  }
+    }
+}

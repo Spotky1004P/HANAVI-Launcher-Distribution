@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:toilet_modern", "y": 180 },
+        "facing=west": { "model": "cocricotmod:toilet_modern", "y": 270 },
+        "facing=north": { "model": "cocricotmod:toilet_modern" },
+        "facing=east": { "model": "cocricotmod:toilet_modern", "y": 90 }
+    }
+}

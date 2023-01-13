@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=up,lighting=true": { "model": "cocricotmod:milkglasslamp_frill_small", "x": 180 },
+        "facing=down,lighting=true": { "model": "cocricotmod:milkglasslamp_frill_small" },
+        "facing=east,lighting=true": { "model": "cocricotmod:milkglasslamp_frill_small" },
+        "facing=south,lighting=true": { "model": "cocricotmod:milkglasslamp_frill_small" },
+        "facing=west,lighting=true": { "model": "cocricotmod:milkglasslamp_frill_small" },
+        "facing=north,lighting=true": { "model": "cocricotmod:milkglasslamp_frill_small" },
+        "facing=up,lighting=false": { "model": "cocricotmod:milkglasslamp_frill_small", "x": 180 },
+        "facing=down,lighting=false": { "model": "cocricotmod:milkglasslamp_frill_small" },
+        "facing=east,lighting=false": { "model": "cocricotmod:milkglasslamp_frill_small" },
+        "facing=south,lighting=false": { "model": "cocricotmod:milkglasslamp_frill_small" },
+        "facing=west,lighting=false": { "model": "cocricotmod:milkglasslamp_frill_small" },
+        "facing=north,lighting=false": { "model": "cocricotmod:milkglasslamp_frill_small" }
+    }
+}

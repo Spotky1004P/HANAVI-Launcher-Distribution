@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "cocricotmod:pumpkin_small" },
+          { "model": "cocricotmod:pumpkin_small", "y":90 },
+          { "model": "cocricotmod:pumpkin_small", "y":180 },
+          { "model": "cocricotmod:pumpkin_small", "y":270 },
+          { "model": "cocricotmod:pumpkin_small1" },
+          { "model": "cocricotmod:pumpkin_small1", "y":90 },
+          { "model": "cocricotmod:pumpkin_small1", "y":180 },
+          { "model": "cocricotmod:pumpkin_small2", "y":270 },
+          { "model": "cocricotmod:pumpkin_small2", "y":90 },
+          { "model": "cocricotmod:pumpkin_small2", "y":180 },
+          { "model": "cocricotmod:pumpkin_small3" },
+          { "model": "cocricotmod:pumpkin_small3", "y":90 },
+          { "model": "cocricotmod:pumpkin_small3", "y":180 },
+          { "model": "cocricotmod:pumpkin_small3", "y":270 },
+          { "model": "cocricotmod:pumpkin_small4" },
+          { "model": "cocricotmod:pumpkin_small4", "y":90 },
+          { "model": "cocricotmod:pumpkin_small4", "y":180 },
+          { "model": "cocricotmod:pumpkin_small4", "y":270 },
+          { "model": "cocricotmod:pumpkin_small5" },
+          { "model": "cocricotmod:pumpkin_small5", "y":90 },
+          { "model": "cocricotmod:pumpkin_small5", "y":180 },
+          { "model": "cocricotmod:pumpkin_small5", "y":270 }
+        ]
+    }
+}

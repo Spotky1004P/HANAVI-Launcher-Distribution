@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:mirror_round", "y": 180 },
+        "facing=west": { "model": "cocricotmod:mirror_round", "y": 270 },
+        "facing=north": { "model": "cocricotmod:mirror_round" },
+        "facing=east": { "model": "cocricotmod:mirror_round", "y": 90 }
+    }
+}

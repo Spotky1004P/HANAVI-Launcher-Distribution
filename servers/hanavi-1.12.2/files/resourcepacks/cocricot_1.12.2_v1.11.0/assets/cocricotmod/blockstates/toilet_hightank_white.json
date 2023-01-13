@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:toilet_hightank_white", "y": 180 },
+        "facing=west": { "model": "cocricotmod:toilet_hightank_white", "y": 270 },
+        "facing=north": { "model": "cocricotmod:toilet_hightank_white" },
+        "facing=east": { "model": "cocricotmod:toilet_hightank_white", "y": 90 }
+    }
+}

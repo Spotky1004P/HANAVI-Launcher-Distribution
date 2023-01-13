@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:windowbox_seadrift", "y": 270 },
+        "facing=west": { "model": "cocricotmod:windowbox_seadrift" },
+        "facing=north": { "model": "cocricotmod:windowbox_seadrift", "y": 90 },
+        "facing=east": { "model": "cocricotmod:windowbox_seadrift", "y": 180 }
+    }
+}

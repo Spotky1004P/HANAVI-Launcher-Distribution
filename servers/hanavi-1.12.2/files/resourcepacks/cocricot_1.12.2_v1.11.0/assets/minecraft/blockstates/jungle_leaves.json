@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "jungle_leaves" },
+            { "model": "jungle_leaves1" },
+            { "model": "jungle_leaves2" },
+            { "model": "jungle_leaves3" },
+            { "model": "jungle_leaves4" }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_side",
+    "textures": {
+  		"0": "blocks/fence_acacia",
+  		"particle": "blocks/log_acacia"
+  	}
+}

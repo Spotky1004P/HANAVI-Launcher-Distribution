@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "cocricotmod:marble_hourglass" },
+        "facing=down": { "model": "cocricotmod:marble_hourglass", "x": 180 },
+        "facing=south": { "model": "cocricotmod:marble_hourglass_side", "y": 270 },
+        "facing=west": { "model": "cocricotmod:marble_hourglass_side" },
+        "facing=north": { "model": "cocricotmod:marble_hourglass_side", "y": 90 },
+        "facing=east": { "model": "cocricotmod:marble_hourglass_side", "y": 180 }
+    }
+}

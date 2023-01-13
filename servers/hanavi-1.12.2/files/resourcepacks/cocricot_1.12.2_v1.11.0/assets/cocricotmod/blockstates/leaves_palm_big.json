@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "cocricotmod:leaves_palm_big.obj" },
+          { "model": "cocricotmod:leaves_palm_big.obj", "y":90 },
+          { "model": "cocricotmod:leaves_palm_big.obj", "y":180 },
+          { "model": "cocricotmod:leaves_palm_big.obj", "y":270 }
+        ]
+    }
+}

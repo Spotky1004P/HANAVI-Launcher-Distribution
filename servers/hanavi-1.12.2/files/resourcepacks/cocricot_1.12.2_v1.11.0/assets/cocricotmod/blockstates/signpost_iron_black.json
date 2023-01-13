@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "cocricotmod:signpost_iron_black_post" },
+        "facing=down": { "model": "cocricotmod:signpost_iron_black_post" },
+        "facing=east": { "model": "cocricotmod:signpost_iron_black", "y": 90 },
+        "facing=south": { "model": "cocricotmod:signpost_iron_black1", "y": 180 },
+        "facing=west": { "model": "cocricotmod:signpost_iron_black2", "y": 270 },
+        "facing=north": { "model": "cocricotmod:signpost_iron_black3" }
+    }
+}

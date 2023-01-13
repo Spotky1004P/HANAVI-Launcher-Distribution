@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "cocricotmod:lifebuoys_blue" },
+        "facing=down": { "model": "cocricotmod:lifebuoys_blue", "x": 180 },
+        "facing=east": { "model": "cocricotmod:lifebuoys_blue", "y": 90, "x": 90 },
+        "facing=south": { "model": "cocricotmod:lifebuoys_blue", "y": 180, "x": 90 },
+        "facing=west": { "model": "cocricotmod:lifebuoys_blue", "y": 270, "x": 90 },
+        "facing=north": { "model": "cocricotmod:lifebuoys_blue", "y": 0, "x": 90 }
+    }
+}

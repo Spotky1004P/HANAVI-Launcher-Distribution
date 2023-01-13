@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "cocricotmod:wood_6board_h_dark_slab" },
+        "half=top,variant=default": { "model": "cocricotmod:wood_6board_h_dark_slab_upper" }
+    }
+}

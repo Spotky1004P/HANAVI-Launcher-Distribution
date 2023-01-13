@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:marble_vslab", "uvlock":true },
+        "facing=west": { "model": "cocricotmod:marble_vslab", "y": 90, "uvlock":true },
+        "facing=north": { "model": "cocricotmod:marble_vslab", "y": 180, "uvlock":true },
+        "facing=east": { "model": "cocricotmod:marble_vslab", "y": 270, "uvlock":true  }
+    }
+}

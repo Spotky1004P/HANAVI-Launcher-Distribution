@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "cocricotmod:wheel_small_clear" },
+        "facing=down": { "model": "cocricotmod:wheel_small_clear", "x": 180 },
+        "facing=east": { "model": "cocricotmod:wheel_small_clear", "y": 90, "x": 90 },
+        "facing=south": { "model": "cocricotmod:wheel_small_clear", "y": 180, "x": 90 },
+        "facing=west": { "model": "cocricotmod:wheel_small_clear", "y": 270, "x": 90 },
+        "facing=north": { "model": "cocricotmod:wheel_small_clear", "y": 0, "x": 90 }
+    }
+}

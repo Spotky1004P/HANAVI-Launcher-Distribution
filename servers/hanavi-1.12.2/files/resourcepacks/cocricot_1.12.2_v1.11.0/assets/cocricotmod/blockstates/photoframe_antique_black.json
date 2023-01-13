@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:photoframe_antique_black", "y": 180 },
+        "facing=west": { "model": "cocricotmod:photoframe_antique_black", "y": 270 },
+        "facing=north": { "model": "cocricotmod:photoframe_antique_black" },
+        "facing=east": { "model": "cocricotmod:photoframe_antique_black", "y": 90 },
+        "facing=down_south": { "model": "cocricotmod:photoframe_antique_black_down" },
+        "facing=down_west": { "model": "cocricotmod:photoframe_antique_black_down", "y": 90 },
+        "facing=down_north": { "model": "cocricotmod:photoframe_antique_black_down", "y": 180 },
+        "facing=down_east": { "model": "cocricotmod:photoframe_antique_black_down", "y": 270 }
+    }
+}

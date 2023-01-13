@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:jar_yellow", "y": 180 },
+        "facing=west": { "model": "cocricotmod:jar_yellow", "y": 270 },
+        "facing=north": { "model": "cocricotmod:jar_yellow" },
+        "facing=east": { "model": "cocricotmod:jar_yellow", "y": 90 }
+    }
+}

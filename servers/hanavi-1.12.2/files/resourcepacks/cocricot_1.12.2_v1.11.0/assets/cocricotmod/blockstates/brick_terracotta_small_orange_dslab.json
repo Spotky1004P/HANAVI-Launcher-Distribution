@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=default": { "model": "cocricotmod:brick_terracotta_small_orange" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:shipinabottle", "y": 180 },
+        "facing=west": { "model": "cocricotmod:shipinabottle", "y": 270 },
+        "facing=north": { "model": "cocricotmod:shipinabottle" },
+        "facing=east": { "model": "cocricotmod:shipinabottle", "y": 90 }
+    }
+}

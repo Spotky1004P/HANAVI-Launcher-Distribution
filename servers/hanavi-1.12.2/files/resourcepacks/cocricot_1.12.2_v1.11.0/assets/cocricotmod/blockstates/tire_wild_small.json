@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": { "model": "cocricotmod:tire_wild_small", "y": 90, "x": 90 },
+        "facing=south": { "model": "cocricotmod:tire_wild_small", "y": 180, "x": 90 },
+        "facing=west": { "model": "cocricotmod:tire_wild_small", "y": 270, "x": 90 },
+        "facing=north": { "model": "cocricotmod:tire_wild_small", "y": 0, "x": 90 }
+    }
+}

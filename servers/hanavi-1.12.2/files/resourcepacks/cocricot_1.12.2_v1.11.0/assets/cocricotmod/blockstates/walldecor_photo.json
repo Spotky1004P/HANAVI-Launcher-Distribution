@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "facing=south": [
+          { "model": "cocricotmod:walldecor_photo", "y": 180 },
+          { "model": "cocricotmod:walldecor_photo1", "y": 180 },
+          { "model": "cocricotmod:walldecor_photo2", "y": 180 }
+        ],
+        "facing=west": [
+          { "model": "cocricotmod:walldecor_photo", "y": 270 },
+          { "model": "cocricotmod:walldecor_photo1", "y": 270 },
+          { "model": "cocricotmod:walldecor_photo2", "y": 270 }
+        ],
+        "facing=north": [
+          { "model": "cocricotmod:walldecor_photo" },
+          { "model": "cocricotmod:walldecor_photo1" },
+          { "model": "cocricotmod:walldecor_photo2" }
+        ],
+        "facing=east": [
+          { "model": "cocricotmod:walldecor_photo", "y": 90 },
+          { "model": "cocricotmod:walldecor_photo1", "y": 90 },
+          { "model": "cocricotmod:walldecor_photo2", "y": 90 }
+        ]
+    }
+}

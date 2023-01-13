@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lighting=true": { "model": "cocricotmod:industrialshadelamp_big_lightblue" },
+        "lighting=false": { "model": "cocricotmod:industrialshadelamp_big_lightblue" }
+    }
+}

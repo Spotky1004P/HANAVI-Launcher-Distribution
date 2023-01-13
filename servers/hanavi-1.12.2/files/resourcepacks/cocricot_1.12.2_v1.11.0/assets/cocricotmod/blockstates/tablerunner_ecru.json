@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:tablerunner_ecru" },
+        "facing=west": { "model": "cocricotmod:tablerunner_ecru", "y": 90 },
+        "facing=north": { "model": "cocricotmod:tablerunner_ecru" },
+        "facing=east": { "model": "cocricotmod:tablerunner_ecru", "y": 90 }
+    }
+}

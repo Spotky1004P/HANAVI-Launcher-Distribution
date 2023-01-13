@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:openplate", "y": 180 },
+        "facing=west": { "model": "cocricotmod:openplate", "y": 270 },
+        "facing=north": { "model": "cocricotmod:openplate" },
+        "facing=east": { "model": "cocricotmod:openplate", "y": 90 }
+    }
+}

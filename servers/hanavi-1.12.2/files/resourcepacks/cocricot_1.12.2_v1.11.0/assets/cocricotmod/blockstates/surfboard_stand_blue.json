@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,half=upper": { "model": "cocricotmod:surfboard_stand_blue"},
+        "facing=south,half=upper": { "model": "cocricotmod:surfboard_stand_blue", "y": 180 },
+        "facing=east,half=upper": { "model": "cocricotmod:surfboard_stand_blue", "y": 90 },
+        "facing=west,half=upper": { "model": "cocricotmod:surfboard_stand_blue", "y": 270 },
+        "facing=north,half=lower": { "model": "cocricotmod:transparent"},
+        "facing=south,half=lower": { "model": "cocricotmod:transparent"},
+        "facing=east,half=lower": { "model": "cocricotmod:transparent"},
+        "facing=west,half=lower": { "model": "cocricotmod:transparent"}
+    }
+}

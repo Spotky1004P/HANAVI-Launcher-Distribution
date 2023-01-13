@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south,lighting=true": { "model": "cocricotmod:heater_kerosene360_lightgreen", "y": 180 },
+        "facing=west,lighting=true": { "model": "cocricotmod:heater_kerosene360_lightgreen", "y": 270 },
+        "facing=north,lighting=true": { "model": "cocricotmod:heater_kerosene360_lightgreen" },
+        "facing=east,lighting=true": { "model": "cocricotmod:heater_kerosene360_lightgreen", "y": 90 },
+        "facing=south,lighting=false": { "model": "cocricotmod:heater_kerosene360_lightgreen", "y": 180 },
+        "facing=west,lighting=false": { "model": "cocricotmod:heater_kerosene360_lightgreen", "y": 270 },
+        "facing=north,lighting=false": { "model": "cocricotmod:heater_kerosene360_lightgreen" },
+        "facing=east,lighting=false": { "model": "cocricotmod:heater_kerosene360_lightgreen", "y": 90 }
+    }
+}

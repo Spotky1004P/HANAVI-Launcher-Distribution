@@ -1,0 +1,18 @@
+{
+	"parent": "cocricotmod:block/photoframe_winter",
+	"elements": [
+		{
+			"from": [3, 4.25, 15],
+			"to": [13, 11.75, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 15.5]},
+			"faces": {
+				"north": {"uv": [10.25, 10.375, 12.75, 12.25], "texture": "#0"},
+				"east": {"uv": [16, 5.25, 15.75, 7.125], "texture": "#0"},
+				"south": {"uv": [0, 0, 7.5, 10], "rotation": 90, "texture": "#2", "cullface": "south"},
+				"west": {"uv": [15.75, 5.25, 16, 7.125], "texture": "#0"},
+				"up": {"uv": [15.75, 6.125, 16, 8.625], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [16, 6.125, 15.75, 8.625], "rotation": 90, "texture": "#0"}
+			}
+		}
+	]
+}

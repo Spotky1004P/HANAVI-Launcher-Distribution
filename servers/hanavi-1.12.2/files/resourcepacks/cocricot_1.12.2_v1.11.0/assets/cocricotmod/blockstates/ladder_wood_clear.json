@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:ladder_wood_clear", "y": 180 },
+        "facing=west": { "model": "cocricotmod:ladder_wood_clear", "y": 270 },
+        "facing=north": { "model": "cocricotmod:ladder_wood_clear" },
+        "facing=east": { "model": "cocricotmod:ladder_wood_clear", "y": 90 }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south,lighting=false": { "model": "cocricotmod:lightboxsign_coffee", "y": 180 },
+        "facing=west,lighting=false": { "model": "cocricotmod:lightboxsign_coffee", "y": 270 },
+        "facing=north,lighting=false": { "model": "cocricotmod:lightboxsign_coffee" },
+        "facing=east,lighting=false": { "model": "cocricotmod:lightboxsign_coffee", "y": 90 },
+        "facing=south,lighting=true": { "model": "cocricotmod:lightboxsign_coffee", "y": 180 },
+        "facing=west,lighting=true": { "model": "cocricotmod:lightboxsign_coffee", "y": 270 },
+        "facing=north,lighting=true": { "model": "cocricotmod:lightboxsign_coffee" },
+        "facing=east,lighting=true": { "model": "cocricotmod:lightboxsign_coffee", "y": 90 }
+    }
+}

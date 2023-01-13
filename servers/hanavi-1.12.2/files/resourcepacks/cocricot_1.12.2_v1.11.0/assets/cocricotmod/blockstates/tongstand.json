@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:tongstand", "y": 180 },
+        "facing=west": { "model": "cocricotmod:tongstand", "y": 270 },
+        "facing=north": { "model": "cocricotmod:tongstand" },
+        "facing=east": { "model": "cocricotmod:tongstand", "y": 90 }
+    }
+}

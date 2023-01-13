@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south,lighting=true": { "model": "cocricotmod:sconce_cube", "y": 180 },
+        "facing=west,lighting=true": { "model": "cocricotmod:sconce_cube", "y": 270 },
+        "facing=north,lighting=true": { "model": "cocricotmod:sconce_cube" },
+        "facing=east,lighting=true": { "model": "cocricotmod:sconce_cube", "y": 90 },
+        "facing=south,lighting=false": { "model": "cocricotmod:sconce_cube", "y": 180 },
+        "facing=west,lighting=false": { "model": "cocricotmod:sconce_cube", "y": 270 },
+        "facing=north,lighting=false": { "model": "cocricotmod:sconce_cube" },
+        "facing=east,lighting=false": { "model": "cocricotmod:sconce_cube", "y": 90 }
+    }
+}

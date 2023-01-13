@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lighting=true": { "model": "cocricotmod:bonfire" },
+        "lighting=false": { "model": "cocricotmod:bonfire_false" }
+    }
+}

@@ -1,0 +1,27 @@
+{
+	"parent": "cocricotmod:block/base_cube_all",
+	"textures": {
+		"0": "cocricotmod:blocks/bed_mattress_white",
+		"particle": "cocricotmod:blocks/stone_color_white"
+	},
+	"elements": [
+		{
+			"from": [0, 3, 11.75],
+			"to": [16, 16, 15.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [23, 14, 22.25]},
+			"faces": {
+				"north": {"uv": [6.875, 3.5, 10.875, 6.75], "texture": "#0"},
+				"south": {"uv": [10.875, 3.5, 6.875, 6.75], "texture": "#0"},
+				"up": {"uv": [10.875, 6.75, 6.875, 7.625], "texture": "#0"},
+				"down": {"uv": [10.875, 7.625, 6.875, 6.75], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [-3.25, 1.75, 0],
+			"scale": [0.83, 0.83, 0.83]
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south,position=lower": { "model": "cocricotmod:captionplate_green", "y": 180 },
+        "facing=west,position=lower": { "model": "cocricotmod:captionplate_green", "y": 270 },
+        "facing=north,position=lower": { "model": "cocricotmod:captionplate_green" },
+        "facing=east,position=lower": { "model": "cocricotmod:captionplate_green", "y": 90 },
+        "facing=south,position=upper": { "model": "cocricotmod:captionplate_green_upper", "y": 180 },
+        "facing=west,position=upper": { "model": "cocricotmod:captionplate_green_upper", "y": 270 },
+        "facing=north,position=upper": { "model": "cocricotmod:captionplate_green_upper" },
+        "facing=east,position=upper": { "model": "cocricotmod:captionplate_green_upper", "y": 90 }
+    }
+}

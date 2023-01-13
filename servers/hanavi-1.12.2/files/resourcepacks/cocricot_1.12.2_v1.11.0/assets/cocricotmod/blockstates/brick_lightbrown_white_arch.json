@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:brick_lightbrown_white_arch", "y": 270 },
+        "facing=west": { "model": "cocricotmod:brick_lightbrown_white_arch" },
+        "facing=north": { "model": "cocricotmod:brick_lightbrown_white_arch", "y": 90 },
+        "facing=east": { "model": "cocricotmod:brick_lightbrown_white_arch", "y": 180 }
+    }
+}

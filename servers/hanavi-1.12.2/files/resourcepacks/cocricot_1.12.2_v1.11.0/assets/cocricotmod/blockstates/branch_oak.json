@@ -1,0 +1,29 @@
+{
+    "multipart": [
+        {   "apply": { "model": "cocricotmod:branch_oak" }},
+        {   "when": { "north": true },
+            "apply": { "model": "cocricotmod:branch_oak_side" }
+        },
+        {   "when": { "east": true },
+            "apply": { "model": "cocricotmod:branch_oak_side", "y": 90 }
+        },
+        {   "when": { "south": true },
+            "apply": { "model": "cocricotmod:branch_oak_side", "y": 180 }
+        },
+        {   "when": { "west": true },
+            "apply": { "model": "cocricotmod:branch_oak_side", "y": 270 }
+        },
+        {   "when": { "trunk_north": true },
+            "apply": { "model": "cocricotmod:branch_oak_side_trunk" }
+        },
+        {   "when": { "trunk_east": true },
+            "apply": { "model": "cocricotmod:branch_oak_side_trunk", "y": 90 }
+        },
+        {   "when": { "trunk_south": true },
+            "apply": { "model": "cocricotmod:branch_oak_side_trunk", "y": 180 }
+        },
+        {   "when": { "trunk_west": true },
+            "apply": { "model": "cocricotmod:branch_oak_side_trunk", "y": 270 }
+        }
+    ]
+}

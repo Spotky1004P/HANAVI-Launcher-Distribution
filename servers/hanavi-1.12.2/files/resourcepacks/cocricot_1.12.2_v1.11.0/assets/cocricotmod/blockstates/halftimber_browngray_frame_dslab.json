@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=default": { "model": "cocricotmod:halftimber_browngray_frame" }
+    }
+}

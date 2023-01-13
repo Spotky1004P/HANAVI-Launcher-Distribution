@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lighting=true": { "model": "cocricotmod:floorlamp_head" },
+        "lighting=false": { "model": "cocricotmod:floorlamp_head" }
+    }
+}

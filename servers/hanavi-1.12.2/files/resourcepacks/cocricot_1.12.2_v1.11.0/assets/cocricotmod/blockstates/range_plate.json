@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:range_plate", "y": 180 },
+        "facing=west": { "model": "cocricotmod:range_plate", "y": 270 },
+        "facing=north": { "model": "cocricotmod:range_plate" },
+        "facing=east": { "model": "cocricotmod:range_plate", "y": 90 }
+    }
+}

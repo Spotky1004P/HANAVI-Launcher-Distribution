@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "corner=straight,facing=east":  { "model": "cocricotmod:roof_tile_black_incline_odd" },
+        "corner=straight,facing=west":  { "model": "cocricotmod:roof_tile_black_incline_odd", "y": 180 },
+        "corner=straight,facing=south": { "model": "cocricotmod:roof_tile_black_incline_odd", "y": 90 },
+        "corner=straight,facing=north": { "model": "cocricotmod:roof_tile_black_incline_odd", "y": 270 },
+        "corner=outer_right,facing=east":  { "model": "cocricotmod:roof_tile_black_incline_odd_corner" },
+        "corner=outer_right,facing=west":  { "model": "cocricotmod:roof_tile_black_incline_odd_corner", "y": 180 },
+        "corner=outer_right,facing=south": { "model": "cocricotmod:roof_tile_black_incline_odd_corner", "y": 90 },
+        "corner=outer_right,facing=north": { "model": "cocricotmod:roof_tile_black_incline_odd_corner", "y": 270 },
+        "corner=outer_left,facing=east":  { "model": "cocricotmod:roof_tile_black_incline_odd_corner", "y": 270 },
+        "corner=outer_left,facing=west":  { "model": "cocricotmod:roof_tile_black_incline_odd_corner", "y": 90 },
+        "corner=outer_left,facing=south": { "model": "cocricotmod:roof_tile_black_incline_odd_corner" },
+        "corner=outer_left,facing=north": { "model": "cocricotmod:roof_tile_black_incline_odd_corner", "y": 180 },
+        "corner=inner_right,facing=east":  { "model": "cocricotmod:roof_tile_black_incline_odd_corner", "y": 180 },
+        "corner=inner_right,facing=west":  { "model": "cocricotmod:roof_tile_black_incline_odd_corner" },
+        "corner=inner_right,facing=south": { "model": "cocricotmod:roof_tile_black_incline_odd_corner", "y": 270 },
+        "corner=inner_right,facing=north": { "model": "cocricotmod:roof_tile_black_incline_odd_corner", "y": 90 },
+        "corner=inner_left,facing=east":  { "model": "cocricotmod:roof_tile_black_incline_odd_corner", "y": 90 },
+        "corner=inner_left,facing=west":  { "model": "cocricotmod:roof_tile_black_incline_odd_corner", "y": 270 },
+        "corner=inner_left,facing=south": { "model": "cocricotmod:roof_tile_black_incline_odd_corner", "y": 180 },
+        "corner=inner_left,facing=north": { "model": "cocricotmod:roof_tile_black_incline_odd_corner" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:luggage_basket_stand", "y": 180 },
+        "facing=west": { "model": "cocricotmod:luggage_basket_stand", "y": 270 },
+        "facing=north": { "model": "cocricotmod:luggage_basket_stand" },
+        "facing=east": { "model": "cocricotmod:luggage_basket_stand", "y": 90 }
+    }
+}

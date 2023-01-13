@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "flowerpot=true": { "model": "cocricotmod:flowerpot_inner_benjamin" },
+        "flowerpot=false": { "model": "cocricotmod:flowerpot_inner_benjamin_false" }
+    }
+}

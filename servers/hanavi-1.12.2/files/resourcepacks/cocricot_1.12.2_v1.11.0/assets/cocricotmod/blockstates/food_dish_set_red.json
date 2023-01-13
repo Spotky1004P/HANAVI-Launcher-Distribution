@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:food_dish_set_red" },
+        "facing=west": { "model": "cocricotmod:food_dish_set_red", "y": 90 },
+        "facing=north": { "model": "cocricotmod:food_dish_set_red", "y": 180 },
+        "facing=east": { "model": "cocricotmod:food_dish_set_red", "y": 270 }
+    }
+}

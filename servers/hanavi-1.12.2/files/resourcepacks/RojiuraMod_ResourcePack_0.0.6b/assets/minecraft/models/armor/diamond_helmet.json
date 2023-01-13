@@ -1,0 +1,6 @@
+{
+    "parent": "armor/hat",
+    "textures": {
+        "layer0": "items/diamond_helmet"
+    ]
+}

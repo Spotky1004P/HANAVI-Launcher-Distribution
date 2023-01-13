@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:walldecor_accessories_bohemian", "y": 180 },
+        "facing=west": { "model": "cocricotmod:walldecor_accessories_bohemian", "y": 270 },
+        "facing=north": { "model": "cocricotmod:walldecor_accessories_bohemian" },
+        "facing=east": { "model": "cocricotmod:walldecor_accessories_bohemian", "y": 90 }
+    }
+}

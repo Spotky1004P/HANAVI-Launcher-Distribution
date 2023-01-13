@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "cocricotmod:stone_color_lightblue_slab" },
+        "half=top,variant=default": { "model": "cocricotmod:stone_color_lightblue_slab_upper" }
+    }
+}

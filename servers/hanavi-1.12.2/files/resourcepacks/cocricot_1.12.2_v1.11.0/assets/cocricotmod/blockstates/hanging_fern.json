@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "position=upper": { "model": "cocricotmod:hanging_fern_upper" },
+        "position=lower": { "model": "cocricotmod:hanging_fern_lower" }
+    }
+}

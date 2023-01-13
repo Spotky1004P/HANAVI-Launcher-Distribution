@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "cocricotmod:leaves_darkgreen" },
+            { "model": "cocricotmod:leaves_darkgreen1" },
+            { "model": "cocricotmod:leaves_darkgreen1", "y": 90 },
+            { "model": "cocricotmod:leaves_darkgreen1", "y": 180 }
+        ]
+    }
+}

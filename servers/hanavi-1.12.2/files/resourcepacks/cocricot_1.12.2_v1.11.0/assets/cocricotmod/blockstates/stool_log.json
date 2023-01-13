@@ -1,0 +1,9 @@
+{
+    "variants": {
+      "normal": [
+          { "model": "cocricotmod:stool_log" },
+          { "model": "cocricotmod:stool_log1" },
+          { "model": "cocricotmod:stool_log2" }
+      ]
+    }
+}

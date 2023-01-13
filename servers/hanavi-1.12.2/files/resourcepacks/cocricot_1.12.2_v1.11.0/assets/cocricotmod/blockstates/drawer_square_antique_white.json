@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:drawer_square_antique_white", "y": 180 },
+        "facing=west": { "model": "cocricotmod:drawer_square_antique_white", "y": 270 },
+        "facing=north": { "model": "cocricotmod:drawer_square_antique_white" },
+        "facing=east": { "model": "cocricotmod:drawer_square_antique_white", "y": 90 }
+    }
+}

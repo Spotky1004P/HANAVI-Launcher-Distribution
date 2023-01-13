@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:wood_2board_h_black_vslab", "uvlock":true },
+        "facing=west": { "model": "cocricotmod:wood_2board_h_black_vslab", "y": 90, "uvlock":true },
+        "facing=north": { "model": "cocricotmod:wood_2board_h_black_vslab", "y": 180, "uvlock":true },
+        "facing=east": { "model": "cocricotmod:wood_2board_h_black_vslab", "y": 270, "uvlock":true  }
+    }
+}

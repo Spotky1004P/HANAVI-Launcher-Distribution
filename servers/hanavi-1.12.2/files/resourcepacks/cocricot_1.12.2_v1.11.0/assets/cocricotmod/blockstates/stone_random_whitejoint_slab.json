@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "cocricotmod:stone_random_whitejoint_slab" },
+        "half=top,variant=default": { "model": "cocricotmod:stone_random_whitejoint_slab_upper" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "cocricotmod:pattern_star_night" },
+          { "model": "cocricotmod:pattern_star_night1" },
+          { "model": "cocricotmod:pattern_star_night2" },
+          { "model": "cocricotmod:pattern_star_night3" }
+        ]
+    }
+}

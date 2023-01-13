@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:magazinerack_brown", "y": 180 },
+        "facing=west": { "model": "cocricotmod:magazinerack_brown", "y": 270 },
+        "facing=north": { "model": "cocricotmod:magazinerack_brown" },
+        "facing=east": { "model": "cocricotmod:magazinerack_brown", "y": 90 }
+    }
+}

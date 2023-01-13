@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:paperbag", "y": 180 },
+        "facing=west": { "model": "cocricotmod:paperbag", "y": 270 },
+        "facing=north": { "model": "cocricotmod:paperbag" },
+        "facing=east": { "model": "cocricotmod:paperbag", "y": 90 }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "flowerpot=true": { "model": "cocricotmod:flowerpot_inner_sansevieria" },
+        "flowerpot=false": { "model": "cocricotmod:flowerpot_inner_sansevieria_false" }
+    }
+}

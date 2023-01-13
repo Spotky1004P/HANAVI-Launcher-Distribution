@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=east,type=left":  { "model": "cocricotmod:windowframe_triangle_white_left", "y": 90 },
+        "facing=west,type=left":  { "model": "cocricotmod:windowframe_triangle_white_left", "y": 270 },
+        "facing=south,type=left": { "model": "cocricotmod:windowframe_triangle_white_left", "y": 180 },
+        "facing=north,type=left": { "model": "cocricotmod:windowframe_triangle_white_left" },
+        "facing=east,type=both":  { "model": "cocricotmod:windowframe_triangle_white_both", "y": 90 },
+        "facing=west,type=both":  { "model": "cocricotmod:windowframe_triangle_white_both", "y": 270 },
+        "facing=south,type=both": { "model": "cocricotmod:windowframe_triangle_white_both", "y": 180 },
+        "facing=north,type=both": { "model": "cocricotmod:windowframe_triangle_white_both" },
+        "facing=east,type=right":  { "model": "cocricotmod:windowframe_triangle_white_right", "y": 90 },
+        "facing=west,type=right":  { "model": "cocricotmod:windowframe_triangle_white_right", "y": 270 },
+        "facing=south,type=right": { "model": "cocricotmod:windowframe_triangle_white_right", "y": 180 },
+        "facing=north,type=right": { "model": "cocricotmod:windowframe_triangle_white_right" },
+        "facing=east,type=single":  { "model": "cocricotmod:windowframe_triangle_white", "y": 90 },
+        "facing=west,type=single":  { "model": "cocricotmod:windowframe_triangle_white", "y": 270 },
+        "facing=south,type=single": { "model": "cocricotmod:windowframe_triangle_white", "y": 180 },
+        "facing=north,type=single": { "model": "cocricotmod:windowframe_triangle_white" }
+    }
+}

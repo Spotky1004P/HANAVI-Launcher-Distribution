@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "cocricotmod:leaves_cherryblossom_lightpink" },
+            { "model": "cocricotmod:leaves_cherryblossom_lightpink1" },
+            { "model": "cocricotmod:leaves_cherryblossom_lightpink1", "y": 90 },
+            { "model": "cocricotmod:leaves_cherryblossom_lightpink1", "y": 180 }
+        ]
+    }
+}

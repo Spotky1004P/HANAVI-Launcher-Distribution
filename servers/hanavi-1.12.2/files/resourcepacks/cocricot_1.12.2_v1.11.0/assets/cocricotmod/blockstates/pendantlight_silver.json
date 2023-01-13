@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lighting=true": { "model": "cocricotmod:pendantlight_silver" },
+        "lighting=false": { "model": "cocricotmod:pendantlight_silver" }
+    }
+}

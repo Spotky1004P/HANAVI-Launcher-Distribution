@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_bottom",
+    "textures": {
+        "side": "blocks/planks_birch",
+        "bottom": "mcpatcher/ctm/planks_birch_bottom0"
+    }
+}

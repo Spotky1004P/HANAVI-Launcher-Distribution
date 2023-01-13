@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "cocricotmod:awning_darkbrown_slab" },
+        "half=top,variant=default": { "model": "cocricotmod:awning_darkbrown_slab_upper" }
+    }
+}

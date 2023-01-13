@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "cocricotmod:lamppost_black_post" },
+        "facing=down": { "model": "cocricotmod:lamppost_black_post", "x": 180 },
+        "facing=east": { "model": "cocricotmod:lamppost_black_side", "y": 90 },
+        "facing=south": { "model": "cocricotmod:lamppost_black_side", "y": 180 },
+        "facing=west": { "model": "cocricotmod:lamppost_black_side", "y": 270 },
+        "facing=north": { "model": "cocricotmod:lamppost_black_side" }
+    }
+}

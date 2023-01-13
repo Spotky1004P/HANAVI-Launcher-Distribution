@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:chair_dining_vintagefrench_black", "y": 90 },
+        "facing=west": { "model": "cocricotmod:chair_dining_vintagefrench_black", "y": 180 },
+        "facing=north": { "model": "cocricotmod:chair_dining_vintagefrench_black", "y": 270 },
+        "facing=east": { "model": "cocricotmod:chair_dining_vintagefrench_black" }
+    }
+}

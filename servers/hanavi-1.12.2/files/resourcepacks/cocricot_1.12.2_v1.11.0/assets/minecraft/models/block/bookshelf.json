@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "mcpatcher/ctm/planks_brown",
+        "side": "blocks/bookshelf"
+    }
+}

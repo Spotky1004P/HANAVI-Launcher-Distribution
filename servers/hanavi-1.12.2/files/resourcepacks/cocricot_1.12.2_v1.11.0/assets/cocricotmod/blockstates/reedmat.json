@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:reedmat", "y": 180 },
+        "facing=west": { "model": "cocricotmod:reedmat", "y": 270 },
+        "facing=north": { "model": "cocricotmod:reedmat" },
+        "facing=east": { "model": "cocricotmod:reedmat", "y": 90 }
+    }
+}

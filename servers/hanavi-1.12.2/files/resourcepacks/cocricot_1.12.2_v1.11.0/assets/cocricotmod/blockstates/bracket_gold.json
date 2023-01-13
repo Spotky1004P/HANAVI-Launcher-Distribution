@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:bracket_gold", "y": 180 },
+        "facing=west": { "model": "cocricotmod:bracket_gold", "y": 270 },
+        "facing=north": { "model": "cocricotmod:bracket_gold" },
+        "facing=east": { "model": "cocricotmod:bracket_gold", "y": 90 }
+    }
+}

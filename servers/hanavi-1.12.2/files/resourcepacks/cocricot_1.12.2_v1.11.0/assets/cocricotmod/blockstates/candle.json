@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "lighting=true": [
+            { "model": "cocricotmod:candle" },
+            { "model": "cocricotmod:candle1" },
+            { "model": "cocricotmod:candle2" }
+        ],
+        "lighting=false": [
+            { "model": "cocricotmod:candle_false" },
+            { "model": "cocricotmod:candle1_false" },
+            { "model": "cocricotmod:candle2_false" }
+        ]
+    }
+}

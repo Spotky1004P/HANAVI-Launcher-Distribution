@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:woodenbox_tomato" },
+        "facing=west": { "model": "cocricotmod:woodenbox_tomato", "y": 90 },
+        "facing=north": { "model": "cocricotmod:woodenbox_tomato", "y": 180 },
+        "facing=east": { "model": "cocricotmod:woodenbox_tomato", "y": 270 }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "cocricotmod:wood_wainscot_panels_lightgreen_slab" },
+        "half=top,variant=default": { "model": "cocricotmod:wood_wainscot_panels_lightgreen_slab_upper" }
+    }
+}

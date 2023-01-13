@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "cocricotmod:halftimber_darklightyellow_frame_slab" },
+        "half=top,variant=default": { "model": "cocricotmod:halftimber_darklightyellow_frame_slab_upper" }
+    }
+}

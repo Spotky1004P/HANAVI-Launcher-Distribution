@@ -1,0 +1,11 @@
+{
+    "variants": {
+      "normal": [
+          { "model": "allium" },
+          { "model": "allium1" },
+          { "model": "allium2" },
+          { "model": "allium3" },
+          { "model": "allium4" }
+      ]
+    }
+}

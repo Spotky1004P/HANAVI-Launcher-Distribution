@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=south,type=single": { "model": "cocricotmod:bench_turnedleg_white_dark_single" },
+        "facing=south,type=left": { "model": "cocricotmod:bench_turnedleg_white_dark_left" },
+        "facing=south,type=both": { "model": "cocricotmod:bench_turnedleg_white_dark_both" },
+        "facing=south,type=right": { "model": "cocricotmod:bench_turnedleg_white_dark_right" },
+        "facing=east,type=single": { "model": "cocricotmod:bench_turnedleg_white_dark_single", "y": 270 },
+        "facing=east,type=left": { "model": "cocricotmod:bench_turnedleg_white_dark_left", "y": 270 },
+        "facing=east,type=both": { "model": "cocricotmod:bench_turnedleg_white_dark_both", "y": 270 },
+        "facing=east,type=right": { "model": "cocricotmod:bench_turnedleg_white_dark_right", "y": 270 },
+        "facing=north,type=single": { "model": "cocricotmod:bench_turnedleg_white_dark_single", "y": 180 },
+        "facing=north,type=left": { "model": "cocricotmod:bench_turnedleg_white_dark_left", "y": 180 },
+        "facing=north,type=both": { "model": "cocricotmod:bench_turnedleg_white_dark_both", "y": 180 },
+        "facing=north,type=right": { "model": "cocricotmod:bench_turnedleg_white_dark_right", "y": 180 },
+        "facing=west,type=single": { "model": "cocricotmod:bench_turnedleg_white_dark_single", "y": 90 },
+        "facing=west,type=left": { "model": "cocricotmod:bench_turnedleg_white_dark_left", "y": 90 },
+        "facing=west,type=both": { "model": "cocricotmod:bench_turnedleg_white_dark_both", "y": 90 },
+        "facing=west,type=right": { "model": "cocricotmod:bench_turnedleg_white_dark_right", "y": 90 }
+    }
+}

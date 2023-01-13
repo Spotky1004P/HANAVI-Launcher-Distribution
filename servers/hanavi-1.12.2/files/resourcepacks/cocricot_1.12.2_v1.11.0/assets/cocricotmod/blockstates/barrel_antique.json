@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "cocricotmod:barrel_antique" },
+        "facing=down": { "model": "cocricotmod:barrel_antique", "x": 180 },
+        "facing=east": { "model": "cocricotmod:barrel_antique", "y": 90, "x": 90 },
+        "facing=south": { "model": "cocricotmod:barrel_antique", "y": 180, "x": 90 },
+        "facing=west": { "model": "cocricotmod:barrel_antique", "y": 270, "x": 90 },
+        "facing=north": { "model": "cocricotmod:barrel_antique", "y": 0, "x": 90 }
+    }
+}

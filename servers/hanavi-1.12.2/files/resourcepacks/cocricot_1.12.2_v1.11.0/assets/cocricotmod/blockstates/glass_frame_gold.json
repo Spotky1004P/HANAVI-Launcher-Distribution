@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=south,shift=false,vshift=false": { "model": "cocricotmod:glass_frame_gold" },
+        "facing=west,shift=false,vshift=false": { "model": "cocricotmod:glass_frame_gold" },
+        "facing=north,shift=false,vshift=false": { "model": "cocricotmod:glass_frame_gold" },
+        "facing=east,shift=false,vshift=false": { "model": "cocricotmod:glass_frame_gold" },
+        "facing=south,shift=true,vshift=false": { "model": "cocricotmod:glass_frame_gold_shift", "y": 180, "uvlock": true },
+        "facing=west,shift=true,vshift=false": { "model": "cocricotmod:glass_frame_gold_shift", "y": 270, "uvlock": true },
+        "facing=north,shift=true,vshift=false": { "model": "cocricotmod:glass_frame_gold_shift", "uvlock": true },
+        "facing=east,shift=true,vshift=false": { "model": "cocricotmod:glass_frame_gold_shift", "y": 90, "uvlock": true },
+        "facing=south,shift=false,vshift=true": { "model": "cocricotmod:glass_frame_gold_vshift" },
+        "facing=west,shift=false,vshift=true": { "model": "cocricotmod:glass_frame_gold_vshift" },
+        "facing=north,shift=false,vshift=true": { "model": "cocricotmod:glass_frame_gold_vshift" },
+        "facing=east,shift=false,vshift=true": { "model": "cocricotmod:glass_frame_gold_vshift" },
+        "facing=south,shift=true,vshift=true": { "model": "cocricotmod:glass_frame_gold" },
+        "facing=west,shift=true,vshift=true": { "model": "cocricotmod:glass_frame_gold" },
+        "facing=north,shift=true,vshift=true": { "model": "cocricotmod:glass_frame_gold" },
+        "facing=east,shift=true,vshift=true": { "model": "cocricotmod:glass_frame_gold" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "cocricotmod:blocks/door_tall_1glass_seadrift_item"
+    }
+}

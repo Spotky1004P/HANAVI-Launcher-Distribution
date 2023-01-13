@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "flowerpot=true": [
+          { "model": "cocricotmod:flowerpot_inner_monstera" },
+          { "model": "cocricotmod:flowerpot_inner_monstera", "y":90 },
+          { "model": "cocricotmod:flowerpot_inner_monstera", "y":180 },
+          { "model": "cocricotmod:flowerpot_inner_monstera", "y":270 }
+        ],
+        "flowerpot=false": [
+          { "model": "cocricotmod:flowerpot_inner_monstera_false" },
+          { "model": "cocricotmod:flowerpot_inner_monstera_false", "y":90 },
+          { "model": "cocricotmod:flowerpot_inner_monstera_false", "y":180 },
+          { "model": "cocricotmod:flowerpot_inner_monstera_false", "y":270 }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+  		"0": "blocks/nether_brick",
+  		"particle": "blocks/nether_brick"
+  	}
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:hangerrack_iron_black", "y": 180 },
+        "facing=west": { "model": "cocricotmod:hangerrack_iron_black", "y": 270 },
+        "facing=north": { "model": "cocricotmod:hangerrack_iron_black" },
+        "facing=east": { "model": "cocricotmod:hangerrack_iron_black", "y": 90 }
+    }
+}

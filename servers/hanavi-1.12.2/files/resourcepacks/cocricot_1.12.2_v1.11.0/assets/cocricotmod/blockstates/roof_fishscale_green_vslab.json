@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:roof_fishscale_green_vslab" },
+        "facing=west": { "model": "cocricotmod:roof_fishscale_green_vslab", "y": 90 },
+        "facing=north": { "model": "cocricotmod:roof_fishscale_green_vslab", "y": 180 },
+        "facing=east": { "model": "cocricotmod:roof_fishscale_green_vslab", "y": 270 }
+    }
+}

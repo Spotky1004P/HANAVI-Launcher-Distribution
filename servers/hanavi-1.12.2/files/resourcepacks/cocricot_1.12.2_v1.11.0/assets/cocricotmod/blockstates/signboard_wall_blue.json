@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:signboard_wall_blue", "y": 180 },
+        "facing=west": { "model": "cocricotmod:signboard_wall_blue", "y": 270 },
+        "facing=north": { "model": "cocricotmod:signboard_wall_blue" },
+        "facing=east": { "model": "cocricotmod:signboard_wall_blue", "y": 90 }
+    }
+}

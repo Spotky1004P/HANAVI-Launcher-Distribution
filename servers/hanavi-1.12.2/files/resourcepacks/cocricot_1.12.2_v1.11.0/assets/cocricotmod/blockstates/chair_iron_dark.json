@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:chair_iron_dark", "y": 180 },
+        "facing=west": { "model": "cocricotmod:chair_iron_dark", "y": 270 },
+        "facing=north": { "model": "cocricotmod:chair_iron_dark" },
+        "facing=east": { "model": "cocricotmod:chair_iron_dark", "y": 90 }
+    }
+}

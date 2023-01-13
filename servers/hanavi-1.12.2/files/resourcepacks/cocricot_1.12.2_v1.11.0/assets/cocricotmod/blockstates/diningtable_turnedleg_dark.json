@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "east=false,north=false,south=false,west=false": { "model": "cocricotmod:diningtable_turnedleg_dark", "uvlock": true },
+        "east=false,north=true,south=false,west=false": { "model": "cocricotmod:diningtable_turnedleg_dark_side", "y": 270, "uvlock": true },
+        "east=true,north=false,south=false,west=false": { "model": "cocricotmod:diningtable_turnedleg_dark_side", "uvlock": true },
+        "east=false,north=false,south=true,west=false": { "model": "cocricotmod:diningtable_turnedleg_dark_side", "y": 90, "uvlock": true },
+        "east=false,north=false,south=false,west=true": { "model": "cocricotmod:diningtable_turnedleg_dark_side", "y": 180, "uvlock": true },
+        "east=true,north=true,south=false,west=false": { "model": "cocricotmod:diningtable_turnedleg_dark_corner", "y": 180, "uvlock": true },
+        "east=true,north=false,south=true,west=false": { "model": "cocricotmod:diningtable_turnedleg_dark_corner", "y": 270, "uvlock": true },
+        "east=false,north=false,south=true,west=true": { "model": "cocricotmod:diningtable_turnedleg_dark_corner", "uvlock": true },
+        "east=false,north=true,south=false,west=true": { "model": "cocricotmod:diningtable_turnedleg_dark_corner", "y": 90, "uvlock": true },
+        "east=false,north=true,south=true,west=false": { "model": "cocricotmod:diningtable_turnedleg_dark_both", "y": 90, "uvlock": true },
+        "east=true,north=false,south=false,west=true": { "model": "cocricotmod:diningtable_turnedleg_dark_both", "uvlock": true },
+        "east=true,north=true,south=true,west=false": { "model": "cocricotmod:diningtable_turnedleg_dark_three", "y": 270, "uvlock": true },
+        "east=true,north=false,south=true,west=true": { "model": "cocricotmod:diningtable_turnedleg_dark_three", "uvlock": true },
+        "east=false,north=true,south=true,west=true": { "model": "cocricotmod:diningtable_turnedleg_dark_three", "y": 90, "uvlock": true },
+        "east=true,north=true,south=false,west=true": { "model": "cocricotmod:diningtable_turnedleg_dark_three", "y": 180, "uvlock": true },
+        "east=true,north=true,south=true,west=true": { "model": "cocricotmod:diningtable_turnedleg_dark_all", "uvlock": true }
+    }
+}

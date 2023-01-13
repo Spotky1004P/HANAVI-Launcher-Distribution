@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:cabinet_glass_color_red", "y": 180, "uvlock": true },
+        "facing=west": { "model": "cocricotmod:cabinet_glass_color_red", "y": 270, "uvlock": true },
+        "facing=north": { "model": "cocricotmod:cabinet_glass_color_red", "uvlock": true },
+        "facing=east": { "model": "cocricotmod:cabinet_glass_color_red", "y": 90, "uvlock": true }
+    }
+}

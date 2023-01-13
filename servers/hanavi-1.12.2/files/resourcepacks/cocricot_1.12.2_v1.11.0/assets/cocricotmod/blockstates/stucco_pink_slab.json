@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "cocricotmod:stucco_pink_slab" },
+        "half=top,variant=default": { "model": "cocricotmod:stucco_pink_slab_upper" }
+    }
+}

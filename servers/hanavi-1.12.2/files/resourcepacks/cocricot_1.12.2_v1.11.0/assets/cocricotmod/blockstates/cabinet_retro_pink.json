@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:cabinet_retro_pink", "y": 180 },
+        "facing=west": { "model": "cocricotmod:cabinet_retro_pink", "y": 270 },
+        "facing=north": { "model": "cocricotmod:cabinet_retro_pink" },
+        "facing=east": { "model": "cocricotmod:cabinet_retro_pink", "y": 90 }
+    }
+}

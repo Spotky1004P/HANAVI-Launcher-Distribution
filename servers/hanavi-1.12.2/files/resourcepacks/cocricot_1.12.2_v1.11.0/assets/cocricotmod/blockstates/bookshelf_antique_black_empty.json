@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:bookshelf_antique_black_empty" },
+        "facing=west": { "model": "cocricotmod:bookshelf_antique_black_empty", "y": 90 },
+        "facing=north": { "model": "cocricotmod:bookshelf_antique_black_empty" },
+        "facing=east": { "model": "cocricotmod:bookshelf_antique_black_empty", "y": 90 }
+    }
+}

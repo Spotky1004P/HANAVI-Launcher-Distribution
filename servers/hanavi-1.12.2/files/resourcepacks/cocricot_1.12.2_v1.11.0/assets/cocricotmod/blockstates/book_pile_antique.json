@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "double=false": { "model": "cocricotmod:book_pile_antique" },
+        "double=true": { "model": "cocricotmod:book_pile_antique_double" }
+    }
+}

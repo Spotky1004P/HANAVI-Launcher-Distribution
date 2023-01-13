@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "flowerpot=true": { "model": "cocricotmod:flowerpot_inner_dypsislutescens" },
+        "flowerpot=false": { "model": "cocricotmod:flowerpot_inner_dypsislutescens_false" }
+    }
+}

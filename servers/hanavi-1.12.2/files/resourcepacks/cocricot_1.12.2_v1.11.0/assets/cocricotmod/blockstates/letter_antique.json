@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "cocricotmod:letter_antique" },
+          { "model": "cocricotmod:letter_antique1" }
+        ]
+    }
+}

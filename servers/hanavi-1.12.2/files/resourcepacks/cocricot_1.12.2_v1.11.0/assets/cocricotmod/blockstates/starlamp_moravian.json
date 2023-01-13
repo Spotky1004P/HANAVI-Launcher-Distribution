@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lighting=true": { "model": "cocricotmod:starlamp_moravian" },
+        "lighting=false": { "model": "cocricotmod:starlamp_moravian" }
+    }
+}

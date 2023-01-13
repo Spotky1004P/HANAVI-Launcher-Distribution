@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "cocricotmod:bookshelf_antique_seadrift_full_slab" },
+        "half=top,variant=default": { "model": "cocricotmod:bookshelf_antique_seadrift_full_slab_upper" }
+    }
+}

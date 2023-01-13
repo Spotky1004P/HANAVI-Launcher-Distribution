@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_inventory",
+    "textures": {
+  		"0": "blocks/fence_birch",
+  		"particle": "blocks/log_birch"
+  	}
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=south,lighting=true": { "model": "cocricotmod:desklamp_red", "y": 90 },
+        "facing=west,lighting=true": { "model": "cocricotmod:desklamp_red", "y": 180 },
+        "facing=north,lighting=true": { "model": "cocricotmod:desklamp_red", "y": 270 },
+        "facing=east,lighting=true": { "model": "cocricotmod:desklamp_red" },
+        "facing=south,lighting=false": { "model": "cocricotmod:desklamp_red", "y": 90 },
+        "facing=west,lighting=false": { "model": "cocricotmod:desklamp_red", "y": 180 },
+        "facing=north,lighting=false": { "model": "cocricotmod:desklamp_red", "y": 270 },
+        "facing=east,lighting=false": { "model": "cocricotmod:desklamp_red" }
+    }
+}

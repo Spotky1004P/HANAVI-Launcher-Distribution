@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=default": { "model": "cocricotmod:awning_gray_block" }
+    }
+}

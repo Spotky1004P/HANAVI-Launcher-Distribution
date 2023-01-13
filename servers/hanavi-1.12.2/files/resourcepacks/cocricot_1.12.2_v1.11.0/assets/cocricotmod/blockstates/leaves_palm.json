@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:leaves_palm" },
+        "facing=west": { "model": "cocricotmod:leaves_palm", "y": 90 },
+        "facing=north": { "model": "cocricotmod:leaves_palm", "y": 180 },
+        "facing=east": { "model": "cocricotmod:leaves_palm", "y": 270 }
+    }
+}

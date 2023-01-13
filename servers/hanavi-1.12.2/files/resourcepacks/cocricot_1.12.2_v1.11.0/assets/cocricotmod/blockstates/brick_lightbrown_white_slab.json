@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "cocricotmod:brick_lightbrown_white_slab" },
+        "half=top,variant=default": { "model": "cocricotmod:brick_lightbrown_white_slab_upper" }
+    }
+}

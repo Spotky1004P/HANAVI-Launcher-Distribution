@@ -1,0 +1,7 @@
+{
+    "parent": "cocricotmod:block/drooping_rose",
+    "textures": {
+        "texture1": "cocricotmod:blocks/climbing_rose_black"
+    }
+}
+\

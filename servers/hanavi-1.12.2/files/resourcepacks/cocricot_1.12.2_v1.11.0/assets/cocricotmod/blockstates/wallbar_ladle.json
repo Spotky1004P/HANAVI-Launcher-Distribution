@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:wallbar_ladle", "y": 180 },
+        "facing=west": { "model": "cocricotmod:wallbar_ladle", "y": 270 },
+        "facing=north": { "model": "cocricotmod:wallbar_ladle" },
+        "facing=east": { "model": "cocricotmod:wallbar_ladle", "y": 90 }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:range_retro_blue", "y": 180 },
+        "facing=west": { "model": "cocricotmod:range_retro_blue", "y": 270 },
+        "facing=north": { "model": "cocricotmod:range_retro_blue" },
+        "facing=east": { "model": "cocricotmod:range_retro_blue", "y": 90 }
+    }
+}

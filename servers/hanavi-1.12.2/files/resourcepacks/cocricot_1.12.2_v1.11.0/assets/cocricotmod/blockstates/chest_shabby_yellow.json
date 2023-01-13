@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:chest_shabby_yellow", "y": 180, "uvlock": true },
+        "facing=west": { "model": "cocricotmod:chest_shabby_yellow", "y": 270, "uvlock": true },
+        "facing=north": { "model": "cocricotmod:chest_shabby_yellow", "uvlock": true },
+        "facing=east": { "model": "cocricotmod:chest_shabby_yellow", "y": 90, "uvlock": true }
+    }
+}

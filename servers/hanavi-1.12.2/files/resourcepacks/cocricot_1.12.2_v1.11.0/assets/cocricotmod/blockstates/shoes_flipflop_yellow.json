@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "carpet=false,facing=south": { "model": "cocricotmod:shoes_flipflop_yellow", "y": 180 },
+        "carpet=false,facing=west": { "model": "cocricotmod:shoes_flipflop_yellow", "y": 270 },
+        "carpet=false,facing=north": { "model": "cocricotmod:shoes_flipflop_yellow" },
+        "carpet=false,facing=east": { "model": "cocricotmod:shoes_flipflop_yellow", "y": 90 },
+        "carpet=true,facing=south": { "model": "cocricotmod:shoes_flipflop_yellow_true", "y": 180 },
+        "carpet=true,facing=west": { "model": "cocricotmod:shoes_flipflop_yellow_true", "y": 270 },
+        "carpet=true,facing=north": { "model": "cocricotmod:shoes_flipflop_yellow_true" },
+        "carpet=true,facing=east": { "model": "cocricotmod:shoes_flipflop_yellow_true", "y": 90 }
+    }
+}

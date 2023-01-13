@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:stone_bushrock_whitejoint_arch", "y": 270 },
+        "facing=west": { "model": "cocricotmod:stone_bushrock_whitejoint_arch" },
+        "facing=north": { "model": "cocricotmod:stone_bushrock_whitejoint_arch", "y": 90 },
+        "facing=east": { "model": "cocricotmod:stone_bushrock_whitejoint_arch", "y": 180 }
+    }
+}

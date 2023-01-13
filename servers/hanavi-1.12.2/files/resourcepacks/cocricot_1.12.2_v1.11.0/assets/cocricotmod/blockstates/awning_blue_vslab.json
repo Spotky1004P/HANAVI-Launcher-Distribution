@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:awning_blue_vslab", "uvlock":true },
+        "facing=west": { "model": "cocricotmod:awning_blue_vslab", "y": 90, "uvlock":true },
+        "facing=north": { "model": "cocricotmod:awning_blue_vslab", "y": 180, "uvlock":true },
+        "facing=east": { "model": "cocricotmod:awning_blue_vslab", "y": 270, "uvlock":true  }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+        { "model": "cocricotmod:shell" },
+        { "model": "cocricotmod:shell", "y":90 },
+        { "model": "cocricotmod:shell", "y":180 },
+        { "model": "cocricotmod:shell", "y":270 }]
+    }
+}

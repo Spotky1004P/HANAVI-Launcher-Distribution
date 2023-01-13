@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:shutter_cross_red", "y": 180 },
+        "facing=west": { "model": "cocricotmod:shutter_cross_red", "y": 270 },
+        "facing=north": { "model": "cocricotmod:shutter_cross_red" },
+        "facing=east": { "model": "cocricotmod:shutter_cross_red", "y": 90 }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "east=false,north=false,south=false,west=false": { "model": "cocricotmod:diningtable_turnedleg_shabby", "uvlock": true },
+        "east=false,north=true,south=false,west=false": { "model": "cocricotmod:diningtable_turnedleg_shabby_side", "y": 270, "uvlock": true },
+        "east=true,north=false,south=false,west=false": { "model": "cocricotmod:diningtable_turnedleg_shabby_side", "uvlock": true },
+        "east=false,north=false,south=true,west=false": { "model": "cocricotmod:diningtable_turnedleg_shabby_side", "y": 90, "uvlock": true },
+        "east=false,north=false,south=false,west=true": { "model": "cocricotmod:diningtable_turnedleg_shabby_side", "y": 180, "uvlock": true },
+        "east=true,north=true,south=false,west=false": { "model": "cocricotmod:diningtable_turnedleg_shabby_corner", "y": 180, "uvlock": true },
+        "east=true,north=false,south=true,west=false": { "model": "cocricotmod:diningtable_turnedleg_shabby_corner", "y": 270, "uvlock": true },
+        "east=false,north=false,south=true,west=true": { "model": "cocricotmod:diningtable_turnedleg_shabby_corner", "uvlock": true },
+        "east=false,north=true,south=false,west=true": { "model": "cocricotmod:diningtable_turnedleg_shabby_corner", "y": 90, "uvlock": true },
+        "east=false,north=true,south=true,west=false": { "model": "cocricotmod:diningtable_turnedleg_shabby_both", "y": 90, "uvlock": true },
+        "east=true,north=false,south=false,west=true": { "model": "cocricotmod:diningtable_turnedleg_shabby_both", "uvlock": true },
+        "east=true,north=true,south=true,west=false": { "model": "cocricotmod:diningtable_turnedleg_shabby_three", "y": 270, "uvlock": true },
+        "east=true,north=false,south=true,west=true": { "model": "cocricotmod:diningtable_turnedleg_shabby_three", "uvlock": true },
+        "east=false,north=true,south=true,west=true": { "model": "cocricotmod:diningtable_turnedleg_shabby_three", "y": 90, "uvlock": true },
+        "east=true,north=true,south=false,west=true": { "model": "cocricotmod:diningtable_turnedleg_shabby_three", "y": 180, "uvlock": true },
+        "east=true,north=true,south=true,west=true": { "model": "cocricotmod:diningtable_turnedleg_shabby_all", "uvlock": true }
+    }
+}

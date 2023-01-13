@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:wallshelf_jar", "y": 180 },
+        "facing=west": { "model": "cocricotmod:wallshelf_jar", "y": 270 },
+        "facing=north": { "model": "cocricotmod:wallshelf_jar" },
+        "facing=east": { "model": "cocricotmod:wallshelf_jar", "y": 90 }
+    }
+}

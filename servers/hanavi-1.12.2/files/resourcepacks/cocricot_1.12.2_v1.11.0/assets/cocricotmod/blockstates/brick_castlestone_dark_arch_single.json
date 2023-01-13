@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:brick_castlestone_dark_arch_single", "y": 180 },
+        "facing=west": { "model": "cocricotmod:brick_castlestone_dark_arch_single", "y": 270 },
+        "facing=north": { "model": "cocricotmod:brick_castlestone_dark_arch_single" },
+        "facing=east": { "model": "cocricotmod:brick_castlestone_dark_arch_single", "y": 90 }
+    }
+}

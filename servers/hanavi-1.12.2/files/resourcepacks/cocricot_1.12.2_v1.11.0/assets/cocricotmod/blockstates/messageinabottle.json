@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+        { "model": "cocricotmod:messageinabottle" },
+        { "model": "cocricotmod:messageinabottle", "y":90 },
+        { "model": "cocricotmod:messageinabottle", "y":180 },
+        { "model": "cocricotmod:messageinabottle", "y":270 }]
+    }
+}

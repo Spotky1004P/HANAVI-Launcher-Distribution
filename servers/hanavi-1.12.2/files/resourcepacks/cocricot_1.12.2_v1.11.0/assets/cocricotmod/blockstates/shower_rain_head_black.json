@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "cocricotmod:shower_rain_head_black", "y": 180 },
+        "facing=west": { "model": "cocricotmod:shower_rain_head_black", "y": 270 },
+        "facing=north": { "model": "cocricotmod:shower_rain_head_black" },
+        "facing=east": { "model": "cocricotmod:shower_rain_head_black", "y": 90 }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "facing=south": [
+          { "model": "cocricotmod:walldecor_paper_antique", "y": 180 },
+          { "model": "cocricotmod:walldecor_paper_antique1", "y": 180 },
+          { "model": "cocricotmod:walldecor_paper_antique2", "y": 180 },
+          { "model": "cocricotmod:walldecor_paper_antique3", "y": 180 }
+        ],
+        "facing=west": [
+          { "model": "cocricotmod:walldecor_paper_antique", "y": 270 },
+          { "model": "cocricotmod:walldecor_paper_antique1", "y": 270 },
+          { "model": "cocricotmod:walldecor_paper_antique2", "y": 270 },
+          { "model": "cocricotmod:walldecor_paper_antique3", "y": 270 }
+        ],
+        "facing=north": [
+          { "model": "cocricotmod:walldecor_paper_antique" },
+          { "model": "cocricotmod:walldecor_paper_antique1" },
+          { "model": "cocricotmod:walldecor_paper_antique2" },
+          { "model": "cocricotmod:walldecor_paper_antique3" }
+        ],
+        "facing=east": [
+          { "model": "cocricotmod:walldecor_paper_antique", "y": 90 },
+          { "model": "cocricotmod:walldecor_paper_antique1", "y": 90 },
+          { "model": "cocricotmod:walldecor_paper_antique2", "y": 90 },
+          { "model": "cocricotmod:walldecor_paper_antique3", "y": 90 }
+        ]
+    }
+}
