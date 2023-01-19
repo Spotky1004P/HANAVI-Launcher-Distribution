@@ -1,6 +1,0 @@
-{
-    "parent": "block/door_small_top_rh",
-    "textures": {
-        "texture": "blocks/door_iron"
-    }
-}

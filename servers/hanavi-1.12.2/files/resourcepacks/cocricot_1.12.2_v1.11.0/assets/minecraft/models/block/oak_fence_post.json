@@ -1,7 +1,0 @@
-{
-    "parent": "block/fence_post",
-    "textures": {
-  		"0": "blocks/fence_oak",
-  		"particle": "blocks/log_oak"
-  	}
-}

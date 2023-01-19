@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_bottom",
-    "textures": {
-        "side": "blocks/planks_oak",
-        "bottom": "mcpatcher/ctm/planks_oak_bottom0"
-    }
-}
