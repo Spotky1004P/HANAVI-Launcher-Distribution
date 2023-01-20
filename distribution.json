@@ -2,25 +2,25 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1049242271729594398",
+    "smallImageText": "하나비 서버",
+    "smallImageKey": "logo"
   },
   "servers": [
     {
       "id": "hanavi-1.12.2",
       "name": "hanavi (Minecraft 1.12.2)",
       "description": "hanavi Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Spotky1004P/HANAVI-Launcher/main/app/assets/images/custom/logo.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "hanavi.kro.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "1.12.2 / hanavi.kro.kr",
+        "largeImageText": "1.12.2 / hanavi.kro.kr",
+        "largeImageKey": "logo"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
